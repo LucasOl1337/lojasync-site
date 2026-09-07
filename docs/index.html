@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#faf9f5">
+  <meta name="description" content="Conheça o LojaSync: importe romaneios, revise produtos e organize grades em um catálogo local, antes do cadastro no Byte Empresa. Veja a demonstração real.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:title" content="LojaSync — Do romaneio ao catálogo. Tudo em ordem.">
+  <meta property="og:description" content="Uma bancada para preparar os produtos da loja. Importação, revisão e grades, em um fluxo que você acompanha.">
+  <meta property="og:image" content="https://lucasol1337.github.io/lojasync-site/media/poster.jpg">
+  <meta property="og:url" content="https://lucasol1337.github.io/lojasync-site/">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://lucasol1337.github.io/lojasync-site/">
+  <title>LojaSync — Do romaneio ao catálogo. Tudo em ordem.</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect x='16' y='16' width='480' height='480' rx='112' fill='%23f2f3f3'/%3E%3Cpath d='M292 88H404A20 20 0 0 1 424 108V220L216 428A28 28 0 0 1 176 428L84 336A28 28 0 0 1 84 296Z' fill='%23f0500a'/%3E%3Cpath d='M216 428A28 28 0 0 1 176 428L84 336A28 28 0 0 1 84 296L124 256L256 388Z' fill='%2316181a'/%3E%3Cpath d='M136 244L268 376' stroke='%23f2f3f3' stroke-width='16'/%3E%3Ccircle cx='372' cy='140' r='30' fill='%23f2f3f3'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <style>
+    :root{--paper:#faf9f5;--paper-alt:#f0eee6;--white:#fff;--ink:#262624;--muted:#666460;--line:#dedbd2;--accent:#a33608;--coral:#f0500a;--dark:#16181a;--dark-muted:#c9c6bc;--serif:"Instrument Serif",Georgia,serif;--sans:"DM Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    *,*::before,*::after{box-sizing:border-box}
+    html{scroll-behavior:smooth;scroll-padding-top:32px}
+    body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.65;-webkit-font-smoothing:antialiased}
+    a{color:inherit;text-decoration:none}button,video{font:inherit}button,a{-webkit-tap-highlight-color:transparent}a:focus-visible,button:focus-visible,summary:focus-visible,video:focus-visible{outline:3px solid var(--accent);outline-offset:5px}
+    img,video{display:block;max-width:100%;height:auto}svg{display:block}::selection{background:#e8b49f;color:var(--dark)}
+    h1,h2,h3,p,figure{margin:0}h1,h2,h3{text-wrap:balance}p{text-wrap:pretty}h1,h2{font-family:var(--serif);font-weight:400;line-height:1.02;letter-spacing:-.035em}h2{font-size:clamp(42px,5.2vw,66px)}h3{font-weight:500;letter-spacing:-.035em;line-height:1.2}
+    .wrap{width:min(1184px,calc(100% - 80px));margin-inline:auto}.eyebrow{font-size:11px;line-height:1.4;font-weight:700;text-transform:uppercase;letter-spacing:.16em;color:var(--accent)}.section-intro{max-width:620px}.section-intro .eyebrow{margin-bottom:22px}.section-intro>p:last-child{margin-top:24px;color:var(--muted);max-width:510px}
+    .skip{position:absolute;left:24px;top:-80px;z-index:10;padding:10px 18px;background:var(--dark);color:var(--paper)}.skip:focus{top:14px}
+    .topbar{height:94px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:24px}.brand{display:inline-flex;align-items:center;gap:10px;font-size:22px;font-weight:700;letter-spacing:-1px}.brand svg{width:38px;height:38px}.brand span:last-child{font-weight:400}.nav{display:flex;gap:32px;align-items:center;font-size:13px}.nav a{transition:color .15s}.nav a:hover{color:var(--accent)}.nav-install{padding:9px 15px;border:1px solid var(--line);border-radius:5px}.nav-install:hover{border-color:var(--accent)}
+    .hero{text-align:center;padding-top:79px}.hero .eyebrow{display:flex;align-items:center;justify-content:center;gap:9px}.tiny-square{width:6px;height:6px;background:var(--accent)}.hero h1{font-size:clamp(62px,8.6vw,110px);max-width:1040px;margin:23px auto 24px}.hero h1 em{font-weight:400;color:var(--accent)}.hero-copy{max-width:610px;color:var(--muted);font-size:18px;line-height:1.7;margin-inline:auto}.hero-actions{display:flex;justify-content:center;align-items:center;gap:12px;margin:30px 0 38px}.button{display:inline-flex;justify-content:center;align-items:center;gap:11px;min-height:48px;padding:12px 22px;border:1px solid transparent;border-radius:5px;font-size:13px;font-weight:600;line-height:1.5;transition:background .15s,transform .15s}.button:hover{transform:translateY(-2px)}.button svg{width:15px;height:15px}.button-primary{background:var(--dark);color:var(--paper)}.button-primary:hover{background:var(--accent)}.button-secondary{border-color:var(--line);background:transparent}.button-secondary:hover{background:var(--paper-alt)}
+    .demo{background:var(--dark);padding:12px;border-radius:12px;box-shadow:0 18px 50px -30px #46352265;scroll-margin-top:24px;text-align:left}.demo-top{height:36px;display:flex;align-items:center;justify-content:space-between;gap:14px;padding:0 9px 10px;color:var(--dark-muted);font-size:11px}.demo-top span{display:flex;align-items:center;gap:8px}.status-dot{width:6px;height:6px;border-radius:50%;background:#b6c2a1}.demo-top .demo-label{color:#aaa69c;font-size:9px;letter-spacing:.13em;text-transform:uppercase}.demo video{width:100%;aspect-ratio:16/9;object-fit:contain;background:#262624;border-radius:5px}.demo-caption{display:flex;justify-content:space-between;gap:20px;color:var(--muted);font-size:11px;text-align:left;margin:14px 3px 0}.demo-caption a{text-decoration:underline;text-underline-offset:3px}
+    .pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:46px;padding:80px 0 82px;border-bottom:1px solid var(--line)}.pillar{position:relative}.pillar+.pillar{border-left:1px solid var(--line);padding-left:42px}.pillar-icon{width:28px;height:28px;margin-bottom:24px;color:var(--accent)}.pillar h3{font-size:20px;margin-bottom:12px}.pillar p{font-size:14px;line-height:1.8;color:var(--muted)}
+    .workflow{padding:96px 0 86px}.workflow-heading{display:flex;align-items:flex-end;justify-content:space-between;gap:32px}.workflow-heading>p{width:290px;max-width:100%;color:var(--muted);font-size:14px;padding-bottom:5px}.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:28px;margin-top:54px}.step{border-top:1px solid var(--line);padding-top:21px}.step-num{font-family:var(--serif);font-size:27px;line-height:1;color:var(--accent);display:block;margin-bottom:29px}.step h3{font-size:18px;margin-bottom:10px}.step p{font-size:13px;color:var(--muted);line-height:1.85;max-width:230px}
+    .tour{padding:88px 0 40px;background:var(--paper-alt);border-block:1px solid var(--line)}.tour-header{display:flex;align-items:flex-end;justify-content:space-between;gap:24px;margin-bottom:65px}.tour-note{max-width:210px;color:var(--muted);font-size:12px;line-height:1.8}.tour-note span{display:block;width:26px;height:1px;background:var(--accent);margin-bottom:14px}.screen{display:grid;grid-template-columns:.9fr 1.8fr;gap:60px;align-items:center;padding-bottom:76px}.screen+.screen{padding-top:12px}.screen:nth-of-type(even){grid-template-columns:1.8fr .9fr}.screen:nth-of-type(even) .screen-copy{order:2}.screen-copy .eyebrow{font-size:10px;letter-spacing:.12em;margin-bottom:17px}.screen h3{font-family:var(--serif);font-size:43px;line-height:1.05;font-weight:400;margin-bottom:20px}.screen-copy>p{font-size:14px;line-height:1.85;color:var(--muted)}.screen-detail{display:flex;align-items:flex-start;gap:9px;font-size:11px;line-height:1.7;margin-top:23px;padding-top:18px;border-top:1px solid #d8d4c9;color:#56534d}.screen-detail svg{width:14px;height:14px;flex:none;margin-top:2px;color:var(--accent)}.screen-figure{min-width:0}.screen-link{display:block;border:1px solid #cfcbbe;border-radius:7px;padding:7px;background:#e4e0d5;box-shadow:0 14px 28px -22px #46352270;transition:transform .2s}.screen-link:hover{transform:translateY(-3px)}.screen-link img{width:100%;border-radius:3px;aspect-ratio:16/10;object-fit:contain;background:#faf9f5}.screen-figure figcaption{display:flex;justify-content:space-between;align-items:center;gap:16px;color:#777167;font-size:10px;margin:9px 4px 0}.screen-figure figcaption span:last-child{white-space:nowrap}
+    .measured{padding:77px 0 78px}.measured-head{display:flex;justify-content:space-between;gap:32px;align-items:flex-end}.measured h2{font-size:48px}.measured-head>p{max-width:340px;color:var(--muted);font-size:13px;line-height:1.8}.metrics{display:grid;grid-template-columns:repeat(3,1fr);margin-top:39px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.metric{padding:29px 0 25px}.metric+.metric{padding-left:38px;border-left:1px solid var(--line)}.metric strong{display:block;font-family:var(--serif);font-weight:400;font-size:62px;line-height:1.1;letter-spacing:-.05em}.metric small{display:block;margin-top:9px;font-size:12px;color:var(--muted)}.measurement-note{margin-top:15px;font-size:10px;line-height:1.8;color:var(--muted)}
+    .comparison{padding:90px 0;background:var(--dark);color:var(--paper)}.comparison .eyebrow{color:#ffa47a}.comparison-head{display:grid;grid-template-columns:1fr 1fr;gap:90px;align-items:end;margin-bottom:41px}.comparison-head>p{font-size:14px;color:var(--dark-muted);line-height:1.85}.table-scroll{overflow-x:auto}.table-hint{display:none}table{border-collapse:collapse;width:100%;min-width:580px;text-align:left;font-size:13px}th,td{padding:21px 23px;border-bottom:1px solid #46433e;vertical-align:top}thead th{font-size:15px;font-weight:500;border-top:1px solid #46433e;padding-top:24px;padding-bottom:24px}thead th:first-child{width:28%;font-size:10px;text-transform:uppercase;letter-spacing:.12em;color:#a8a49b}tbody th{font-weight:400;color:#c9c6bc}thead th:nth-child(2),tbody td:nth-child(2){background:#262729}tbody td{color:#e5e1d7;width:36%}.comparison-source{margin-top:18px;color:#b5afa3;font-size:10px;line-height:1.9}.comparison-source a{text-decoration:underline;text-underline-offset:3px}
+    .install{padding:98px 0 83px;display:grid;grid-template-columns:1fr 1fr;gap:110px}.install h2{margin-bottom:25px}.install .section-intro>p:last-child{font-size:15px;margin-top:0}.install .access{font-size:11px;margin-top:24px;color:var(--muted);display:flex;align-items:center;gap:8px}.access svg{width:13px;height:13px}.install-steps{list-style:none;padding:0;margin:4px 0 0;counter-reset:install}.install-steps li{position:relative;padding:0 0 27px 42px;counter-increment:install}.install-steps li+li{padding-top:26px;border-top:1px solid var(--line)}.install-steps li::before{content:counter(install);position:absolute;left:0;top:0;font-size:12px;color:var(--accent);border:1px solid #d9c8ba;width:25px;height:25px;border-radius:50%;text-align:center;line-height:23px}.install-steps li+li::before{top:26px}.install-steps h3{font-size:17px;margin:2px 0 9px}.install-steps p{font-size:13px;line-height:1.85;color:var(--muted)}code{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:.92em;color:var(--ink);background:var(--paper-alt);border:1px solid var(--line);padding:2px 5px;border-radius:3px;box-decoration-break:clone;-webkit-box-decoration-break:clone}.install-steps .button{margin-top:16px;min-height:40px;font-size:11px;padding:8px 13px}.requirements{padding:24px 27px;border:1px solid var(--line);border-radius:6px;margin-top:28px}.requirements h3{font-size:13px;margin-bottom:8px}.requirements p{font-size:12px;line-height:1.85;color:var(--muted)}
+    .closing{border-top:1px solid var(--line);padding:51px 0 53px;display:flex;justify-content:space-between;gap:35px;align-items:center}.closing p{font-family:var(--serif);font-size:40px;line-height:1.12;letter-spacing:-.025em}.closing p em{color:var(--accent);font-weight:400}.closing .button{flex-shrink:0}
+    footer{background:var(--paper-alt);border-top:1px solid var(--line)}.footer-main{display:flex;justify-content:space-between;align-items:center;gap:32px;padding:31px 0}.footer-main .brand{font-size:18px}.footer-main .brand svg{width:30px;height:30px}.footer-main>p{color:var(--muted);font-size:11px}.footer-links{display:flex;gap:25px;align-items:center;font-size:11px;color:var(--muted)}.footer-links a:hover{text-decoration:underline;text-underline-offset:3px}.sources{font-size:11px;color:var(--muted);border-top:1px solid var(--line);padding:17px 0 23px}.sources summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:20px}.sources summary::-webkit-details-marker{display:none}.sources summary::after{content:"+";font-size:17px;font-weight:400}.sources[open] summary::after{content:"−"}.sources ul{padding-left:18px;margin:17px 0 13px;max-width:980px}.sources li+li{margin-top:7px}.sources a{text-decoration:underline;text-underline-offset:3px}.sources>p{max-width:900px}
+    @media(min-width:1600px){.wrap{width:min(1280px,calc(100% - 120px))}.hero{padding-top:88px}.hero h1{font-size:116px}.screen{gap:80px}.screen h3{font-size:47px}}
+    @media(max-width:1000px){.wrap{width:calc(100% - 48px)}.topbar{height:82px}.nav{gap:22px}.hero{padding-top:65px}.hero h1{font-size:84px}.pillars{gap:25px}.pillar+.pillar{padding-left:25px}.workflow{padding-block:75px}.steps{gap:20px}.screen{gap:30px;grid-template-columns:.9fr 1.6fr}.screen:nth-of-type(even){grid-template-columns:1.6fr .9fr}.screen h3{font-size:36px}.screen-copy>p{font-size:13px}.screen-detail{font-size:10px}.comparison-head{gap:50px}.install{gap:55px}.closing p{font-size:34px}}
+    @media(max-width:700px){.wrap{width:calc(100% - 36px)}.topbar{height:76px}.brand{font-size:21px}.brand svg{width:34px;height:34px}.nav{gap:0}.nav>a:not(.nav-install){display:none}.nav-install{font-size:11px;padding:8px 11px}.hero{padding-top:49px}.hero .eyebrow{font-size:9px;letter-spacing:.11em}.hero h1{font-size:clamp(53px,12.5vw,82px);line-height:1.01;margin-block:23px}.hero-copy{font-size:15px;line-height:1.8;max-width:430px}.hero-actions{gap:8px;margin:25px 0 30px}.button{padding:11px 14px;min-height:46px;font-size:11px}.demo{padding:6px;border-radius:7px}.demo-top{height:30px;padding:0 6px 6px;font-size:9px}.demo-top .demo-label{font-size:7px;letter-spacing:.06em}.demo-caption{font-size:9px;gap:12px;margin-top:10px}.demo-caption>span{max-width:235px}.pillars{grid-template-columns:1fr;gap:25px;padding-block:48px}.pillar{display:grid;grid-template-columns:30px 1fr;column-gap:17px}.pillar-icon{grid-column:1;grid-row:1/3;width:24px;margin-top:2px}.pillar h3{grid-column:2;margin-bottom:8px;font-size:19px}.pillar p{grid-column:2;font-size:13px}.pillar+.pillar{border-left:0;padding-left:0;border-top:1px solid var(--line);padding-top:24px}.workflow{padding:56px 0}.workflow-heading{display:block}.workflow-heading>p{width:auto;max-width:420px;margin-top:22px}.section-intro .eyebrow{margin-bottom:17px}h2{font-size:45px}.steps{grid-template-columns:1fr 1fr;gap:28px 23px;margin-top:34px}.step{padding-top:17px}.step-num{margin-bottom:20px;font-size:24px}.step h3{font-size:16px}.step p{font-size:12px}.tour{padding-top:54px;padding-bottom:2px}.tour-header{display:block;margin-bottom:40px}.tour-note{max-width:100%;font-size:11px;margin-top:20px}.tour-note span{display:none}.screen,.screen:nth-of-type(even){display:flex;flex-direction:column;gap:25px;align-items:stretch;padding-bottom:46px}.screen+.screen{padding-top:22px;border-top:1px solid #d8d4c9}.screen:nth-of-type(even) .screen-copy{order:0}.screen h3{font-size:39px;max-width:320px;margin-bottom:14px}.screen-copy .eyebrow{margin-bottom:14px}.screen-copy>p{font-size:13px;max-width:500px}.screen-detail{margin-top:16px;padding-top:13px;font-size:11px}.screen-link{padding:4px}.screen-figure figcaption{font-size:9px}.measured{padding:52px 0}.measured-head{display:block}.measured h2{font-size:42px}.measured-head>p{margin-top:20px;max-width:100%;font-size:12px}.metrics{margin-top:28px}.metric{padding:22px 0}.metric+.metric{padding-left:17px}.metric strong{font-size:42px}.metric small{font-size:10px;line-height:1.7;max-width:95px}.measurement-note{font-size:9px}.comparison{padding:55px 0}.comparison-head{display:block;margin-bottom:30px}.comparison-head>p{margin-top:24px;font-size:13px}.table-scroll{margin-inline:-18px;padding-inline:18px}.table-hint{display:block;font-size:10px;color:#c9c6bc;margin-bottom:13px}table{font-size:12px;min-width:540px}th,td{padding:17px 16px}thead th{font-size:13px}.comparison-source{font-size:9px}.install{padding:60px 0 32px;display:block}.install .section-intro{max-width:100%}.install .section-intro>p:last-child{font-size:14px}.install .access{margin-top:20px}.install-steps{margin-top:35px}.install-steps li{padding-left:38px}.requirements{padding:20px;margin-top:21px}.closing{display:block;padding:37px 0 41px}.closing p{font-size:36px}.closing .button{margin-top:23px}.footer-main{flex-wrap:wrap;gap:17px;padding-block:25px}.footer-main>p{width:100%;order:3;font-size:10px}.footer-links{gap:18px;font-size:10px}.sources{font-size:10px}.sources summary{font-size:9px;gap:12px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+  </style>
+</head>
+<body>
+  <a href="#conteudo" class="skip">Pular para o conteúdo</a>
+  <svg width="0" height="0" aria-hidden="true" style="position:absolute"><defs>
+    <symbol id="mark" viewBox="0 0 512 512"><rect x="16" y="16" width="480" height="480" rx="112" fill="#f2f3f3"/><path d="M292 88H404A20 20 0 0 1 424 108V220L216 428A28 28 0 0 1 176 428L84 336A28 28 0 0 1 84 296Z" fill="#f0500a"/><path d="M216 428A28 28 0 0 1 176 428L84 336A28 28 0 0 1 84 296L124 256L256 388Z" fill="#16181a"/><path d="M136 244L268 376" stroke="#f2f3f3" stroke-width="16" fill="none"/><circle cx="372" cy="140" r="30" fill="#f2f3f3"/></symbol>
+    <symbol id="arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="play" viewBox="0 0 24 24"><path d="m8 5 11 7-11 7Z" fill="currentColor"/></symbol>
+  </defs></svg>
+
+  <header class="wrap topbar">
+    <a class="brand" href="#" aria-label="LojaSync, início"><svg aria-hidden="true"><use href="#mark"/></svg><span>Loja<span>Sync</span></span></a>
+    <nav class="nav" aria-label="Navegação principal"><a href="#como-funciona">Como funciona</a><a href="#telas">Por dentro</a><a class="nav-install" href="#instalacao">Instalação da equipe <span aria-hidden="true">↗</span></a></nav>
+  </header>
+
+  <main id="conteudo">
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <p class="eyebrow"><span class="tiny-square" aria-hidden="true"></span> Preparação de produtos para o Byte Empresa</p>
+      <h1 id="hero-title">Do romaneio ao catálogo.<br><em>Tudo em ordem.</em></h1>
+      <p class="hero-copy">Importe, confira e organize os produtos da loja em um só lugar. Um catálogo local pronto para a próxima etapa do cadastro.</p>
+      <div class="hero-actions"><a class="button button-primary" href="#demo" data-play><svg aria-hidden="true"><use href="#play"/></svg>Assistir à demonstração</a><a class="button button-secondary" href="#instalacao">Instalação da equipe<svg aria-hidden="true"><use href="#arrow"/></svg></a></div>
+      <figure id="demo" class="demo">
+        <div class="demo-top"><span><i class="status-dot" aria-hidden="true"></i>LojaSync · Catálogo local</span><span class="demo-label">App real · Dados de demonstração</span></div>
+        <video id="demo-video" controls playsinline preload="metadata" poster="media/poster.jpg" aria-label="Demonstração narrada do LojaSync com dados fictícios">
+          <source src="media/lojasync-demo-720p.mp4" type="video/mp4">
+          <track kind="captions" src="media/legendas.vtt" srclang="pt-BR" label="Português do Brasil">
+          Seu navegador não reproduz este vídeo. <a href="media/lojasync-demo-720p.mp4">Abrir demonstração em MP4</a>.
+        </video>
+      </figure>
+      <div class="demo-caption"><span>Gravado no aplicativo, em uma bancada com dados fictícios.</span><a href="media/legendas.vtt">Texto da narração <span aria-hidden="true">↗</span></a></div>
+    </section>
+
+    <section class="wrap pillars" aria-label="Três pilares do LojaSync">
+      <article class="pillar"><svg class="pillar-icon" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M7 3h10l5 5v17H7zM17 3v6h5M11 14h7M11 18h7"/><path d="M3 7v14"/></svg><h3>Do documento aos produtos</h3><p>Leia um romaneio com IA ou leitura local. Confira os dados extraídos e ajuste o catálogo antes de cadastrar no Byte.</p></article>
+      <article class="pillar"><svg class="pillar-icon" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><rect x="3" y="4" width="22" height="20" rx="2"/><path d="M3 10h22M10 10v14M10 17h15"/></svg><h3>Um lote que faz sentido</h3><p>Revise códigos, custos e quantidades. Edite em lote e mantenha as famílias de tamanhos na ordem certa.</p></article>
+      <article class="pillar"><svg class="pillar-icon" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M14 3 24 7v7c0 5-5 9-10 11C9 23 4 19 4 14V7zM9 14l3 3 7-7"/></svg><h3>Você acompanha cada etapa</h3><p>Veja os totais, consulte o histórico do dispositivo e prepare o cadastro no Byte Empresa com revisão humana.</p></article>
+    </section>
+
+    <section id="como-funciona" class="wrap workflow" aria-labelledby="workflow-title">
+      <div class="workflow-heading"><div class="section-intro"><p class="eyebrow">Um fluxo, do começo ao cadastro</p><h2 id="workflow-title">Receber. Conferir.<br>Deixar pronto.</h2></div><p>O LojaSync reúne a preparação do lote em etapas visíveis, sem perder o vínculo com o documento de origem.</p></div>
+      <div class="steps">
+        <article class="step"><span class="step-num">01</span><h3>Traga o romaneio</h3><p>Escolha o arquivo e o modo de leitura adequado ao documento.</p></article>
+        <article class="step"><span class="step-num">02</span><h3>Confira o resultado</h3><p>Compare a nota, as quantidades e os valores detectados.</p></article>
+        <article class="step"><span class="step-num">03</span><h3>Organize o catálogo</h3><p>Ajuste produtos, valores, quantidades e famílias de tamanhos.</p></article>
+        <article class="step"><span class="step-num">04</span><h3>Prepare o cadastro</h3><p>No Windows, confira os alvos e a calibração antes de automatizar no Byte.</p></article>
+      </div>
+    </section>
+
+    <section id="telas" class="tour" aria-labelledby="tour-title">
+      <div class="wrap">
+        <div class="tour-header"><div class="section-intro"><p class="eyebrow">Por dentro do LojaSync</p><h2 id="tour-title">Cada tela tem<br>um trabalho a fazer.</h2></div><p class="tour-note"><span aria-hidden="true"></span>Seis capturas do aplicativo em execução. Clique em uma tela para ver os detalhes.</p></div>
+
+        <article class="screen" aria-labelledby="import-title">
+          <div class="screen-copy"><p class="eyebrow">01 / Importação</p><h3 id="import-title">O documento por perto.<br>O resultado à vista.</h3><p>Mantenha o romaneio à vista e confira o resumo da leitura. Compare as quantidades e os totais detectados; depois, revise os produtos no catálogo.</p><div class="screen-detail"><svg aria-hidden="true"><use href="#check"/></svg><span>PDF, imagem ou TXT, conforme o modo de leitura.</span></div></div>
+          <figure class="screen-figure"><a class="screen-link" href="media/importacao.png" target="_blank" rel="noopener" aria-label="Ampliar captura da tela de Importação"><img src="media/importacao.png" alt="Tela real de Importação do LojaSync, com o documento original e o resumo da leitura local, incluindo quantidades e totais." width="1600" height="1000" loading="lazy"></a><figcaption><span>Importação · Leitura local, quantidades e totais</span><span>Ampliar <span aria-hidden="true">↗</span></span></figcaption></figure>
+        </article>
+
+        <article class="screen" aria-labelledby="catalog-title">
+          <div class="screen-copy"><p class="eyebrow">02 / Catálogo</p><h3 id="catalog-title">Acerte os detalhes.<br>Veja o lote inteiro.</h3><p>Códigos, descrições, custos e quantidades ficam à mão. Faça ajustes individuais ou em lote e confira os itens antes do cadastro.</p><div class="screen-detail"><svg aria-hidden="true"><use href="#check"/></svg><span>Os produtos importados ficam no catálogo local.</span></div></div>
+          <figure class="screen-figure"><a class="screen-link" href="media/catalogo.png" target="_blank" rel="noopener" aria-label="Ampliar captura do Catálogo"><img src="media/catalogo.png" alt="Catálogo real do LojaSync com produtos fictícios, códigos, custos e quantidades em tabela." width="1600" height="1000" loading="lazy"></a><figcaption><span>Catálogo · Revisão e edição de produtos</span><span>Ampliar <span aria-hidden="true">↗</span></span></figcaption></figure>
+        </article>
+
+        <article class="screen" aria-labelledby="grades-title">
+          <div class="screen-copy"><p class="eyebrow">03 / Grades</p><h3 id="grades-title">Cada tamanho<br>no seu lugar.</h3><p>Organize as famílias de tamanhos usadas pela loja. Reordene a grade para manter uma sequência coerente na preparação dos produtos.</p><div class="screen-detail"><svg aria-hidden="true"><use href="#check"/></svg><span>Famílias de tamanhos editáveis e reordenáveis.</span></div></div>
+          <figure class="screen-figure"><a class="screen-link" href="media/grades.png" target="_blank" rel="noopener" aria-label="Ampliar captura da tela de Grades"><img src="media/grades.png" alt="Tela real de Grades do LojaSync com famílias e sequências de tamanhos de demonstração." width="1600" height="1000" loading="lazy"></a><figcaption><span>Grades · Famílias de tamanhos</span><span>Ampliar <span aria-hidden="true">↗</span></span></figcaption></figure>
+        </article>
+
+        <article class="screen" aria-labelledby="overview-title">
+          <div class="screen-copy"><p class="eyebrow">04 / Visão geral</p><h3 id="overview-title">O valor do lote.<br>E o próximo passo.</h3><p>Veja capital no lote, venda projetada e prontidão. Os indicadores ajudam a entender o que está preparado e o que ainda precisa de atenção.</p><div class="screen-detail"><svg aria-hidden="true"><use href="#check"/></svg><span>Projeções do catálogo, com contexto da sessão.</span></div></div>
+          <figure class="screen-figure"><a class="screen-link" href="media/visao-geral.png" target="_blank" rel="noopener" aria-label="Ampliar captura da Visão geral"><img src="media/visao-geral.png" alt="Visão geral real do LojaSync com capital do lote, venda projetada e prontidão dos produtos fictícios." width="1600" height="1000" loading="lazy"></a><figcaption><span>Visão geral · Indicadores da preparação</span><span>Ampliar <span aria-hidden="true">↗</span></span></figcaption></figure>
+        </article>
+
+        <article class="screen" aria-labelledby="history-title">
+          <div class="screen-copy"><p class="eyebrow">05 / Histórico</p><h3 id="history-title">A preparação<br>deixa um rastro.</h3><p>Consulte os registros do dispositivo para acompanhar o trabalho no catálogo. As ações compatíveis também contam com desfazer e refazer.</p><div class="screen-detail"><svg aria-hidden="true"><use href="#check"/></svg><span>Histórico local do dispositivo em uso.</span></div></div>
+          <figure class="screen-figure"><a class="screen-link" href="media/historico.png" target="_blank" rel="noopener" aria-label="Ampliar captura do Histórico"><img src="media/historico.png" alt="Tela real do Histórico do LojaSync com registros do dispositivo de demonstração." width="1600" height="1000" loading="lazy"></a><figcaption><span>Histórico · Registros do dispositivo</span><span>Ampliar <span aria-hidden="true">↗</span></span></figcaption></figure>
+        </article>
+
+        <article class="screen" aria-labelledby="publish-title">
+          <div class="screen-copy"><p class="eyebrow">06 / Cadastro no Byte Empresa</p><h3 id="publish-title">Revise antes<br>de dar o próximo passo.</h3><p>Confira os produtos, as grades, os alvos e o estado da automação. O cadastro no Byte Empresa acontece no Windows, com o ambiente preparado e calibrado.</p><div class="screen-detail"><svg aria-hidden="true"><use href="#check"/></svg><span>A demo mostra a preparação. Nenhum cadastro é executado no Byte.</span></div></div>
+          <figure class="screen-figure"><a class="screen-link" href="media/publicacao.png" target="_blank" rel="noopener" aria-label="Ampliar captura da preparação do cadastro Byte"><img src="media/publicacao.png" alt="Tela real de preparação do cadastro no LojaSync, com alvos e estado da automação para o Byte Empresa." width="1600" height="1000" loading="lazy"></a><figcaption><span>Cadastro Byte · Preparação e estado da automação</span><span>Ampliar <span aria-hidden="true">↗</span></span></figcaption></figure>
+        </article>
+      </div>
+    </section>
+
+    <section class="wrap measured" aria-labelledby="measured-title">
+      <div class="measured-head"><div class="section-intro"><p class="eyebrow">Esta demonstração, em números</p><h2 id="measured-title">O lote que você<br>vê no vídeo.</h2></div><p>Contagens da bancada de demonstração. Os produtos e os valores são fictícios; as telas e o processamento são reais.</p></div>
+      <!-- Contagens medidas na bancada; a duração também é atualizada pelos metadados do MP4. -->
+      <div class="metrics"><div class="metric"><strong id="metric-products">8</strong><small>produtos no catálogo da demo</small></div><div class="metric"><strong id="metric-units">64</strong><small>unidades no lote demonstrado</small></div><div class="metric"><strong id="metric-duration">1:21</strong><small>de demonstração narrada</small></div></div>
+      <p class="measurement-note">Registro em 07 de setembro de 2026 · Leitura local na gravação · Os números descrevem esta demo e não representam ganho de produtividade ou tempo de cadastro.</p>
+    </section>
+
+    <section class="comparison" aria-labelledby="comparison-title">
+      <div class="wrap">
+        <div class="comparison-head"><div class="section-intro"><p class="eyebrow">Escolha a leitura adequada</p><h2 id="comparison-title">Dois caminhos.<br>O mesmo catálogo.</h2></div><p>O tipo de documento e o ambiente definem a escolha. Você seleciona o modo de leitura; o aplicativo não troca de modo automaticamente em caso de falha.</p></div>
+        <p class="table-hint">Deslize a tabela para comparar os modos <span aria-hidden="true">→</span></p>
+        <div class="table-scroll" tabindex="0" role="region" aria-label="Comparação dos modos de leitura. Role horizontalmente em telas pequenas."><table><thead><tr><th scope="col">Na importação</th><th scope="col">Leitura local</th><th scope="col">Importação por IA</th></tr></thead><tbody>
+          <tr><th scope="row">Como funciona</th><td>O leitor processa arquivos compatíveis no computador.</td><td>O serviço de IA configurado interpreta o documento.</td></tr>
+          <tr><th scope="row">O que exige</th><td>Texto extraível ou OCR compatível no Windows; layout reconhecido.</td><td>Conexão, provedor disponível e credencial configurada.</td></tr>
+          <tr><th scope="row">Conferência</th><td>Revisão do catálogo antes do cadastro no Byte.</td><td>Revisão do catálogo antes do cadastro no Byte.</td></tr>
+          <tr><th scope="row">Destino dos produtos</th><td>Catálogo local do LojaSync.</td><td>Catálogo local do LojaSync.</td></tr>
+          <tr><th scope="row">Nesta demonstração</th><td>Modo usado no romaneio fictício.</td><td>Disponível no produto; não usado na gravação.</td></tr>
+        </tbody></table></div>
+        <p class="comparison-source">Comparação funcional conferida em 07/09/2026, com base na interface, no manual de operação e na release v1.2.29. <a href="#fontes">Consultar fontes e escopo</a>.</p>
+      </div>
+    </section>
+
+    <section id="instalacao" class="wrap install" aria-labelledby="install-title">
+      <div><div class="section-intro"><p class="eyebrow">Instalação da equipe</p><h2 id="install-title">Pronto para<br>a rotina da loja.</h2><p>O LojaSync é distribuído para a equipe com acesso autorizado ao projeto. A execução acontece no computador da operação.</p></div><p class="access"><svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><rect x="4" y="9" width="12" height="8" rx="1.5"/><path d="M6.5 9V6a3.5 3.5 0 0 1 7 0v3M10 12v2"/></svg>Repositório privado · Acesso restrito à equipe</p><div class="requirements"><h3>Para usar a automação</h3><p>Windows, Byte Empresa aberto na tela correta e alvos calibrados. A importação por IA requer um provedor e uma credencial próprios. A revisão humana faz parte do fluxo.</p></div></div>
+      <ol class="install-steps">
+        <li><h3>Prepare o computador</h3><p>Use Windows com Python 3.11 ou 3.12 e Node.js com npm. Obtenha o projeto pelo canal autorizado da equipe.</p><a class="button button-secondary" href="https://github.com/LucasOl1337/LojaSync" target="_blank" rel="noopener">Repositório · acesso restrito <span aria-hidden="true">↗</span></a></li>
+        <li><h3>Abra o LojaSync</h3><p>Execute <code>Iniciar LojaSync.bat</code>. O launcher prepara as dependências e abre a janela do aplicativo. A preparação pode solicitar elevação no Windows.</p></li>
+        <li><h3>Confira antes de operar</h3><p>Verifique os produtos, escolha o modo de importação e revise os resultados. Antes de cadastrar no Byte, confira o ambiente e a calibração.</p></li>
+      </ol>
+    </section>
+
+    <div class="wrap closing"><p>O próximo lote merece<br><em>um bom começo.</em></p><a class="button button-primary" href="#demo" data-play><svg aria-hidden="true"><use href="#play"/></svg>Ver o LojaSync em ação</a></div>
+  </main>
+
+  <footer><div class="wrap">
+    <div class="footer-main"><a class="brand" href="#" aria-label="LojaSync, voltar ao início"><svg aria-hidden="true"><use href="#mark"/></svg><span>Loja<span>Sync</span></span></a><p>Preparação de produtos. Catálogo local. Revisão humana.</p><div class="footer-links"><a href="#telas">As telas</a><a href="#instalacao">Instalação</a></div></div>
+    <details class="sources" id="fontes"><summary>Fontes, data de referência e escopo da demonstração</summary><ul>
+      <li>Produto e requisitos: <a href="https://github.com/LucasOl1337/LojaSync/blob/main/README.md" target="_blank" rel="noopener">README do LojaSync</a> e <a href="https://github.com/LucasOl1337/LojaSync/blob/main/docs/operacao.md" target="_blank" rel="noopener">manual de operação</a>, consultados em 07/09/2026.</li>
+      <li>Destino da importação: <a href="https://github.com/LucasOl1337/LojaSync/blob/main/docs/releases/release-v1.2.29.md" target="_blank" rel="noopener">release v1.2.29 — Catálogo local novamente no comando</a>, de 27/08/2026. Importação, catálogo local e automação Byte compõem o fluxo apresentado.</li>
+      <li>Indicadores: <a href="https://github.com/LucasOl1337/LojaSync/blob/main/docs/releases/release-v1.2.20.md" target="_blank" rel="noopener">release v1.2.20 — Visão geral e tema</a>, de 08/08/2026. Identidade: <a href="https://github.com/LucasOl1337/LojaSync/blob/main/brand/official/README.md" target="_blank" rel="noopener">Etiqueta Asiimov</a>, documentada em 20/08/2026.</li>
+      <li>Formatos e modos: <a href="https://github.com/LucasOl1337/LojaSync/blob/main/frontend-ts/src/importStagePanel.tsx" target="_blank" rel="noopener">interface de importação</a>, consultada em 07/09/2026. A aceitação de um arquivo no seletor não garante sua leitura local.</li>
+    </ul><p>Os links de documentação exigem acesso ao repositório privado. A gravação usa dados fictícios em uma instância separada e leitura local. Mostra a preparação do cadastro, sem executar a automação no Byte Empresa. Os módulos de ERP e integrações futuras não fazem parte desta demonstração.</p></details>
+  </div></footer>
+  <script>
+    var demoVideo=document.getElementById('demo-video');
+    function updateDuration(){
+      if(Number.isFinite(demoVideo.duration)){
+        var seconds=Math.round(demoVideo.duration);
+        document.getElementById('metric-duration').textContent=Math.floor(seconds/60)+':'+String(seconds%60).padStart(2,'0');
+      }
+    }
+    demoVideo.addEventListener('loadedmetadata',updateDuration);
+    updateDuration();
+    document.querySelector('a[href="#fontes"]').addEventListener('click',function(){
+      document.getElementById('fontes').open=true;
+    });
+    document.querySelectorAll('[data-play]').forEach(function(link){
+      link.addEventListener('click',function(){
+        var video=document.getElementById('demo-video');
+        var play=video.play();
+        if(play&&typeof play.catch==='function'){play.catch(function(){video.focus({preventScroll:true});});}
+      });
+    });
+  </script>
+</body>
+</html>
