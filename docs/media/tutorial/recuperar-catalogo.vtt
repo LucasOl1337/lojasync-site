@@ -1,0 +1,91 @@
+WEBVTT
+
+1
+00:00:00.840 --> 00:00:03.480
+A lixeira da linha exclui o produto
+imediatamente.
+
+2
+00:00:03.960 --> 00:00:07.180
+Removemos a camiseta simples. Confira o
+nome antes do clique.
+
+3
+00:00:07.760 --> 00:00:10.180
+Para recuperá-la, use Desfazer no alto da
+lista;
+
+4
+00:00:10.340 --> 00:00:12.140
+Refazer reaplica a exclusão.
+
+5
+00:00:23.430 --> 00:00:30.300
+Fora dos campos de texto, Control e Z
+desfaz. Control, Shift e Z refaz. Os
+atalhos e os botões usam o mesmo histórico.
+
+6
+00:00:30.860 --> 00:00:35.800
+Dentro de um campo, o atalho fica com a
+edição do texto. Recuperamos o produto
+antes de continuar.
+
+7
+00:00:44.990 --> 00:00:47.300
+Buscamos BERMUDA para mostrar apenas uma
+linha.
+
+8
+00:00:48.280 --> 00:00:50.980
+Agora clique em Limpar lista e leia a
+confirmação:
+
+9
+00:00:51.080 --> 00:00:54.780
+os três produtos serão removidos, inclusive
+os dois ocultos pela busca.
+
+10
+00:00:55.520 --> 00:00:57.700
+Cancelar fecha o aviso e preserva a lista.
+
+11
+00:01:07.150 --> 00:01:11.480
+Nesta base de treinamento, abrimos
+novamente e confirmamos Remover três
+produtos.
+
+12
+00:01:11.920 --> 00:01:13.240
+O catálogo fica vazio.
+
+13
+00:01:13.840 --> 00:01:18.420
+Essa ação tem alcance diferente das
+ferramentas em lote limitadas aos itens
+visíveis.
+
+14
+00:01:21.500 --> 00:01:24.740
+Desfazer recupera o catálogo. A busca
+continua ativa;
+
+15
+00:01:25.120 --> 00:01:27.520
+pressione Escape nela para mostrar todas as
+linhas.
+
+16
+00:01:28.060 --> 00:01:29.880
+Confira os três produtos e oito unidades.
+
+17
+00:01:30.480 --> 00:01:33.020
+O histórico guarda até sete pontos de
+recuperação;
+
+18
+00:01:33.500 --> 00:01:35.360
+ele não substitui uma cópia de segurança.
+

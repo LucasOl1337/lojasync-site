@@ -1,0 +1,419 @@
+WEBVTT
+
+1
+00:00:02.850 --> 00:00:07.860
+Abra Créditos de fornecedor e selecione a
+expectativa sugerida de vinte e nove reais
+e noventa centavos.
+
+2
+00:00:08.520 --> 00:00:10.420
+Ela corresponde à devolução da peça G.
+
+3
+00:00:11.140 --> 00:00:15.400
+O custo sugere um valor, mas não comprova
+que o fornecedor já autorizou esse crédito.
+
+4
+00:00:16.360 --> 00:00:18.140
+Confira a origem antes da decisão.
+
+5
+00:00:19.150 --> 00:00:21.840
+Informe o valor confirmado e a referência
+da autorização.
+
+6
+00:00:22.640 --> 00:00:27.040
+Nesta história, o documento fictício DEMO-
+CRED-G-01 autoriza vinte e nove e noventa.
+
+7
+00:00:28.140 --> 00:00:31.680
+Em uma operação real, use a evidência
+recebida do fornecedor.
+
+8
+00:00:32.460 --> 00:00:36.260
+O campo não deve ser preenchido apenas para
+fazer desaparecer uma pendência.
+
+9
+00:00:37.257 --> 00:00:43.187
+Clique em Confirmar crédito. O valor fica
+disponível para uso, mas nenhuma conta foi
+abatida automaticamente.
+
+10
+00:00:44.227 --> 00:00:47.247
+Confirmar a autorização é uma decisão
+comercial registrada.
+
+11
+00:00:48.107 --> 00:00:52.687
+Aplicar o valor a uma obrigação é outra
+ação, que exige escolher um título
+compatível.
+
+12
+00:00:53.913 --> 00:00:57.333
+Selecione a conta do mesmo fornecedor e
+aplique vinte e nove e noventa.
+
+13
+00:00:58.013 --> 00:01:00.713
+A lista limita as opções aos títulos
+elegíveis.
+
+14
+00:01:01.553 --> 00:01:04.773
+O abatimento aparece separado dos duzentos
+reais já pagos.
+
+15
+00:01:05.693 --> 00:01:09.993
+Crédito de devolução não deve ser
+registrado como se fosse outro comprovante
+de pagamento.
+
+16
+00:01:11.020 --> 00:01:13.760
+Atualize o histórico de abatimentos e
+confira a aplicação.
+
+17
+00:01:14.720 --> 00:01:19.740
+O estado totalmente aplicado significa que
+o valor disponível dessa decisão foi
+utilizado.
+
+18
+00:01:20.440 --> 00:01:25.260
+O registro conserva o título e a quantia
+abatida, em vez de apagar parte da dívida
+original.
+
+19
+00:01:26.457 --> 00:01:42.827
+Abra Corrigir decisão. Leia o aviso: a
+correção reverte o efeito dos abatimentos
+ativos e reabre os valores correspondentes
+nos títulos. Não é uma simples edição de
+legenda. Ela substitui a decisão vigente
+com rastreabilidade, mantendo a decisão
+anterior no histórico.
+
+20
+00:01:43.690 --> 00:01:58.440
+Vamos representar uma retificação do
+fornecedor para vinte e cinco reais.
+Escolha Confirmado, informe o novo valor, a
+referência do novo documento e explique por
+que ele substitui o anterior. O motivo da
+correção deve permitir compreender a
+mudança depois.
+
+21
+00:02:00.217 --> 00:02:07.527
+Use Voltar antes de confirmar. A decisão
+anterior e seu abatimento continuam
+válidos, porque o rascunho da correção não
+foi efetivado.
+
+22
+00:02:08.727 --> 00:02:15.427
+Esse retorno permite interromper a operação
+ao perceber que falta um documento ou que o
+valor informado precisa ser conferido.
+
+23
+00:02:16.477 --> 00:02:21.587
+Abra a correção novamente e preencha os
+dados revisados. Confira o novo valor e a
+referência.
+
+24
+00:02:22.827 --> 00:02:25.947
+Não reaplique o crédito antigo antes de
+decidir a correção:
+
+25
+00:02:26.547 --> 00:02:31.967
+a própria confirmação vai tratar os
+abatimentos ativos vinculados à decisão que
+está sendo substituída.
+
+26
+00:02:32.917 --> 00:02:38.787
+Confirme a correção. A nova decisão
+autoriza vinte e cinco reais e o abatimento
+anterior é estornado.
+
+27
+00:02:39.287 --> 00:02:41.927
+O título volta a apresentar aquele valor em
+aberto.
+
+28
+00:02:42.367 --> 00:02:44.427
+A quantidade física devolvida não muda;
+
+29
+00:02:44.767 --> 00:02:48.467
+estamos corrigindo a decisão financeira
+sobre a devolução já registrada.
+
+30
+00:02:49.707 --> 00:02:52.127
+Use Atualizar versões e leia a linha do
+tempo.
+
+31
+00:02:52.547 --> 00:02:58.467
+A autorização inicial e a retificação
+permanecem consultáveis, com a indicação da
+decisão vigente.
+
+32
+00:02:58.867 --> 00:03:04.127
+Isso permite entender por que o valor atual
+difere da expectativa inicial sem apagar a
+história.
+
+33
+00:03:05.140 --> 00:03:20.580
+Atualize também o histórico de abatimentos.
+A aplicação anterior aparece estornada.
+Esse estado explica por que ela deixou de
+reduzir a conta. Histórico de decisões e
+histórico de abatimentos respondem a
+perguntas diferentes e devem ser
+consultados em conjunto.
+
+34
+00:03:21.540 --> 00:03:37.560
+Selecione de novo o título e informe vinte
+e cinco reais. A nova autorização não
+escolhe automaticamente onde deve ser
+utilizada. Confira o fornecedor, a
+obrigação e o saldo antes de aplicar. O
+valor precisa respeitar tanto o crédito
+disponível quanto a dívida aberta.
+
+35
+00:03:38.487 --> 00:03:46.127
+Aplique os vinte e cinco autorizados. Agora
+existe um novo abatimento ativo. O
+histórico conserva a aplicação anterior
+estornada e a atual.
+
+36
+00:03:47.407 --> 00:03:54.107
+Não confunda as duas linhas com duas
+reduções simultâneas da dívida; o estado de
+cada registro indica o efeito vigente.
+
+37
+00:03:55.023 --> 00:04:14.413
+Consulte Contas a pagar. O valor original
+da compra permanece. O pagamento registrado
+é de duzentos reais. O crédito aplicado é
+de vinte e cinco reais. O saldo em aberto é
+de quatrocentos e sessenta e sete reais e
+sessenta centavos. Essa separação permite
+conferir a obrigação sem misturar pagamento
+com crédito comercial.
+
+38
+00:04:15.380 --> 00:04:30.470
+Volte aos créditos e abra a sugestão de
+vinte e quatro reais e noventa centavos, da
+peça U. Esta é outra devolução, ainda
+pendente de decisão. Usaremos esse registro
+para ensinar uma recusa e uma autorização
+posterior, preservando o primeiro exemplo.
+
+39
+00:04:31.347 --> 00:04:35.287
+Clique em Rejeitar crédito. Informe a
+referência da recusa e o motivo.
+
+40
+00:04:36.047 --> 00:04:39.027
+Rejeitar encerra a expectativa vigente sem
+abater uma conta.
+
+41
+00:04:39.807 --> 00:04:42.787
+A justificativa deve explicar a posição do
+fornecedor;
+
+42
+00:04:43.747 --> 00:04:46.427
+ela não exclui a devolução física que
+originou a reivindicação.
+
+43
+00:04:47.517 --> 00:04:49.407
+Use Voltar para sair dessa revisão.
+
+44
+00:04:50.287 --> 00:04:53.787
+A expectativa permanece pendente e ainda
+admite a decisão inicial.
+
+45
+00:04:54.267 --> 00:04:58.687
+Esse gesto é útil quando a recusa precisa
+ser confirmada ou quando você abriu a
+expectativa errada.
+
+46
+00:04:59.487 --> 00:05:02.287
+Nenhuma conta muda por abrir e fechar a
+revisão.
+
+47
+00:05:06.587 --> 00:05:09.067
+Reabra a rejeição e confira referência e
+motivo.
+
+48
+00:05:09.487 --> 00:05:12.627
+Estamos usando o documento fictício DEMO-
+RECUSA-U-01.
+
+49
+00:05:13.507 --> 00:05:19.367
+A decisão precisa corresponder a esta
+devolução, não à outra peça que já teve
+crédito confirmado e aplicado.
+
+50
+00:05:20.127 --> 00:05:22.047
+Reconheça sempre o registro selecionado.
+
+51
+00:05:23.007 --> 00:05:27.427
+Confirme a rejeição. A tela informa Crédito
+rejeitado e nenhum título novo é abatido.
+
+52
+00:05:28.367 --> 00:05:32.227
+O registro não aceita uma confirmação
+inicial direta depois da recusa.
+
+53
+00:05:33.027 --> 00:05:37.787
+Se o fornecedor mudar de posição, o caminho
+apropriado é corrigir a decisão com a nova
+evidência.
+
+54
+00:05:38.790 --> 00:05:54.380
+Abra Corrigir decisão no crédito rejeitado.
+O campo Novo resultado permite registrar a
+decisão posterior. A correção mantém a
+recusa anterior no histórico; não tenta
+fingir que ela nunca existiu. Vamos
+representar uma autorização comercial
+recebida depois.
+
+55
+00:05:55.390 --> 00:06:01.440
+Escolha Confirmado, informe vinte reais, a
+referência DEMO-CRED-U-02 e explique a
+reconsideração.
+
+56
+00:06:01.880 --> 00:06:04.800
+O valor autorizado pode diferir do custo
+sugerido.
+
+57
+00:06:05.760 --> 00:06:08.560
+A evidência do fornecedor define o que está
+sendo reconhecido;
+
+58
+00:06:08.980 --> 00:06:11.940
+o sistema conserva essa decisão com sua
+justificativa.
+
+59
+00:06:12.950 --> 00:06:19.040
+Confirme a correção. O crédito de vinte
+reais fica disponível, e a recusa permanece
+na linha do tempo.
+
+60
+00:06:19.320 --> 00:06:21.080
+Ainda não houve abatimento automático.
+
+61
+00:06:21.980 --> 00:06:27.580
+Agora podemos escolher quanto dessa
+autorização será utilizado no título
+elegível do mesmo fornecedor.
+
+62
+00:06:28.607 --> 00:06:32.367
+Selecione a conta de compra e informe
+apenas cinco reais para aplicar.
+
+63
+00:06:33.047 --> 00:06:34.947
+O crédito pode ser usado parcialmente.
+
+64
+00:06:35.667 --> 00:06:40.587
+Confira o campo antes de enviar, pois a
+sugestão inicial pode preencher o máximo
+disponível.
+
+65
+00:06:41.207 --> 00:06:43.947
+O exemplo vai conservar quinze reais para
+uso posterior.
+
+66
+00:06:45.057 --> 00:06:47.447
+Aplique os cinco reais e atualize o
+histórico.
+
+67
+00:06:48.187 --> 00:06:51.267
+O crédito agora tem uma parte utilizada e
+outra disponível.
+
+68
+00:06:51.927 --> 00:06:59.167
+O título recebe somente este abatimento,
+separado dos vinte e cinco do primeiro
+crédito e dos duzentos reais pagos
+manualmente.
+
+69
+00:07:00.173 --> 00:07:07.993
+Consulte as versões e o histórico dessa
+segunda expectativa. A recusa, a
+autorização posterior e o abatimento
+parcial ficam preservados.
+
+70
+00:07:08.573 --> 00:07:14.273
+Esses registros explicam como chegamos ao
+estado atual e evitam repetir uma aplicação
+já realizada.
+
+71
+00:07:15.123 --> 00:07:32.473
+Atualize a tabela final. O primeiro crédito
+está totalmente aplicado em vinte e cinco
+reais. O segundo autorizou vinte, usou
+cinco e conserva quinze disponíveis. Você
+concluiu confirmação, rejeição, correção
+auditada e aplicação total ou parcial de
+créditos reais da história fictícia.
+

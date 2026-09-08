@@ -1,0 +1,1090 @@
+WEBVTT
+
+1
+00:00:00.780 --> 00:00:03.740
+Abra Compras e recebimento e escolha
+Pedidos de compra. O
+
+2
+00:00:04.680 --> 00:00:07.440
+pedido registra o combinado com o
+fornecedor.
+
+3
+00:00:07.760 --> 00:00:10.760
+Ele permite acompanhar o que foi recebido e
+o que ainda está pendente,
+
+4
+00:00:11.440 --> 00:00:13.800
+mas não coloca mercadoria no saldo por si
+só.
+
+5
+00:00:22.430 --> 00:00:25.760
+Como ainda não há fornecedor nesta
+instalação, aparece o cadastro inicial.
+
+6
+00:00:26.080 --> 00:00:27.600
+Informe Ateliê Horizonte DEMO.
+
+7
+00:00:28.480 --> 00:00:32.560
+Em uma loja já preparada, confira e
+selecione o fornecedor existente pelo nome.
+
+8
+00:00:33.600 --> 00:00:38.100
+O cadastro precisa representar quem
+realmente forneceu os produtos do pedido.
+
+9
+00:00:39.340 --> 00:00:45.820
+Clique em Cadastrar fornecedor. O nome
+passa a aparecer no seletor e o pedido fica
+disponível para preenchimento.
+
+10
+00:00:46.280 --> 00:00:52.800
+Observe que cadastrar o fornecedor é uma
+ação separada de criar um pedido ou
+confirmar uma entrada de mercadoria.
+
+11
+00:00:57.380 --> 00:00:59.700
+Selecione o fornecedor e preencha o número
+do pedido.
+
+12
+00:01:00.320 --> 00:01:02.560
+Usamos a referência de treinamento mostrada
+na tela.
+
+13
+00:01:03.560 --> 00:01:06.660
+Esse número ajuda a reconhecer o combinado
+e acompanhar a entrega.
+
+14
+00:01:07.860 --> 00:01:11.710
+Mantenha o padrão usado pela loja e confira
+antes de criar o documento.
+
+15
+00:01:15.350 --> 00:01:23.600
+No primeiro item, selecione HZ-M e informe
+dez unidades. O custo unitário é vinte e
+nove reais e noventa centavos, diferente do
+preço de venda.
+
+16
+00:01:23.600 --> 00:01:29.340
+A referência do fornecedor ajuda a
+identificar como essa mesma peça aparece no
+documento dele.
+
+17
+00:01:33.340 --> 00:01:35.460
+Use Adicionar item para incluir HZ-G.
+
+18
+00:01:36.340 --> 00:01:39.920
+Preencha a quantidade e o custo desse item
+e sua referência no fornecedor.
+
+19
+00:01:40.940 --> 00:01:47.000
+Confira a variante, especialmente quando a
+descrição do produto é igual e apenas o
+tamanho distingue uma linha da outra.
+
+20
+00:01:51.340 --> 00:01:55.940
+Inclua também HZ-U, com cinco unidades ao
+custo de vinte e quatro reais e noventa
+centavos.
+
+21
+00:01:56.720 --> 00:02:00.180
+O pedido pode reunir variantes com
+quantidades e custos diferentes.
+
+22
+00:02:00.780 --> 00:02:05.520
+A lista deve refletir o combinado, que será
+comparado com a chegada física depois.
+
+23
+00:02:09.340 --> 00:02:13.980
+Se adicionar uma linha a mais, use Remover
+item nessa linha antes de criar o pedido.
+
+24
+00:02:14.420 --> 00:02:17.000
+Confira que as três variantes corretas
+permanecem.
+
+25
+00:02:17.940 --> 00:02:20.740
+Essa remoção corrige somente o documento em
+preparação;
+
+26
+00:02:21.200 --> 00:02:22.630
+o pedido ainda não foi gravado.
+
+27
+00:02:27.270 --> 00:02:34.520
+Use Observações para registrar informações
+úteis ao recebimento, como a entrega em
+duas caixas e a necessidade de conferir
+avarias.
+
+28
+00:02:35.520 --> 00:02:38.740
+Não use a observação para substituir
+quantidade ou custo:
+
+29
+00:02:39.420 --> 00:02:42.400
+esses dados precisam estar nos campos
+próprios de cada item.
+
+30
+00:02:45.490 --> 00:02:47.820
+Clique em Criar pedido e aguarde a
+confirmação.
+
+31
+00:02:48.300 --> 00:02:51.280
+O pedido principal aparece na lista e no
+detalhe selecionado.
+
+32
+00:02:52.040 --> 00:02:54.840
+O aplicativo informa que o estoque
+permanece inalterado.
+
+33
+00:02:55.820 --> 00:03:00.960
+Criar o pedido também não é registrar
+pagamento, documento fiscal ou entrada de
+dinheiro no caixa.
+
+34
+00:03:03.340 --> 00:03:08.900
+Confira o progresso: vinte e cinco unidades
+pedidas, nenhuma recebida e vinte e cinco
+pendentes.
+
+35
+00:03:09.640 --> 00:03:12.040
+A tabela mostra o mesmo acompanhamento por
+variante.
+
+36
+00:03:12.660 --> 00:03:17.900
+Esses números serão atualizados depois que
+a entrada de mercadoria for conferida e
+confirmada.
+
+37
+00:03:21.340 --> 00:03:22.960
+Cancelar pedido abre uma revisão.
+
+38
+00:03:23.320 --> 00:03:25.700
+Leia qual pedido será afetado antes de
+confirmar.
+
+39
+00:03:26.280 --> 00:03:28.700
+Vamos usar Voltar para preservar o pedido
+principal.
+
+40
+00:03:29.440 --> 00:03:32.000
+A tela atual não solicita outro campo de
+motivo:
+
+41
+00:03:32.500 --> 00:03:34.520
+a decisão é confirmada nesta revisão.
+
+42
+00:03:40.330 --> 00:03:46.760
+Vamos preparar outro pedido, com a
+referência de cancelamento mostrada na tela
+e apenas uma unidade da variante de tamanho
+M.
+
+43
+00:03:47.860 --> 00:03:50.860
+Remova as linhas extras desse novo rascunho
+e ajuste a quantidade.
+
+44
+00:03:51.920 --> 00:03:56.700
+O pedido principal permanece guardado na
+lista e não é editado por esses campos.
+
+45
+00:03:58.340 --> 00:04:01.140
+Crie o pedido alternativo e confira seu
+número no detalhe.
+
+46
+00:04:01.880 --> 00:04:07.580
+Usamos outro documento para ensinar o
+cancelamento sem perder a compra que será
+recebida na próxima etapa.
+
+47
+00:04:08.700 --> 00:04:12.660
+Sempre reconheça o documento selecionado
+antes de executar uma ação sobre ele.
+
+48
+00:04:16.350 --> 00:04:20.140
+Abra Cancelar pedido e confirme o
+cancelamento de PED-CANCEL-01.
+
+49
+00:04:20.980 --> 00:04:23.560
+Ele permanece no histórico com o estado
+cancelado.
+
+50
+00:04:24.180 --> 00:04:31.370
+Nenhum saldo foi alterado por essa ação,
+porque um pedido ainda não confirmado como
+entrada não representa mercadoria em
+estoque.
+
+51
+00:04:36.340 --> 00:04:40.780
+Atualize a lista e abra o pedido principal
+novamente. Ele continua pendente. A
+
+52
+00:04:41.700 --> 00:04:48.960
+atualização consulta os dados do serviço e
+ajuda a acompanhar o que mudou enquanto
+outra pessoa estava registrando a chegada
+da mercadoria.
+
+53
+00:04:54.340 --> 00:04:55.700
+Clique em Preparar recebimento.
+
+54
+00:04:56.840 --> 00:05:02.960
+O aplicativo leva as quantidades pendentes
+do pedido para Documento de entrada,
+mantendo o vínculo com a compra.
+
+55
+00:05:03.840 --> 00:05:09.260
+Confira fornecedor, variantes e quantidades
+esperadas antes de preparar a conferência
+da chegada física.
+
+56
+00:05:13.270 --> 00:05:19.780
+Estamos na preparação da entrada. Ainda
+será preciso indicar o local, a origem do
+documento e contar a mercadoria.
+
+57
+00:05:20.840 --> 00:05:26.860
+O próximo capítulo separa o que o papel
+informa, o que chegou fisicamente e o que
+será aceito para compor o saldo.
+
+58
+00:05:37.117 --> 00:05:41.767
+O documento de entrada veio do pedido de
+compra. Confira o vínculo e os itens
+pendentes.
+
+59
+00:05:42.567 --> 00:05:47.247
+O tipo de origem identifica se a referência
+é um romaneio, uma DANFE ou um registro
+manual;
+
+60
+00:05:48.127 --> 00:05:51.007
+escolher esse tipo não emite nem autoriza
+documento fiscal.
+
+61
+00:05:59.547 --> 00:06:03.907
+Escolha o salão como local. Preencha a
+referência da origem conforme o exemplo:
+
+62
+00:06:03.907 --> 00:06:11.147
+ROM-HOR-01. Esse identificador será usado
+para reencontrar a entrada depois.
+
+63
+00:06:11.967 --> 00:06:16.507
+Confira o local com atenção: é nele que as
+quantidades aceitas serão registradas
+
+64
+00:06:16.507 --> 00:06:17.967
+quando a entrada for confirmada.
+
+65
+00:06:18.940 --> 00:06:21.180
+Revise os itens esperados e seus custos.
+
+66
+00:06:21.340 --> 00:06:25.000
+Esperada é a quantidade indicada pelo
+documento, ainda sem contagem física.
+
+67
+00:06:26.000 --> 00:06:29.280
+Se uma linha extra for adicionada por
+engano, remova-a antes de preparar.
+
+68
+00:06:30.220 --> 00:06:33.160
+As três variantes do pedido devem
+permanecer corretas.
+
+69
+00:06:37.320 --> 00:06:43.020
+Use Observações para registrar detalhes
+úteis da chegada, como as duas caixas e a
+necessidade de conferir avarias.
+
+70
+00:06:43.920 --> 00:06:46.280
+Quantidades e custos ficam nos campos
+próprios.
+
+71
+00:06:46.940 --> 00:06:51.800
+A observação complementa a conferência; ela
+não substitui os valores de cada item.
+
+72
+00:06:54.930 --> 00:06:59.340
+Clique em Preparar documento. O documento é
+salvo e a contagem física se abre.
+
+73
+00:06:59.440 --> 00:07:02.520
+Repare que a quantidade esperada não é
+aceita automaticamente.
+
+74
+00:07:03.460 --> 00:07:06.080
+Preparar não cria saldo e não exige caixa
+aberto;
+
+75
+00:07:06.980 --> 00:07:09.170
+é uma etapa separada da confirmação de
+estoque.
+
+76
+00:07:12.940 --> 00:07:15.800
+Se a contagem não puder continuar agora,
+use Cancelar.
+
+77
+00:07:16.920 --> 00:07:20.440
+O documento preparado permanece na fila,
+aguardando a conferência física.
+
+78
+00:07:21.180 --> 00:07:23.740
+Isso permite interromper o trabalho nessa
+etapa
+
+79
+00:07:23.740 --> 00:07:28.580
+e retomar o documento correto quando a
+mercadoria estiver disponível para
+contagem.
+
+80
+00:07:30.890 --> 00:07:33.580
+Clique em Iniciar conferência física para
+retomar.
+
+81
+00:07:34.580 --> 00:07:38.700
+Para cada variante, informe quantas peças
+chegaram e quantas devem ser rejeitadas.
+
+82
+00:07:39.300 --> 00:07:41.460
+O aplicativo calcula a quantidade aceita.
+
+83
+00:07:42.360 --> 00:07:46.260
+Confira o código antes de contar, porque o
+mesmo produto possui tamanhos diferentes.
+
+84
+00:07:48.950 --> 00:07:53.500
+Para HZ-M, contamos dez peças e não
+rejeitamos nenhuma. O resultado aceito é
+dez.
+
+85
+00:07:54.000 --> 00:07:56.380
+Não copie a quantidade esperada sem contar:
+
+86
+00:07:56.940 --> 00:08:00.880
+o objetivo desta etapa é comparar o que o
+documento diz com o que realmente chegou.
+
+87
+00:08:06.940 --> 00:08:11.360
+Em HZ-G, vamos registrar nove peças
+contadas e uma rejeitada por avaria.
+
+88
+00:08:11.800 --> 00:08:13.280
+A quantidade aceita fica oito.
+
+89
+00:08:14.020 --> 00:08:17.400
+Como existe falta ou rejeição, informe o
+motivo da divergência.
+
+90
+00:08:18.000 --> 00:08:21.680
+Essa explicação permanece ligada ao
+documento para quem precisar conferir
+depois.
+
+91
+00:08:24.890 --> 00:08:38.160
+Em HZ-U, registramos cinco peças e nenhuma
+rejeitada. Confira o resultado aceito de
+cada linha antes de salvar. Peça rejeitada
+não deve compor o saldo disponível, mesmo
+que tenha sido encontrada fisicamente
+dentro da caixa.
+
+92
+00:08:42.880 --> 00:08:44.560
+Clique em Registrar conferência.
+
+93
+00:08:45.280 --> 00:08:48.360
+O documento passa ao estado conferido com
+divergência.
+
+94
+00:08:48.480 --> 00:08:50.000
+O saldo ainda está intacto:
+
+95
+00:08:50.160 --> 00:08:52.040
+salvar a contagem não confirma a entrada.
+
+96
+00:08:52.700 --> 00:08:58.420
+Você tem uma oportunidade separada para
+revisar o resultado e corrigir os dados
+antes de movimentar.
+
+97
+00:09:00.940 --> 00:09:04.060
+Na tabela, compare esperada, contada,
+aceita e rejeitada.
+
+98
+00:09:04.480 --> 00:09:08.580
+Confira também falta ou excesso, motivo,
+custo e referência do fornecedor.
+
+99
+00:09:09.440 --> 00:09:14.960
+Essa visão deixa claro o que será aceito e
+por que parte do combinado pode continuar
+pendente no pedido.
+
+100
+00:09:18.930 --> 00:09:23.360
+Vamos corrigir uma contagem: a peça G que
+faltava foi localizada na segunda caixa.
+
+101
+00:09:24.260 --> 00:09:29.660
+Use Corrigir contagem, altere a quantidade
+contada para dez e mantenha uma rejeitada
+por avaria.
+
+102
+00:09:30.320 --> 00:09:32.880
+Atualize o motivo para explicar exatamente
+o que mudou.
+
+103
+00:09:36.940 --> 00:09:40.680
+Clique em Salvar correção. Uma nova versão
+da conferência é registrada.
+
+104
+00:09:41.180 --> 00:09:45.060
+A quantidade aceita de G passa a nove, e a
+avaria continua documentada.
+
+105
+00:09:45.820 --> 00:09:47.700
+O estoque ainda não recebeu essas peças;
+
+106
+00:09:48.240 --> 00:09:51.200
+a confirmação permanece como uma decisão
+independente.
+
+107
+00:09:54.880 --> 00:09:59.320
+Abra Revisar confirmação e escolha o motivo
+de estoque COMPRA, Recebimento de compra.
+
+108
+00:10:00.820 --> 00:10:03.240
+Os motivos disponíveis precisam permitir
+entrada.
+
+109
+00:10:03.860 --> 00:10:07.620
+Confira novamente o documento e as
+quantidades aceitas antes de confirmar;
+
+110
+00:10:08.640 --> 00:10:11.080
+neste momento, ainda é possível voltar à
+conferência.
+
+111
+00:10:12.870 --> 00:10:17.120
+Use Voltar à conferência quando precisar
+revisar a contagem mais uma vez.
+
+112
+00:10:17.680 --> 00:10:21.440
+Os valores salvos são recuperados, sem
+voltar automaticamente ao esperado do
+pedido.
+
+113
+00:10:22.440 --> 00:10:27.960
+Aqui só vamos conferir os números e sair da
+edição, mantendo a última correção
+registrada.
+
+114
+00:10:30.870 --> 00:10:34.980
+Clique em Cancelar nessa edição para
+retornar ao documento sem outra alteração.
+
+115
+00:10:35.520 --> 00:10:37.320
+A contagem salva continua valendo.
+
+116
+00:10:38.140 --> 00:10:41.180
+Não confunda cancelar a edição com cancelar
+o recebimento:
+
+117
+00:10:41.960 --> 00:10:45.820
+o documento permanece conferido, aguardando
+a confirmação final de entrada.
+
+118
+00:10:48.940 --> 00:11:02.330
+Revise a confirmação novamente e confirme a
+entrada. Agora o movimento de estoque é
+criado somente para as unidades aceitas:
+dez M, nove G e cinco U. A peça G rejeitada
+permanece no histórico da conferência e não
+entra no saldo.
+
+119
+00:11:06.930 --> 00:11:09.620
+Abra as etiquetas A4 das peças aceitas.
+
+120
+00:11:09.840 --> 00:11:13.100
+A folha usa as variantes aceitas e gera uma
+etiqueta por unidade.
+
+121
+00:11:13.640 --> 00:11:16.000
+Confira dados e preços antes de imprimir.
+
+122
+00:11:16.760 --> 00:11:20.920
+Aqui mostramos a página real gerada pelo
+aplicativo, sem usar uma impressora física.
+
+123
+00:11:25.080 --> 00:11:42.260
+Feche a aba de etiquetas. Nesta instalação,
+Continuar no financeiro ficou indisponível:
+os custos não estão sendo apresentados no
+documento. O recebimento foi preservado.
+Vamos verificar essa configuração com a
+equipe responsável e mostrar o mesmo
+documento novamente, sem repetir a entrada.
+
+124
+00:11:49.647 --> 00:11:55.727
+A entrada está confirmada, mas o atalho
+financeiro aparece desabilitado e a tela
+não apresenta os custos.
+
+125
+00:11:56.347 --> 00:12:00.127
+Antes de repetir o recebimento ou tentar
+preencher outro documento,
+
+126
+00:12:00.527 --> 00:12:04.927
+a equipe responsável precisa verificar a
+configuração de visibilidade desses
+valores.
+
+127
+00:12:12.147 --> 00:12:17.967
+No nosso laboratório, a equipe habilitou a
+apresentação de custos pelo serviço
+administrativo real.
+
+128
+00:12:18.807 --> 00:12:22.287
+Essa configuração ainda não tem uma tela
+para a operadora nesta versão.
+
+129
+00:12:22.727 --> 00:12:24.467
+A entrada existente foi preservada;
+
+130
+00:12:25.087 --> 00:12:28.747
+não alteramos quantidades, autoridade do
+catálogo nem conexão com o Byte.
+
+131
+00:12:30.213 --> 00:12:34.853
+Ao abrir o mesmo documento novamente, os
+custos reaparecem e o atalho fica
+habilitado.
+
+132
+00:12:35.513 --> 00:12:40.193
+Isso confirma que os valores estavam
+guardados: faltava apresentá-los nessa
+tela.
+
+133
+00:12:41.313 --> 00:12:47.853
+Reconhecer essa diferença evita repetir uma
+entrada ou criar outro documento para
+tentar corrigir apenas a visualização.
+
+134
+00:12:48.907 --> 00:12:57.307
+Clique em Continuar no financeiro. O
+formulário recebe a origem da entrada, mas
+o título ainda será criado depois de
+informar e confirmar seus dados.
+
+135
+00:12:58.247 --> 00:13:04.887
+A entrada de estoque não registra um
+pagamento automaticamente. Vamos concluir
+as contas a pagar em seu capítulo próprio.
+
+136
+00:13:06.907 --> 00:13:10.007
+Volte a Compras e recebimento e abra
+Documento de entrada.
+
+137
+00:13:10.507 --> 00:13:13.787
+A fila reúne documentos preparados,
+conferidos e confirmados.
+
+138
+00:13:14.347 --> 00:13:19.867
+Use a referência exata da origem quando
+precisar localizar uma nota ou um romaneio
+específico,
+
+139
+00:13:20.347 --> 00:13:22.247
+sem preparar outra entrada por engano.
+
+140
+00:13:24.917 --> 00:13:30.707
+Uma origem inexistente produz uma mensagem
+de resultado vazio, enquanto a fila
+permanece disponível.
+
+141
+00:13:31.187 --> 00:13:39.187
+A busca é exata. Confira o padrão usado no
+cadastro e o texto digitado antes de
+concluir que o documento não está
+registrado no aplicativo.
+
+142
+00:13:42.837 --> 00:13:46.407
+Agora procure a referência da primeira
+entrada que acabamos de conferir.
+
+143
+00:13:47.147 --> 00:13:49.927
+Como há um único resultado, ele é aberto
+automaticamente.
+
+144
+00:13:50.987 --> 00:13:54.127
+Confira fornecedor, local, estado e
+quantidades.
+
+145
+00:13:55.047 --> 00:14:00.587
+Essa consulta permite relacionar uma dúvida
+posterior ao documento que foi conferido na
+chegada da mercadoria.
+
+146
+00:14:01.583 --> 00:14:04.753
+Para retirar a busca, deixe a referência
+vazia e consulte novamente.
+
+147
+00:14:05.753 --> 00:14:07.793
+Atualizar recarrega a fila do serviço.
+
+148
+00:14:08.653 --> 00:14:12.013
+A consulta não cria outra entrada nem
+repete a confirmação de estoque;
+
+149
+00:14:12.393 --> 00:14:14.873
+ela apenas recupera os documentos já
+registrados.
+
+150
+00:14:19.563 --> 00:14:21.993
+Confira o mesmo documento, agora com os
+custos visíveis.
+
+151
+00:14:22.613 --> 00:14:25.713
+As quantidades aceitas e a avaria continuam
+preservadas.
+
+152
+00:14:26.633 --> 00:14:28.873
+O pedido ainda tem uma unidade G pendente.
+
+153
+00:14:29.893 --> 00:14:34.923
+Vamos mostrar o recebimento complementar e
+o encerramento sem entrada quando nada
+puder ser aceito.
+
+154
+00:14:46.293 --> 00:14:52.093
+Vamos ver dois outros resultados do
+recebimento: quando nenhuma peça pode ser
+aceita e quando chega o restante de um
+pedido.
+
+155
+00:14:52.773 --> 00:15:00.713
+Primeiro, prepare um documento manual
+avulso chamado SEM-ENTRADA-01, com uma
+unidade de HZ-M destinada ao depósito.
+
+156
+00:15:08.773 --> 00:15:10.553
+Clique em Preparar documento.
+
+157
+00:15:11.053 --> 00:15:13.873
+Como antes, a preparação só registra o
+esperado.
+
+158
+00:15:14.373 --> 00:15:16.033
+A contagem física é independente.
+
+159
+00:15:16.713 --> 00:15:19.013
+Esse exemplo não está vinculado ao pedido
+principal;
+
+160
+00:15:19.613 --> 00:15:24.573
+ele serve para mostrar o que fazer quando a
+mercadoria apresentada precisa ser
+rejeitada por completo.
+
+161
+00:15:26.773 --> 00:15:30.613
+Informe uma peça contada e uma rejeitada. A
+quantidade aceita fica zero.
+
+162
+00:15:31.413 --> 00:15:33.573
+Escreva o motivo da avaria de forma clara.
+
+163
+00:15:34.433 --> 00:15:38.433
+Não deixe a peça entrar no disponível
+apenas para conseguir encerrar o documento:
+
+164
+00:15:38.893 --> 00:15:41.353
+o aplicativo prevê o encerramento sem
+entrada.
+
+165
+00:15:44.793 --> 00:15:47.073
+Registre a conferência e confira o
+resultado.
+
+166
+00:15:47.373 --> 00:15:51.973
+O documento conserva a quantidade esperada,
+a contada, a rejeitada e o motivo.
+
+167
+00:15:53.073 --> 00:15:58.213
+Aceita igual a zero significa que não
+existe quantidade para gerar um movimento
+de entrada no estoque.
+
+168
+00:16:02.773 --> 00:16:16.893
+Abra Revisar confirmação. O botão agora é
+Encerrar sem entrada. Como nenhuma unidade
+foi aceita, essa decisão não exige motivo
+de estoque nem caixa aberto. Leia a revisão
+para ter certeza de que o resultado
+corresponde à conferência física.
+
+169
+00:16:20.763 --> 00:16:22.393
+Confirme o encerramento sem entrada.
+
+170
+00:16:23.073 --> 00:16:26.893
+O documento permanece no histórico, mas
+nenhum movimento vazio é criado.
+
+171
+00:16:27.713 --> 00:16:31.333
+Essa separação conserva a evidência da
+chegada e da rejeição
+
+172
+00:16:31.333 --> 00:16:34.833
+sem aumentar artificialmente a quantidade
+disponível no estoque.
+
+173
+00:16:38.773 --> 00:16:41.533
+Confira o estado e as orientações abaixo.
+
+174
+00:16:41.973 --> 00:16:48.973
+Não há etiquetas de unidades aceitas, e um
+documento com total aceito zero não gera um
+título calculado pelo atalho financeiro.
+
+175
+00:16:49.993 --> 00:16:53.393
+O encerramento sem entrada não deve ser
+confundido com apagar o documento.
+
+176
+00:16:56.763 --> 00:17:00.873
+Agora volte a Pedidos de compra e abra o
+pedido da Horizonte mostrado na tela.
+
+177
+00:17:01.453 --> 00:17:06.773
+Depois do primeiro recebimento, vinte e
+quatro unidades foram aceitas e uma G
+continua pendente.
+
+178
+00:17:07.353 --> 00:17:12.313
+A peça rejeitada não encerrou essa
+pendência como se tivesse sido recebida em
+boas condições.
+
+179
+00:17:14.763 --> 00:17:20.413
+Clique em Preparar recebimento. Somente a
+unidade pendente de HZ-G é levada ao novo
+documento.
+
+180
+00:17:20.853 --> 00:17:24.093
+Isso evita repetir as vinte e quatro
+unidades já confirmadas.
+
+181
+00:17:24.933 --> 00:17:27.653
+Confira a linha antes de preparar o
+complemento da entrega.
+
+182
+00:17:32.783 --> 00:17:40.153
+Escolha o salão como local. Na referência
+desse segundo documento, use a mesma
+estrutura da primeira entrada, terminando
+em zero dois.
+
+183
+00:17:41.473 --> 00:17:44.393
+Use uma referência que represente a origem
+do complemento.
+
+184
+00:17:44.393 --> 00:17:51.963
+O vínculo com o pedido mantém o
+acompanhamento, enquanto cada recebimento
+conserva sua própria conferência e seu
+movimento.
+
+185
+00:17:52.813 --> 00:17:59.233
+Prepare o documento complementar. A
+quantidade esperada é uma unidade, mas
+ainda precisamos conferir o que chegou.
+
+186
+00:17:59.973 --> 00:18:07.073
+O mesmo processo vale para entregas
+parciais maiores: documento, contagem,
+revisão e confirmação permanecem separados.
+
+187
+00:18:10.863 --> 00:18:25.113
+Conte uma unidade e informe zero
+rejeitadas. A quantidade aceita fica uma,
+sem divergência. Confira a variante G para
+não registrar o tamanho errado no
+complemento. Essa peça deve corresponder
+exatamente à pendência que veio do pedido.
+
+188
+00:18:29.213 --> 00:18:30.253
+Registre a conferência.
+
+189
+00:18:30.453 --> 00:18:34.653
+O aplicativo informa que não há divergência
+e que o saldo ainda não foi alterado.
+
+190
+00:18:35.773 --> 00:18:39.893
+Mesmo uma contagem que coincide com o
+esperado precisa passar pela confirmação
+final
+
+191
+00:18:39.893 --> 00:18:42.933
+antes de acrescentar a unidade ao estoque.
+
+192
+00:18:46.863 --> 00:18:51.053
+Abra a revisão e escolha COMPRA,
+Recebimento de compra, como motivo de
+estoque.
+
+193
+00:18:51.393 --> 00:18:53.353
+Confira a origem e a quantidade aceita.
+
+194
+00:18:54.053 --> 00:18:56.433
+O motivo vincula o movimento à finalidade
+da entrada;
+
+195
+00:18:57.013 --> 00:18:59.233
+ele não substitui a conferência das peças.
+
+196
+00:19:04.873 --> 00:19:07.633
+Confirme a entrada complementar e aguarde o
+sucesso.
+
+197
+00:19:08.333 --> 00:19:12.653
+Essa confirmação acrescenta somente a
+unidade G deste documento.
+
+198
+00:19:13.113 --> 00:19:16.093
+As quantidades da primeira entrega não são
+lançadas novamente,
+
+199
+00:19:16.773 --> 00:19:19.853
+e os dois recebimentos continuam
+consultáveis por suas referências.
+
+200
+00:19:22.873 --> 00:19:25.193
+Volte ao pedido principal e confira o
+progresso:
+
+201
+00:19:25.753 --> 00:19:28.513
+vinte e cinco unidades recebidas e nenhuma
+pendente.
+
+202
+00:19:29.033 --> 00:19:30.853
+O estado passa a totalmente recebido.
+
+203
+00:19:32.033 --> 00:19:36.973
+A tabela por variante permite conferir
+quais confirmações completaram o combinado
+com o fornecedor.
+
+204
+00:19:42.863 --> 00:19:47.913
+Quando não há quantidade pendente, o pedido
+não oferece outra preparação para o mesmo
+restante.
+
+205
+00:19:48.853 --> 00:19:52.553
+Você aprendeu a encerrar uma entrada sem
+aceite e a concluir uma entrega parcial.
+
+206
+00:19:53.653 --> 00:19:58.273
+A seguir vamos conectar um romaneio
+importado ao cadastro e à preparação do
+ERP.
+

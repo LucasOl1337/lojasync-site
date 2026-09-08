@@ -1,0 +1,305 @@
+WEBVTT
+
+1
+00:00:00.830 --> 00:00:16.730
+Abra Estoque. Nesta instalação de
+treinamento, ainda falta a estrutura
+operacional. Em uma loja em uso, esses
+cadastros normalmente já foram preparados
+pela equipe responsável. Vamos demonstrar a
+relação entre filial, local de estoque e
+motivo de movimentação.
+
+2
+00:00:22.330 --> 00:00:30.200
+Clique em Configurar estrutura. Nova filial
+identifica a unidade da loja. Novo local
+define onde as peças ficam dentro dessa
+filial.
+
+3
+00:00:31.120 --> 00:00:38.510
+Novo motivo explica quais tipos de
+movimentação podem usar determinada
+justificativa. Confira os dados antes de
+criar cada cadastro.
+
+4
+00:00:40.340 --> 00:00:43.760
+Preencha um código curto para a filial e um
+nome fácil de reconhecer.
+
+5
+00:00:44.420 --> 00:00:46.460
+Usaremos LOJA e Loja Escola DEMO.
+
+6
+00:00:46.940 --> 00:00:48.820
+Código e nome têm funções diferentes:
+
+7
+00:00:49.140 --> 00:00:50.680
+o código identifica a unidade;
+
+8
+00:00:51.120 --> 00:00:53.580
+o nome ajuda a equipe a selecionar a opção
+correta.
+
+9
+00:00:57.340 --> 00:01:00.960
+Clique em Criar filial e aguarde a opção
+aparecer no cadastro de locais.
+
+10
+00:01:01.020 --> 00:01:03.180
+O local precisa estar vinculado a uma
+filial.
+
+11
+00:01:04.120 --> 00:01:10.900
+Essa ligação é importante quando existem
+várias unidades ou mais de um ponto físico
+onde as peças ficam guardadas.
+
+12
+00:01:15.340 --> 00:01:20.060
+No Novo local, selecione a filial e
+cadastre SALAO, com o nome Salão de vendas
+DEMO.
+
+13
+00:01:20.660 --> 00:01:24.280
+É nesse local que vamos consultar e vender
+as peças do atendimento.
+
+14
+00:01:25.080 --> 00:01:27.900
+Criar o local ainda não informa quantas
+unidades existem nele.
+
+15
+00:01:33.340 --> 00:01:40.540
+Cadastre também DEP, chamado Depósito DEMO,
+na mesma filial. Teremos dois locais para
+demonstrar uma transferência mais adiante.
+
+16
+00:01:41.460 --> 00:01:48.040
+O saldo é separado por local: uma peça
+disponível no depósito não aparece
+automaticamente como disponível no salão.
+
+17
+00:01:51.340 --> 00:01:54.500
+Em Novo motivo, preencha AJUSTE e
+Conferência de estoque.
+
+18
+00:01:55.120 --> 00:01:56.880
+Marque o tipo Ajuste e crie o motivo.
+
+19
+00:01:57.520 --> 00:02:00.280
+Os tipos permitidos controlam onde ele
+poderá ser escolhido.
+
+20
+00:02:00.980 --> 00:02:05.040
+Use nomes que descrevam a razão da
+operação, conforme a organização da loja.
+
+21
+00:02:10.280 --> 00:02:14.120
+Agora criamos COMPRA, Recebimento de
+compra, permitindo Entrada.
+
+22
+00:02:14.680 --> 00:02:19.020
+Esse motivo será usado quando uma
+conferência de mercadoria for confirmada.
+
+23
+00:02:19.840 --> 00:02:22.400
+O cadastro de motivos não registra nenhuma
+quantidade;
+
+24
+00:02:23.280 --> 00:02:25.980
+ele prepara a justificativa que acompanhará
+o movimento real.
+
+25
+00:02:29.330 --> 00:02:31.700
+Crie VENDA, Venda de balcão, com o tipo
+Venda.
+
+26
+00:02:32.180 --> 00:02:35.480
+Essa separação ajuda a reconhecer por que o
+saldo diminuiu.
+
+27
+00:02:36.300 --> 00:02:39.820
+Observe que não estamos marcando todos os
+tipos em todos os motivos:
+
+28
+00:02:39.940 --> 00:02:42.360
+cada um deve corresponder à finalidade
+prevista.
+
+29
+00:02:47.280 --> 00:02:52.480
+Para uma correção ou cancelamento, cadastre
+o motivo mostrado na tela e permita
+Compensação.
+
+30
+00:02:53.520 --> 00:02:58.180
+Quando um movimento confirmado precisar ser
+corrigido, o histórico original será
+preservado.
+
+31
+00:02:59.380 --> 00:03:04.280
+Mais adiante veremos a operação
+compensatória e sua ligação com o registro
+que foi corrigido.
+
+32
+00:03:05.383 --> 00:03:11.353
+Cadastre DEVOL, Devolução de mercadoria,
+com Devolução e Saída. A operação
+selecionada determina o efeito:
+
+33
+00:03:12.073 --> 00:03:15.953
+uma peça pode voltar da cliente ou sair em
+uma devolução ao fornecedor.
+
+34
+00:03:16.593 --> 00:03:19.433
+Sempre confira o documento e o destino
+antes de confirmar.
+
+35
+00:03:23.363 --> 00:03:28.093
+Por fim, crie TRANSF, Transferência entre
+locais, permitindo Saída e Entrada.
+
+36
+00:03:28.633 --> 00:03:33.213
+A transferência tem os dois lados: sai da
+origem e entra no destino durante o
+recebimento.
+
+37
+00:03:34.113 --> 00:03:36.953
+Vamos acompanhar esses estados em um
+capítulo específico.
+
+38
+00:03:41.333 --> 00:03:56.593
+Confira o resumo: uma filial, dois locais e
+seis motivos. Use Ocultar cadastro para
+recolher os formulários. A estrutura está
+pronta, mas ainda não há mercadoria
+disponível. Vamos registrar um pequeno
+ajuste para representar duas peças
+conferidas fisicamente.
+
+39
+00:03:59.373 --> 00:04:03.413
+Em Ajustar uma posição, escolha HZ-M, o
+local SALAO e o motivo de conferência.
+
+40
+00:04:03.513 --> 00:04:06.333
+A variação é a mudança no saldo, não o
+saldo final:
+
+41
+00:04:06.893 --> 00:04:09.913
+um valor positivo acrescenta peças, e um
+negativo retira.
+
+42
+00:04:10.653 --> 00:04:12.873
+A referência ajuda a localizar a origem
+depois.
+
+43
+00:04:17.373 --> 00:04:21.673
+Clique em Revisar ajuste. A confirmação
+mostra variante, local e quantidade.
+
+44
+00:04:22.453 --> 00:04:24.593
+Revise esses três pontos antes de
+prosseguir.
+
+45
+00:04:25.133 --> 00:04:28.673
+Perceba que digitamos três unidades, mas a
+contagem correta é duas.
+
+46
+00:04:29.453 --> 00:04:32.533
+Vamos usar Voltar e corrigir, sem gravar
+esse primeiro rascunho.
+
+47
+00:04:34.593 --> 00:04:36.953
+Volte ao formulário e troque a variação
+para dois.
+
+48
+00:04:37.893 --> 00:04:41.873
+A revisão serve justamente para corrigir o
+que foi preparado antes de movimentar.
+
+49
+00:04:42.493 --> 00:04:45.933
+Não confirme uma quantidade errada para
+depois tentar apagar o registro:
+
+50
+00:04:46.773 --> 00:04:48.793
+o estoque usa um histórico de operações.
+
+51
+00:04:52.383 --> 00:04:59.213
+Revise novamente e confirme o ajuste
+correto. Aguarde a resposta do aplicativo.
+Só a confirmação registra o movimento.
+
+52
+00:05:00.173 --> 00:05:06.113
+Os campos ficam prontos para uma próxima
+operação, e podemos conferir o resultado na
+tabela de saldos por local.
+
+53
+00:05:10.373 --> 00:05:11.873
+Busque HZ-M no saldo.
+
+54
+00:05:12.473 --> 00:05:16.213
+No salão, confira duas unidades em mãos,
+nenhuma reservada e duas disponíveis.
+
+55
+00:05:16.713 --> 00:05:17.973
+Esses valores são diferentes:
+
+56
+00:05:18.533 --> 00:05:22.253
+uma reserva pode reduzir o disponível sem
+retirar fisicamente as peças.
+
+57
+00:05:23.253 --> 00:05:26.413
+Vamos explorar essa diferença nas cenas de
+reservas e condicionais.
+

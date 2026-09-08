@@ -1,0 +1,352 @@
+WEBVTT
+
+1
+00:00:00.830 --> 00:00:09.420
+Abra Clientes na retaguarda. A lista reúne
+os cadastros usados para identificar quem
+está comprando, pagando uma parcela ou
+levando peças em condicional.
+
+2
+00:00:10.320 --> 00:00:16.460
+Antes de criar uma pessoa, procure pelo
+nome, documento, telefone ou e-mail para
+evitar um cadastro repetido.
+
+3
+00:00:21.330 --> 00:00:27.100
+Clique em Novo cliente. O nome é o ponto de
+partida; documento e contato podem ser
+preenchidos agora ou depois.
+
+4
+00:00:28.240 --> 00:00:33.040
+Vamos abrir um rascunho primeiro para
+mostrar como sair dessa tela sem registrar
+uma pessoa por engano.
+
+5
+00:00:37.350 --> 00:00:42.760
+Use Cancelar antes de salvar o cliente. O
+formulário é fechado e o rascunho não
+aparece na lista.
+
+6
+00:00:43.460 --> 00:00:50.420
+Agora vamos abrir Novo cliente novamente e
+preencher os dados da cliente fictícia que
+acompanhará nossa história de vendas.
+
+7
+00:00:53.320 --> 00:00:54.540
+Escreva Clara DEMO no nome.
+
+8
+00:00:55.100 --> 00:00:58.080
+Escolha o tipo de documento apenas quando
+tiver o número correto para informar.
+
+9
+00:00:58.900 --> 00:01:01.280
+CPF e CNPJ ativam o campo de número.
+
+10
+00:01:02.420 --> 00:01:06.820
+Neste treinamento vamos demonstrar uma
+recusa com um CPF deliberadamente inválido,
+
+11
+00:01:07.100 --> 00:01:08.320
+formado apenas por zeros.
+
+12
+00:01:10.270 --> 00:01:25.190
+Preencha telefone, e-mail e limite. Os
+contatos são fictícios. Observe a
+orientação do limite: ele é apenas uma
+informação cadastral. Não bloqueia a venda,
+não consulta SPC e não gera um carnê
+automaticamente. Não o trate como aprovação
+de crédito.
+
+13
+00:01:28.270 --> 00:01:34.560
+Ao tentar cadastrar, o aplicativo recusa o
+documento inválido. Leia a mensagem e volte
+ao campo responsável.
+
+14
+00:01:35.360 --> 00:01:41.180
+Uma recusa não significa que você deva
+insistir no mesmo valor: confira os dados
+antes de tentar outra vez.
+
+15
+00:01:46.270 --> 00:01:50.840
+Como nosso exemplo não tem documento real,
+selecione Sem documento. O campo de
+
+16
+00:01:50.840 --> 00:01:55.680
+número é limpo e fica desabilitado. Na
+operação da loja, informe o documento
+
+17
+00:01:55.680 --> 00:02:00.450
+verdadeiro quando disponível; não invente
+números para preencher um cadastro.
+
+18
+00:02:04.330 --> 00:02:08.940
+Clique em Cadastrar cliente e aguarde. O
+formulário de edição aparece com o cadastro
+salvo.
+
+19
+00:02:10.020 --> 00:02:13.100
+A partir daqui, alterações serão feitas em
+Salvar cliente.
+
+20
+00:02:13.640 --> 00:02:18.170
+Confira o nome da pessoa selecionada antes
+de mudar contato, limite ou endereço.
+
+21
+00:02:22.400 --> 00:02:28.040
+Vamos completar o nome para Clara Costa
+DEMO, corrigir o telefone e informar limite
+de setecentos e cinquenta reais.
+
+22
+00:02:29.180 --> 00:02:31.300
+Clique em Salvar cliente.
+
+23
+00:02:31.380 --> 00:02:36.600
+A versão do cadastro é atualizada, e os
+dados salvos passam a aparecer nas próximas
+consultas.
+
+24
+00:02:40.420 --> 00:02:43.420
+Procure pelo e-mail para localizar a
+cliente e clique em Abrir.
+
+25
+00:02:44.540 --> 00:02:47.260
+A busca também aceita outros dados de
+identificação.
+
+26
+00:02:47.780 --> 00:02:50.740
+Usar um contato ajuda quando existem nomes
+parecidos;
+
+27
+00:02:50.960 --> 00:02:53.460
+confira a linha encontrada antes de abrir o
+cadastro.
+
+28
+00:02:58.300 --> 00:03:05.540
+No endereço, escolha um rótulo como Casa.
+Preencha CEP, logradouro, número,
+complemento quando necessário, bairro,
+cidade e UF.
+
+29
+00:03:06.060 --> 00:03:08.360
+O rótulo distingue os endereços da mesma
+pessoa.
+
+30
+00:03:09.460 --> 00:03:13.440
+Confira todos os campos: neste exemplo, os
+dados são apenas de treinamento.
+
+31
+00:03:16.330 --> 00:03:17.660
+Clique em Salvar endereço.
+
+32
+00:03:18.860 --> 00:03:21.340
+Casa passa a aparecer no seletor de
+endereços salvos.
+
+33
+00:03:22.220 --> 00:03:25.840
+O cadastro pode ter mais de um endereço,
+por exemplo casa e trabalho;
+
+34
+00:03:26.500 --> 00:03:29.120
+escolha o correto quando uma operação
+precisar dessa informação.
+
+35
+00:03:34.280 --> 00:03:39.740
+Para corrigir um endereço salvo,
+selecione-o, altere o campo necessário e
+salve novamente.
+
+36
+00:03:40.520 --> 00:03:42.240
+Vamos trocar o número para cento e vinte.
+
+37
+00:03:43.160 --> 00:03:48.320
+Confira a atualização e a versão; não crie
+outro endereço apenas para corrigir o
+número do existente.
+
+38
+00:03:52.280 --> 00:03:55.620
+Use Novo endereço quando realmente precisar
+de outro destino.
+
+39
+00:03:56.200 --> 00:04:00.180
+Vamos preencher um endereço chamado
+Temporário para demonstrar a inclusão e a
+exclusão.
+
+40
+00:04:01.460 --> 00:04:03.540
+O endereço Casa continua salvo;
+
+41
+00:04:03.800 --> 00:04:07.280
+abrir um novo formulário não substitui
+automaticamente o anterior.
+
+42
+00:04:10.340 --> 00:04:11.540
+Salve o segundo endereço.
+
+43
+00:04:12.340 --> 00:04:14.940
+Agora Casa e Temporário estão disponíveis
+no seletor.
+
+44
+00:04:15.540 --> 00:04:18.840
+Confira qual rótulo está selecionado antes
+de editar ou excluir:
+
+45
+00:04:19.500 --> 00:04:24.040
+o botão de exclusão atua sobre esse
+endereço, e não sobre o cadastro inteiro da
+cliente.
+
+46
+00:04:28.340 --> 00:04:33.760
+Clique em Excluir endereço e leia a
+confirmação. Vamos cancelar primeiro. O
+endereço permanece salvo.
+
+47
+00:04:34.760 --> 00:04:41.770
+Essa é a oportunidade de interromper a
+exclusão se você perceber que selecionou o
+rótulo errado ou ainda precisa conservar o
+destino.
+
+48
+00:04:46.280 --> 00:05:00.190
+Agora confirme a exclusão do endereço
+Temporário. Ele sai da lista, enquanto Casa
+permanece disponível. A ação foi aplicada
+somente ao endereço escolhido. Sempre
+confira o resultado no seletor depois de
+uma alteração desse tipo.
+
+49
+00:05:04.280 --> 00:05:09.340
+Selecione Casa novamente. O formulário
+recupera os dados salvos, incluindo o
+
+50
+00:05:09.340 --> 00:05:14.500
+número corrigido para cento e vinte. Isso
+confirma que o outro endereço foi
+preservado e
+
+51
+00:05:14.500 --> 00:05:17.600
+que você pode alternar entre destinos sem
+redigitá-los.
+
+52
+00:05:22.280 --> 00:05:36.290
+No Histórico do cliente, aparecem as vendas
+ligadas a este cadastro. Clara ainda não
+comprou, então a lista está vazia.
+Voltaremos a essa consulta depois das
+vendas para relacionar os itens e os
+documentos ao atendimento da cliente.
+
+53
+00:05:40.350 --> 00:05:45.640
+Vamos criar um segundo cadastro fictício,
+Bruno Treino DEMO, apenas para demonstrar a
+desativação.
+
+54
+00:05:46.460 --> 00:05:49.740
+Assim, a cliente principal continua ativa
+para as próximas cenas.
+
+55
+00:05:50.460 --> 00:05:55.040
+Confira o nome do cadastro antes de aplicar
+qualquer mudança no estado da pessoa.
+
+56
+00:05:58.660 --> 00:06:00.600
+Clique em Desativar e leia a confirmação.
+
+57
+00:06:01.080 --> 00:06:04.820
+Ao confirmar, o cadastro fica inativo e sai
+da seleção de novas vendas;
+
+58
+00:06:05.220 --> 00:06:06.620
+o histórico é preservado.
+
+59
+00:06:07.380 --> 00:06:11.820
+Desativar não é apagar vendas anteriores
+nem substituir a correção de dados
+cadastrais.
+
+60
+00:06:16.350 --> 00:06:22.680
+Volte à busca, procure Clara e abra seu
+cadastro. Ela continua ativa, com o
+endereço Casa e os dados revisados.
+
+61
+00:06:23.300 --> 00:06:29.500
+Esse é o cadastro que identificaremos no
+balcão quando registrarmos vendas,
+parcelas, devoluções e condicionais.
+
+62
+00:06:34.330 --> 00:06:36.460
+O cadastro de clientes está pronto para a
+história do curso.
+
+63
+00:06:36.600 --> 00:06:43.540
+Você viu inclusão, cancelamento de
+rascunho, recusa de documento inválido,
+edição, endereços, pesquisa e desativação.
+
+64
+00:06:44.960 --> 00:06:49.360
+A próxima etapa prepara fornecedores,
+pedidos e a entrada física da mercadoria.
+

@@ -1,0 +1,231 @@
+WEBVTT
+
+1
+00:00:00.840 --> 00:00:03.740
+Este capítulo conecta um romaneio
+processado ao ERP.
+
+2
+00:00:05.040 --> 00:00:05.960
+Abra Importação.
+
+3
+00:00:06.400 --> 00:00:10.340
+A leitura normal já ensinada no módulo
+anterior alimenta o catálogo de preparação.
+
+4
+00:00:11.160 --> 00:00:14.980
+Aqui veremos a ação explícita que publica o
+resultado no cadastro nativo
+
+5
+00:00:14.980 --> 00:00:17.390
+e depois prepara a conferência da
+mercadoria.
+
+6
+00:00:20.300 --> 00:00:36.060
+Escolha Leitura local e selecione o PDF
+fictício. O documento contém oito produtos
+e sessenta e quatro unidades. Aguarde o
+processamento. Essa escolha usa o motor
+local; não estamos enviando o documento
+para um provedor de inteligência artificial
+nesta demonstração.
+
+7
+00:00:57.330 --> 00:01:00.280
+No documento concluído, localize Adicionar
+ao catálogo.
+
+8
+00:01:00.860 --> 00:01:03.620
+O texto informa que essa publicação não
+forma estoque.
+
+9
+00:01:04.640 --> 00:01:06.820
+Este comando é uma etapa própria do ERP:
+
+10
+00:01:06.820 --> 00:01:12.670
+não confunda o resultado da leitura com
+mercadoria disponível para vender ou com
+uma venda realizada.
+
+11
+00:01:13.563 --> 00:01:16.233
+Clique em Adicionar ao catálogo e aguarde a
+resposta.
+
+12
+00:01:17.153 --> 00:01:21.133
+O serviço usa o resultado processado para
+cadastrar os produtos e variantes.
+
+13
+00:01:22.193 --> 00:01:28.613
+Não é necessário reler o PDF para executar
+essa passagem, nem mudar a autoridade
+operacional do catálogo de preparação.
+
+14
+00:01:36.673 --> 00:01:42.073
+O sucesso muda o botão para No catálogo e
+mostra as contagens de criação,
+reaproveitamento e rejeição.
+
+15
+00:01:42.653 --> 00:01:44.533
+Confira o resultado real antes de
+prosseguir.
+
+16
+00:01:45.413 --> 00:01:48.473
+Se houver falha, a interface oferece Tentar
+de novo;
+
+17
+00:01:49.373 --> 00:01:51.553
+não mostramos uma falha artificial nesta
+tomada.
+
+18
+00:01:54.673 --> 00:01:55.993
+Clique em Preparar recebimento.
+
+19
+00:01:56.933 --> 00:02:00.633
+O aplicativo abre Compras e recebimento com
+as linhas vindas da publicação.
+
+20
+00:02:01.333 --> 00:02:03.253
+As quantidades são o esperado do documento.
+
+21
+00:02:04.153 --> 00:02:10.553
+A preparação ainda não confirma que essas
+peças chegaram fisicamente nem que todas
+estão em condições de ser aceitas.
+
+22
+00:02:12.683 --> 00:02:14.893
+Selecione o fornecedor e o local de
+destino.
+
+23
+00:02:15.573 --> 00:02:20.993
+Usaremos o depósito e a referência de
+importação exibida neste exemplo para
+reconhecer esta demonstração.
+
+24
+00:02:21.673 --> 00:02:29.173
+Em uma operação real, o fornecedor deve
+corresponder à origem da mercadoria e o
+local deve representar onde ela será
+recebida.
+
+25
+00:02:30.583 --> 00:02:35.893
+Confira as primeiras linhas: variante,
+quantidade esperada, custo e referência
+quando presentes.
+
+26
+00:02:36.933 --> 00:02:41.393
+A transferência entre telas evita redigitar
+o resultado, mas não elimina a revisão.
+
+27
+00:02:42.533 --> 00:02:47.673
+Um tamanho incorreto ou uma quantidade
+divergente ainda precisa ser identificado
+antes da entrada.
+
+28
+00:02:48.683 --> 00:02:53.753
+Percorra também o fim da lista. Use
+Observações para registrar o contexto da
+conferência.
+
+29
+00:02:54.173 --> 00:02:58.353
+As observações complementam os campos; não
+substituem quantidades nem custos.
+
+30
+00:02:59.533 --> 00:03:05.813
+Nosso documento permanecerá aguardando
+contagem física para mostrar esse estado
+sem simular uma chegada que não ocorreu.
+
+31
+00:03:06.840 --> 00:03:22.250
+Clique em Preparar documento. O esperado
+fica registrado e a tela oferece a
+conferência física. A partir daqui, aplica-
+se o processo que já vimos: contar,
+registrar rejeições, revisar o resultado e
+somente então confirmar a entrada das
+quantidades aceitas.
+
+32
+00:03:24.840 --> 00:03:27.240
+Use Cancelar para sair da edição da
+contagem.
+
+33
+00:03:27.740 --> 00:03:33.600
+O documento preparado permanece disponível
+para continuar depois, sem registrar
+números inventados.
+
+34
+00:03:34.740 --> 00:03:39.800
+Cancelar esse formulário não apaga os
+produtos publicados nem transforma o
+esperado em saldo disponível.
+
+35
+00:03:42.830 --> 00:03:45.660
+Abra Produtos para consultar o cadastro que
+veio do romaneio.
+
+36
+00:03:46.560 --> 00:03:49.120
+A busca pelo código ajuda a reconhecer a
+peça.
+
+37
+00:03:50.140 --> 00:03:53.880
+O produto cadastrado e a quantidade
+disponível são informações diferentes:
+
+38
+00:03:54.920 --> 00:03:58.860
+ter uma variante no catálogo não significa
+que exista estoque dela em algum local.
+
+39
+00:04:00.730 --> 00:04:05.400
+A passagem está completa: leitura,
+publicação explícita e documento preparado.
+
+40
+00:04:06.440 --> 00:04:09.080
+A conferência desse documento ficou
+pendente de propósito.
+
+41
+00:04:10.220 --> 00:04:15.240
+Continuaremos com os recebimentos já
+confirmados da história para ensinar
+devolução ao fornecedor
+
+42
+00:04:15.240 --> 00:04:18.060
+e os registros financeiros correspondentes.
+

@@ -1,0 +1,65 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.782
+O carrinho usa DEP como local de saída nesta instalação. As peças recebidas estão no SALAO. Antes de vender, vamos transferir mercadoria pelo fluxo real. Abra Retaguarda, Estoque e Transferências. O atendimento permanece guardado enquanto ajustamos a disponibilidade entre locais.
+
+00:00:18.002 --> 00:00:36.630
+Escolha SALAO como origem, DEP como destino e TRANSF como motivo. Esse motivo precisa ter duas permissões: uma para saída, outra para entrada. Confira a direção: inverter os locais significa deslocar mercadoria no sentido oposto. Criar o rascunho ainda não altera o saldo.
+
+00:00:36.850 --> 00:00:55.232
+Crie um rascunho usando a referência de cancelamento mostrada na tela. Vamos usar uma unidade U para ensinar o cancelamento antes do despacho. Busque o código, confira a variante e informe a quantidade planejada. Adicionar item coloca a linha no rascunho, sem reservar nem movimentar a mercadoria.
+
+00:00:55.452 --> 00:01:09.730
+Clique em Criar rascunho. O documento aparece no histórico com origem, destino, estado e itens. Ele pode ser conferido antes de despachar. Não trate a gravação do rascunho como prova de que a carga saiu da origem ou chegou ao destino.
+
+00:01:09.950 --> 00:01:25.086
+Revisar cancelamento abre a confirmação do documento selecionado. A tela informa que nenhum saldo ou reserva será alterado. Esse caminho existe enquanto a transferência é rascunho; o despacho representa outra etapa com efeito real no estoque.
+
+00:01:25.306 --> 00:01:40.549
+Use Voltar para preservar o rascunho. Abrir e fechar a revisão não cancela a transferência. Confira o estado antes de decidir, principalmente quando houver vários documentos recentes na lista e você precisar reconhecer qual está selecionado.
+
+00:01:40.769 --> 00:01:56.433
+Reabra a revisão e confirme o cancelamento deste documento alternativo. Ele permanece no histórico com a decisão registrada. Nenhuma quantidade saiu do SALAO. Agora criaremos outro documento para realizar a transferência que o atendimento precisa.
+
+00:01:56.653 --> 00:02:11.964
+Informe TRANS-DEP-01 e acrescente oito unidades M. O novo documento usa a mesma direção SALAO para DEP. Confira a referência e cada quantidade planejada; o sistema precisa representar a carga real que será separada para a transferência.
+
+00:02:12.184 --> 00:02:27.730
+Acrescente seis unidades G. Uma transferência pode reunir vários itens, mantendo o acompanhamento por variante. A descrição da camiseta é igual, mas o código e a grade distinguem as peças. Confira essas informações antes de adicionar cada linha.
+
+00:02:27.950 --> 00:02:41.403
+Acrescente U e confira a lista. Vamos corrigir a quantidade antes de gravar o documento. O rascunho deve representar o planejado, sem usar uma observação para contradizer a quantidade numérica que será despachada.
+
+00:02:41.623 --> 00:02:55.464
+Use Remover na linha U e inclua novamente com três unidades. As outras variantes permanecem. Essa correção acontece antes da criação do documento e não exige movimento compensatório. O plano final é oito M, seis G e três U.
+
+00:02:55.684 --> 00:03:13.581
+Crie o rascunho principal e leia o detalhe. Há três situações para conferir: a quantidade planejada, a quantidade recebida e a quantidade em trânsito. Neste momento, ainda não houve despacho. Confira origem, destino e as três linhas antes de executar a ação que retira a carga da origem.
+
+00:03:13.801 --> 00:03:28.263
+Clique em Despachar todos os itens somente depois da conferência da carga. Essa ação lança a saída na origem e coloca as quantidades em trânsito. O destino ainda não recebe o saldo automaticamente; ele precisa confirmar o que chegou.
+
+00:03:28.483 --> 00:03:41.323
+Confira as colunas após o despacho. As quantidades estão em trânsito e o recebido ainda é zero. Essa distinção impede tratar mercadoria no caminho como se já estivesse disponível para vender no destino.
+
+00:03:41.543 --> 00:03:55.793
+Informe somente o que chegou nesta primeira parte: três M, duas G e uma U. Receber agora é incremental, não o acumulado da transferência. Cada confirmação acrescenta essa quantidade ao destino e reduz o que continua em trânsito.
+
+00:03:56.013 --> 00:04:10.509
+Confirme o recebimento parcial. O DEP recebe as quantidades informadas e o restante permanece em trânsito. O documento conserva a diferença entre o planejado e o que já chegou. Não repita a primeira parte quando a próxima caixa chegar.
+
+00:04:10.729 --> 00:04:25.005
+Leia o restante: cinco M, quatro G e duas U. As quantidades recebidas anteriormente continuam no acumulado. Essa consulta orienta o próximo recebimento e evita duplicar a entrada usando o total planejado em vez da parte pendente.
+
+00:04:25.225 --> 00:04:39.970
+Informe o complemento que chegou: cinco M, quatro G e duas U. Confira as variantes e os limites mostrados nos campos. A confirmação deve corresponder à mercadoria presente, sem antecipar saldo para completar visualmente o documento.
+
+00:04:40.190 --> 00:04:55.734
+Confirme o complemento. O estado passa a Recebida e toda a carga foi registrada no destino. O despacho e os dois recebimentos permanecem como eventos próprios. A transferência não cria mercadoria adicional: ela desloca quantidades entre locais.
+
+00:04:55.954 --> 00:05:10.899
+Confira o documento concluído. O DEP agora possui oito M, seis G e três U desta transferência. A carga deixou o SALAO e chegou ao local usado pelo balcão. Podemos voltar ao atendimento sem alterar o cadastro ou inventar uma entrada de compra.
+
+00:05:11.119 --> 00:05:27.570
+Volte ao balcão e confira o atendimento que estava preparado. A transferência resolveu a disponibilidade no local de saída. Agora as vendas serão confirmadas depois da movimentação real, mantendo uma sequência coerente entre recebimento, transferência e venda.
+

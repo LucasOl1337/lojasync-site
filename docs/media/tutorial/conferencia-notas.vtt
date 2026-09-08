@@ -1,0 +1,231 @@
+WEBVTT
+
+1
+00:00:00.770 --> 00:00:12.200
+Voltamos à Importação para acrescentar uma
+segunda nota. Usamos Leitura local
+novamente, desta vez com um arquivo de
+texto. Ele contém um moletom infantil, em
+dois tamanhos, somando quatro unidades.
+
+2
+00:00:20.040 --> 00:00:24.700
+As duas notas aparecem na fila. Clique no
+PDF ou no texto para escolher qual
+conferir.
+
+3
+00:00:25.380 --> 00:00:28.740
+Essa seleção muda o documento ativo; não
+faz uma nova importação.
+
+4
+00:00:29.340 --> 00:00:31.500
+O resumo acompanha o resultado selecionado.
+
+5
+00:00:33.240 --> 00:00:37.160
+Podemos organizar as janelas. Com foco no
+cabeçalho, as setas movem a prévia.
+
+6
+00:00:37.940 --> 00:00:41.080
+Escape retorna à posição anterior enquanto
+o foco permanece ali.
+
+7
+00:00:41.800 --> 00:00:43.920
+Shift com seta faz um deslocamento maior.
+
+8
+00:00:45.440 --> 00:00:49.960
+No canto de redimensionamento, as setas
+ajustam o tamanho, e Shift aumenta o passo.
+
+9
+00:00:50.960 --> 00:00:53.280
+Também podemos arrastar o cabeçalho com o
+mouse.
+
+10
+00:00:53.920 --> 00:00:57.220
+Essas alterações são da área de
+conferência, sem mudar os produtos.
+
+11
+00:01:05.340 --> 00:01:16.720
+Organizar prévias distribui novamente as
+janelas. Para ler detalhes do documento,
+clique em Ampliar. O PDF abre maior, com os
+controles do visualizador. Use Voltar para
+retornar à conferência.
+
+12
+00:01:33.440 --> 00:01:37.860
+O xis na fila retira o texto da
+conferência. Isso não apaga os produtos já
+incorporados.
+
+13
+00:01:38.720 --> 00:01:44.620
+Abrimos o catálogo e conferimos: doze
+produtos e setenta e seis unidades. O
+produto permanece na lista.
+
+14
+00:01:57.140 --> 00:02:01.040
+Enviar novamente ao catálogo reaplica o
+resultado já processado.
+
+15
+00:02:01.400 --> 00:02:03.100
+Não é a primeira gravação da nota.
+
+16
+00:02:03.600 --> 00:02:07.660
+Neste exemplo, oito linhas são
+acrescentadas e o aplicativo abre o
+catálogo:
+
+17
+00:02:07.880 --> 00:02:11.480
+passamos de doze para vinte produtos, com
+cento e quarenta unidades.
+
+18
+00:02:12.200 --> 00:02:13.760
+Confira antes de repetir uma nota.
+
+19
+00:02:16.950 --> 00:02:25.640
+Voltamos à Importação. Limpar e enviar
+somente esta nota tem outro efeito: trocar
+toda a lista pelo resultado escolhido. Leia
+a quantidade que será removida.
+
+20
+00:02:26.600 --> 00:02:29.600
+Primeiro cancelamos, preservando os vinte
+produtos.
+
+21
+00:02:31.740 --> 00:02:37.300
+Na nossa base de treinamento, abrimos a
+confirmação outra vez e escolhemos Limpar e
+manter esta nota.
+
+22
+00:02:38.020 --> 00:02:42.660
+O catálogo passa a conter somente os oito
+produtos e sessenta e quatro unidades do
+PDF.
+
+23
+00:02:50.850 --> 00:02:54.200
+Desfazer última alteração recupera o
+catálogo anterior à troca.
+
+24
+00:02:54.900 --> 00:02:57.700
+Voltamos a vinte produtos e cento e
+quarenta unidades.
+
+25
+00:02:58.420 --> 00:03:02.140
+Essa recuperação é diferente de reler o
+arquivo ou reenviar outra cópia.
+
+26
+00:03:03.217 --> 00:03:06.147
+O histórico recente guarda os resultados
+deste navegador.
+
+27
+00:03:06.687 --> 00:03:09.747
+Tentamos Reabrir um registro, mas aparece
+Sessão indisponível:
+
+28
+00:03:10.747 --> 00:03:12.907
+o arquivo dessa entrada não está salvo
+aqui.
+
+29
+00:03:13.647 --> 00:03:17.027
+A presença do registro não garante que a
+prévia original esteja disponível.
+
+30
+00:03:17.787 --> 00:03:19.667
+Os produtos continuam no catálogo.
+
+31
+00:03:37.097 --> 00:03:38.547
+Leia o aviso e clique em OK.
+
+32
+00:03:39.727 --> 00:03:43.627
+Para conferir novamente, escolha o registro
+original que ainda tem a sessão salva;
+
+33
+00:03:44.367 --> 00:03:47.887
+se ele não estiver disponível, será preciso
+selecionar o arquivo novamente.
+
+34
+00:03:50.747 --> 00:03:58.347
+Localizamos a importação original do texto,
+com um item e cento e sessenta reais.
+Reabrir traz o documento e o
+
+35
+00:03:58.347 --> 00:04:00.997
+resultado guardados. Isso não acrescenta
+produtos por si só.
+
+36
+00:04:03.507 --> 00:04:06.587
+Enviar ao catálogo pelo registro, sim,
+reaplica o resultado.
+
+37
+00:04:07.007 --> 00:04:12.667
+O moletom entra novamente: agora são vinte
+e um produtos e cento e quarenta e quatro
+unidades.
+
+38
+00:04:13.327 --> 00:04:17.847
+Use esse comando quando realmente quiser
+repetir o envio e confira o catálogo que
+abre em seguida.
+
+39
+00:04:24.607 --> 00:04:26.687
+Excluir no histórico pede confirmação.
+
+40
+00:04:27.127 --> 00:04:33.747
+Ela explica que serão apagados o registro e
+a sessão do navegador, incluindo arquivo e
+extração, sem remover produtos já gravados.
+
+41
+00:04:34.747 --> 00:04:36.327
+Cancelar preserva o registro;
+
+42
+00:04:36.787 --> 00:04:38.987
+depois confirmamos a exclusão de um
+exemplo.
+
+43
+00:04:47.657 --> 00:05:02.467
+Limpar histórico faz isso para todos os
+registros restantes. Leia a confirmação e
+aceite somente quando não precisar mais das
+sessões. A área de notas fica vazia, mas o
+catálogo continua com vinte e um produtos e
+cento e quarenta e quatro unidades.
+

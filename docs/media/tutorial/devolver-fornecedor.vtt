@@ -1,0 +1,218 @@
+WEBVTT
+
+1
+00:00:02.730 --> 00:00:18.830
+Abra o primeiro documento confirmado que
+usamos na demonstração. A devolução ao
+fornecedor parte de uma entrada já aceita.
+Ela é diferente da rejeição feita durante a
+conferência: agora a mercadoria já compôs o
+estoque e precisa de uma saída vinculada à
+sua origem.
+
+2
+00:00:19.740 --> 00:00:24.980
+Clique em Devolver deste recebimento. A
+tabela separa quantidade aceita, já
+devolvida e restante.
+
+3
+00:00:25.920 --> 00:00:28.780
+O campo Devolver agora representa somente
+esta nova saída.
+
+4
+00:00:29.560 --> 00:00:31.680
+Confira variante e limite disponível;
+
+5
+00:00:32.380 --> 00:00:36.260
+o aplicativo não permite devolver
+indefinidamente a mesma quantidade
+recebida.
+
+6
+00:00:37.340 --> 00:00:43.640
+Informe uma unidade de HZ-G, escolha o
+motivo DEVOL e descreva a avaria
+identificada depois da entrada.
+
+7
+00:00:44.180 --> 00:00:46.280
+O motivo de estoque classifica o movimento.
+
+8
+00:00:46.860 --> 00:00:51.950
+O motivo humano explica a decisão para quem
+consultar o histórico e deve representar o
+ocorrido.
+
+9
+00:00:52.853 --> 00:00:54.593
+Clique em Revisar devolução.
+
+10
+00:00:55.453 --> 00:00:58.293
+Leia a quantidade e a justificativa antes
+de confirmar.
+
+11
+00:00:58.953 --> 00:01:00.733
+A revisão ainda não registra a saída.
+
+12
+00:01:01.493 --> 00:01:08.093
+Esse momento permite reconhecer uma
+variante errada ou uma quantidade digitada
+a mais sem precisar compensar um movimento
+depois.
+
+13
+00:01:09.140 --> 00:01:10.700
+Use Fechar para sair da revisão.
+
+14
+00:01:11.240 --> 00:01:15.940
+O recebimento continua confirmado e nenhuma
+devolução foi registrada por esse gesto.
+
+15
+00:01:16.540 --> 00:01:18.220
+Fechar não apaga a entrada original.
+
+16
+00:01:19.100 --> 00:01:23.580
+Vamos retomar o formulário para mostrar a
+correção do texto antes de efetivar a
+saída.
+
+17
+00:01:27.637 --> 00:01:42.187
+Abra novamente e ajuste o motivo humano. O
+rascunho mantém a quantidade preenchida.
+Revise de novo após qualquer alteração: é a
+revisão atual que deve corresponder ao que
+será enviado ao fornecedor, e não uma
+decisão lembrada de uma tela anterior.
+
+18
+00:01:43.473 --> 00:01:46.233
+Confirme a devolução e aguarde a mensagem
+de sucesso.
+
+19
+00:01:46.933 --> 00:01:51.233
+O sistema registra o movimento de saída e
+cria a expectativa de crédito do
+fornecedor.
+
+20
+00:01:51.893 --> 00:01:57.573
+Isso ainda não confirma uma concessão
+comercial nem representa um depósito
+recebido pela loja.
+
+21
+00:01:58.480 --> 00:02:01.240
+Abra o formulário novamente para conferir o
+restante.
+
+22
+00:02:01.740 --> 00:02:06.140
+A unidade G devolvida aparece no acumulado,
+e o limite disponível diminuiu.
+
+23
+00:02:06.600 --> 00:02:09.820
+Essa consulta ajuda a evitar uma segunda
+devolução da mesma peça.
+
+24
+00:02:10.640 --> 00:02:13.520
+A origem continua preservada no documento
+de entrada.
+
+25
+00:02:14.573 --> 00:02:21.333
+Vamos registrar uma segunda devolução,
+agora de uma unidade U com mancha. Ela terá
+outra decisão financeira no próximo
+capítulo.
+
+26
+00:02:22.053 --> 00:02:30.593
+Usamos um exemplo distinto para ensinar
+confirmação, rejeição e correção sem tratar
+movimentos diferentes como se fossem o
+mesmo registro.
+
+27
+00:02:31.497 --> 00:02:46.507
+Revise e confirme a segunda devolução. O
+histórico agora apresenta duas devoluções
+vinculadas ao recebimento. Cada uma
+conserva suas quantidades e sua expectativa
+de crédito. As demais unidades aceitas
+continuam no estoque, respeitando o que
+saiu de fato.
+
+28
+00:02:47.797 --> 00:02:49.727
+Clique em Abrir crédito no financeiro.
+
+29
+00:02:50.247 --> 00:02:56.887
+Nesta gravação, o atalho levou à lista, mas
+o detalhe não foi aberto automaticamente e
+a mensagem de carregamento permaneceu.
+
+30
+00:02:57.847 --> 00:02:59.327
+Os créditos existem na lista.
+
+31
+00:03:00.207 --> 00:03:04.447
+Vamos usar Abrir crédito na linha correta
+para continuar pela interface disponível.
+
+32
+00:03:08.530 --> 00:03:13.440
+Na lista, confira a sugestão de vinte e
+quatro reais e noventa centavos e clique em
+Abrir crédito.
+
+33
+00:03:13.880 --> 00:03:16.920
+Esse caminho abre a expectativa da peça U
+diretamente.
+
+34
+00:03:17.400 --> 00:03:22.260
+A referência da devolução e a entrada
+ajudam a reconhecer o registro correto
+
+35
+00:03:22.260 --> 00:03:24.800
+quando o atalho não seleciona o detalhe.
+
+36
+00:03:25.887 --> 00:03:28.187
+Confira o valor sugerido e o estado
+pendente.
+
+37
+00:03:29.087 --> 00:03:34.087
+O estoque já registrou a saída da
+mercadoria, mas ainda falta decidir o
+crédito com a evidência do fornecedor.
+
+38
+00:03:35.027 --> 00:03:39.727
+Criar, confirmar ou aplicar uma expectativa
+não executa pagamento externo.
+
+39
+00:03:40.647 --> 00:03:43.747
+Continuaremos pelas contas a pagar antes de
+decidir esses créditos.
+

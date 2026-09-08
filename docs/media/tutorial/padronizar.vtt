@@ -1,0 +1,167 @@
+WEBVTT
+
+1
+00:00:00.770 --> 00:00:06.100
+Antes de alterar códigos em lote, use a
+busca para limitar os produtos. Procuramos
+CAMISETA.
+
+2
+00:00:06.740 --> 00:00:10.840
+O painel Códigos indica que a operação
+atingirá apenas os dois itens visíveis.
+
+3
+00:00:13.860 --> 00:00:16.020
+Informe quantos caracteres cortar do
+começo.
+
+4
+00:00:16.680 --> 00:00:18.780
+Três retira as duas letras xis e o hífen.
+
+5
+00:00:19.460 --> 00:00:21.820
+Os botões de mais e menos ajustam essa
+quantidade;
+
+6
+00:00:22.360 --> 00:00:23.860
+acompanhe a prévia antes de aplicar.
+
+7
+00:00:24.940 --> 00:00:28.660
+No final, também cortamos três caracteres:
+o hífen e as duas letras zê.
+
+8
+00:00:28.840 --> 00:00:31.720
+Confira a prévia e clique em Aplicar
+formatação.
+
+9
+00:00:31.820 --> 00:00:33.890
+Os códigos ficam mil e um, e mil e três.
+
+10
+00:00:39.030 --> 00:00:43.420
+Para recuperar os códigos de origem, abra
+Códigos e escolha Restaurar originais.
+
+11
+00:00:43.700 --> 00:00:48.300
+Isso recupera o valor guardado pelo
+aplicativo, não um código novo digitado por
+você.
+
+12
+00:00:52.250 --> 00:01:03.460
+Limpamos a busca e abrimos o painel
+novamente. Agora Todo o catálogo indica
+três produtos. Esse escopo acompanha o
+filtro da lista. Cancelar ou Escape fecha o
+painel sem aplicar um novo corte.
+
+13
+00:01:20.280 --> 00:01:23.400
+Vamos preparar um exemplo de nomes
+despadronizados.
+
+14
+00:01:23.400 --> 00:01:28.200
+Em Editar células, acrescentamos símbolos e
+a sigla REF a duas camisetas.
+
+15
+00:01:28.200 --> 00:01:32.840
+São alterações nos nossos dados de
+treinamento para mostrar o efeito da
+limpeza.
+
+16
+00:01:48.340 --> 00:01:51.800
+Abra Descrição. O indicador mostra o
+alcance da operação.
+
+17
+00:01:52.140 --> 00:01:56.600
+Ative Caracteres especiais para retirar
+símbolos e Números para remover dígitos dos
+nomes.
+
+18
+00:01:57.540 --> 00:01:59.890
+Essas regras não removem produtos do
+catálogo.
+
+19
+00:02:04.150 --> 00:02:08.420
+As sugestões são extraídas dos nomes da
+lista. Clique em REF para selecioná-la.
+
+20
+00:02:09.040 --> 00:02:13.420
+Também podemos digitar um termo próprio:
+escrevemos PROMO e pressionamos Enter.
+
+21
+00:02:20.880 --> 00:02:28.940
+O xis retira um termo da seleção. Para
+recolocá-lo, digite o texto e use
+Adicionar. Confira os termos antes de
+clicar em Aplicar limpeza.
+
+22
+00:02:32.850 --> 00:02:36.680
+A lista agora mostra nomes sem os símbolos,
+os números e os termos escolhidos.
+
+23
+00:02:36.780 --> 00:02:37.620
+Confira cada descrição.
+
+24
+00:02:38.140 --> 00:02:41.700
+Se a limpeza retirar algo necessário, use
+Desfazer.
+
+25
+00:02:42.500 --> 00:02:45.060
+Abrir o painel e cancelar não aplica outra
+alteração.
+
+26
+00:02:49.230 --> 00:02:54.980
+Abra Margem. O percentual deve ser maior
+que zero; por isso o valor zero recebe uma
+mensagem de validação.
+
+27
+00:02:55.560 --> 00:02:57.440
+Corrigimos para sessenta e aplicamos.
+
+28
+00:03:04.840 --> 00:03:08.280
+O padrão da sessão fica em sessenta por
+cento de acréscimo sobre o custo.
+
+29
+00:03:09.140 --> 00:03:13.820
+Os preços de venda dos produtos visíveis
+são recalculados com o arredondamento do
+aplicativo.
+
+30
+00:03:14.600 --> 00:03:17.960
+A venda projetada é uma estimativa do lote,
+não venda realizada.
+
+31
+00:03:18.580 --> 00:03:20.080
+Revise os valores resultantes.
+
+32
+00:03:21.040 --> 00:03:25.320
+Abrir novamente, digitar noventa e cancelar
+preserva os sessenta por cento.
+

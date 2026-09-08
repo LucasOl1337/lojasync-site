@@ -1,0 +1,137 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.226
+Pressione F2 com M e G no carrinho. O diálogo reúne pagamentos, informação fiscal e resumo. Abrir o fechamento não conclui a venda. Confira a quantidade de itens e o total antes de escolher como a cliente pagou.
+
+00:00:13.446 --> 00:00:27.643
+Pressione Esc para voltar. O carrinho permanece e nenhuma venda foi registrada. Esse retorno permite conferir uma peça ou corrigir a linha antes de assumir um pagamento. A confirmação definitiva acontece em uma revisão posterior.
+
+00:00:27.863 --> 00:00:45.149
+Reabra com F2. No fechamento, examine as opções de pagamento. A versão oferece Dinheiro, Pix, Crédito, Débito, Crédito loja, Cheque e Cheque pré, conforme identificação da cliente. Esses nomes descrevem o pagamento informado; não executam captura bancária ou compensação.
+
+00:00:45.369 --> 00:00:58.327
+Escolha Dinheiro para o primeiro meio. Uma venda pode reunir mais de um método. O valor de cada linha precisa representar sua parte do pagamento, e a soma deve coincidir com o total da venda antes de concluir.
+
+00:00:58.547 --> 00:01:13.010
+Informe cinco reais de acréscimo e marque Entrega. Escreva o recado no campo próprio. O total passa a cento e vinte e nove reais e oitenta centavos. A entrega registra uma observação; não calcula frete nem cria uma rota automática.
+
+00:01:13.230 --> 00:01:28.526
+Escolha VENDA como motivo de estoque e observe NFC-e no grupo Cupom. O motivo classifica a saída das peças. A opção fiscal é informação da operação; o aviso explica que a emissão externa precisa ser tratada no processo autorizado da loja.
+
+00:01:28.746 --> 00:01:45.891
+Selecione NF-e para esta demonstração. O aplicativo permite guardar a referência de um documento emitido externamente depois. Selecionar a opção não autoriza nota na SEFAZ e não prova emissão fiscal. Nosso exemplo ficará pendente para ensinar o acompanhamento posterior.
+
+00:01:46.111 --> 00:02:02.855
+Informe cem reais em dinheiro e acrescente Pix com vinte e nove reais e oitenta centavos. Preencha a referência fictícia no campo NSU ou E2E. Cartões e Pix exigem essa evidência informada; confira o comprovante real antes de registrar uma operação da loja.
+
+00:02:03.075 --> 00:02:17.280
+Adicionar meio cria outra linha. Se incluir uma por engano, use Remover nessa linha. Aqui preservamos somente dinheiro e Pix. Não deixe uma linha vazia ou um valor duplicado compor o fechamento; confira sempre a soma no resumo.
+
+00:02:17.500 --> 00:02:31.167
+Informe cento e dez reais recebidos em dinheiro. O troco é dez, calculado sobre a parte de cem em dinheiro. O Pix não entra como dinheiro entregue na gaveta. O campo Recebido ajuda no cálculo e não aumenta o valor da venda.
+
+00:02:31.387 --> 00:02:44.626
+Clique no botão de fechamento para abrir a revisão nominal. Leia o resumo antes de Confirmar venda e estoque. Essa é a separação entre preparar os pagamentos e efetivar a saída das peças com o registro da venda.
+
+00:02:44.846 --> 00:03:00.201
+Use Voltar e corrigir mais uma vez. A venda ainda não foi registrada. O atendimento conserva os dados para revisão, permitindo verificar uma informação sem criar outra venda. Não confunda voltar da revisão com cancelar uma operação já concluída.
+
+00:03:00.421 --> 00:03:15.062
+Reabra o fechamento e confira os dados preservados antes de revisar novamente. A cliente continua Clara, os meios são dinheiro e Pix e o total é cento e vinte e nove e oitenta. A confirmação deve corresponder ao atendimento que você reconhece.
+
+00:03:15.282 --> 00:03:32.124
+Confirme venda e estoque e aguarde o resultado. A venda fica registrada e o carrinho é liberado para o próximo atendimento. O comprovante identifica a operação concluída. Se houver dúvida sobre o envio, consulte esse resultado antes de tentar registrar tudo novamente.
+
+00:03:32.344 --> 00:03:48.607
+Nesta versão, a tentativa com acréscimo falhou. O aviso não confirma a venda, e o carrinho continua preenchido. Pare e confira o histórico antes de tentar outra vez. A continuação usa o valor sem acréscimo; esse campo precisa de suporte técnico nesta instalação.
+
+00:03:48.827 --> 00:03:59.807
+Antes de continuar, o balcão mostra zero vendas no turno. A consulta também está vazia. A tentativa anterior não deve ser tratada como comprovante nem receber um segundo pagamento.
+
+00:04:00.027 --> 00:04:13.700
+Reabra o fechamento. Para esta demonstração, retire o acréscimo que causou a falha. O total volta a cento e vinte e quatro reais e oitenta centavos. Na operação real, confirme qualquer mudança de valor com a pessoa responsável.
+
+00:04:13.920 --> 00:04:27.843
+A soma dos meios também precisa acompanhar o total. Permanecem cem reais em dinheiro, e o Pix passa a vinte e quatro e oitenta. O comprovante informado é fictício. Confira a referência, a entrega e a indicação fiscal externa.
+
+00:04:28.063 --> 00:04:40.264
+Abra a revisão final. Confira cliente, duas peças, local de estoque e pagamentos. O dinheiro recebido foi cento e dez reais, com dez reais de troco. A confirmação movimenta o estoque e registra a venda.
+
+00:04:40.484 --> 00:04:51.842
+Confirme uma única vez e aguarde. O comprovante e o carrinho limpo indicam a conclusão. A indicação de nota fiscal continua separada: este clique não emite um documento na SEFAZ.
+
+00:04:52.062 --> 00:05:04.631
+Use F quatro para abrir o comprovante. Confira o número, as peças e a divisão entre dinheiro e Pix. Você pode imprimir ou guardar pelo navegador. Fechar esta janela retorna ao balcão sem criar outra venda.
+
+00:05:04.851 --> 00:05:18.184
+A venda agora está registrada. Guarde seu número para localizar o comprovante, uma troca ou uma devolução. A chave externa pode ser informada depois; vamos mostrar esse acompanhamento no capítulo de pós-venda.
+
+00:05:18.404 --> 00:05:33.832
+Abra F2 e escolha A prazo. O formulário passa a mostrar parcelas explícitas. A cliente precisa estar identificada. O aplicativo não inventa juros, calendário ou autorização de limite: vencimentos e valores são informados conforme o combinado.
+
+00:05:34.052 --> 00:05:49.598
+Use Mais parcela para criar a segunda linha. Cada parcela possui vencimento e valor próprios. Confira a quantidade de parcelas antes de distribuir o total, porque adicionar uma linha não define automaticamente as datas combinadas com a cliente.
+
+00:05:49.818 --> 00:06:04.244
+Se acrescentar uma terceira parcela por engano, use Remover nessa linha. Preservamos duas parcelas. Essa correção acontece antes de criar os títulos, evitando gerar um parcelamento diferente do que foi combinado no atendimento.
+
+00:06:04.464 --> 00:06:18.797
+Informe quinze de setembro e quinze de outubro de dois mil e vinte e seis. As datas são explícitas e pertencem a cada parcela. Confira mês e ano, principalmente ao digitar um vencimento distante ou corrigir um calendário do atendimento.
+
+00:06:19.017 --> 00:06:34.220
+Clique em Dividir total igualmente. As duas parcelas ficam com vinte e sete reais e quarenta e cinco centavos. A divisão distribui o valor; ela não consulta disponibilidade bancária nem define datas por você. Confira o resumo Parcelado e Venda.
+
+00:06:34.440 --> 00:06:49.160
+Altere temporariamente a primeira parcela para vinte e sete e quarenta e quatro. A soma deixa de corresponder ao total e o resumo pede ajuste. Essa indicação evita concluir um parcelamento que não cobre exatamente a obrigação da venda.
+
+00:06:49.380 --> 00:07:04.342
+Corrija para vinte e sete e quarenta e cinco. Agora a soma corresponde a cinquenta e quatro e noventa. Confira cada linha antes de prosseguir, pois uma divisão correta no total ainda pode ter vencimentos diferentes do que a cliente combinou.
+
+00:07:04.562 --> 00:07:19.814
+Confira Clara, o motivo VENDA e Sem cupom como informação deste exemplo. Os campos de cliente e origem da saída continuam relevantes na venda a prazo. A forma de pagamento não elimina a necessidade de conferir mercadoria, identificação e valores.
+
+00:07:20.034 --> 00:07:33.132
+Abra a revisão final. A confirmação agora diz Confirmar venda e gerar parcelas. Leia essa diferença: a operação vai registrar a venda e os títulos a receber, sem afirmar que a cliente pagou o total neste momento.
+
+00:07:33.352 --> 00:07:47.873
+Pressione Enter na revisão para confirmar. Aguarde a venda concluída e o comprovante. As parcelas passam a compor o acompanhamento da cliente. O próximo capítulo mostrará cobrança, baixas parciais e histórico desses recebíveis.
+
+00:07:48.093 --> 00:08:03.214
+Abra o comprovante com F4 e confira a venda a prazo. Ele registra o resultado do atendimento. A cobrança posterior deve usar as parcelas existentes, evitando criar outra venda só para informar que a cliente veio pagar uma obrigação anterior.
+
+00:08:03.434 --> 00:08:19.425
+O comprovante da venda e seu registro fiscal são assuntos separados. Sem NF abre uma revisão para marcar o documento como não exigido. Essa classificação deve seguir a orientação fiscal da loja; aqui usamos uma operação fictícia de treinamento.
+
+00:08:19.645 --> 00:08:29.754
+Use Voltar se precisar conferir a classificação. A venda já confirmada continua registrada. Sair desta revisão não cancela a venda nem altera suas parcelas.
+
+00:08:29.974 --> 00:08:42.215
+Neste exemplo autorizado de treinamento, confirme a classificação. A mensagem registra a decisão informada pela pessoa operadora. O sistema não consultou um serviço fiscal para decidir por você.
+
+00:08:42.435 --> 00:08:58.384
+Prepare outra venda com uma unidade G para Clara. Usaremos dinheiro como único meio e deixaremos esta operação disponível para ensinar cancelamento depois. Cada venda tem sua própria identificação; não substitui nem altera as duas operações anteriores.
+
+00:08:58.604 --> 00:09:13.314
+O botão NF-e na barra do lançamento abre o fechamento com essa opção fiscal. Ele é um atalho para o diálogo, não um comando de emissão externa. Confira a escolha antes de continuar, porque o nome do botão não comprova autorização de nota.
+
+00:09:13.534 --> 00:09:26.856
+Escolha À vista, Sem cupom e Dinheiro. Esta venda será imediata, diferente do parcelamento anterior. Confira o único meio e o total de cinquenta e nove reais e noventa centavos antes de informar o valor recebido.
+
+00:09:27.076 --> 00:09:42.091
+Digite um real no pagamento para reconhecer a diferença. O fechamento fica incompleto e oferece Usar total quando existe apenas dinheiro. A indicação ajuda a ajustar o rascunho; ela não deve ser ignorada ou compensada com um meio fictício.
+
+00:09:42.311 --> 00:09:55.973
+Clique em Usar total. O pagamento em dinheiro passa a cinquenta e nove e noventa, exatamente o valor da venda. Esse comando preenche o meio, mas ainda falta conferir quanto a cliente entregou e o troco correspondente.
+
+00:09:56.193 --> 00:10:11.126
+Informe sessenta reais recebidos e escolha o motivo VENDA. O troco fica dez centavos. Confira o cálculo e a quantia física antes de devolver. O total da venda permanece cinquenta e nove e noventa, mesmo quando o dinheiro entregue é maior.
+
+00:10:11.346 --> 00:10:25.912
+Abra a revisão nominal da venda. Leia o total e as peças antes de confirmar. A revisão permite voltar e corrigir; depois da confirmação, uma desistência será tratada pelo fluxo de cancelamento ou devolução, com seus registros próprios.
+
+00:10:26.132 --> 00:10:40.435
+Confirme venda e estoque e aguarde o comprovante. A terceira venda fica concluída sem repetir as anteriores. A saída da variante G e o recebimento em dinheiro pertencem a esta operação e participarão do acompanhamento do turno.
+
+00:10:40.655 --> 00:10:54.716
+Confira a venda concluída. Agora a história possui uma venda com dois meios, uma a prazo e outra só em dinheiro. Esses resultados reais serão usados para ensinar parcelas, troca, devolução, cancelamento e conferência do caixa.
+

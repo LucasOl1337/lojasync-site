@@ -1,0 +1,317 @@
+WEBVTT
+
+1
+00:00:02.840 --> 00:00:03.800
+Abra Contas a pagar.
+
+2
+00:00:04.760 --> 00:00:06.920
+Existem duas origens que vamos demonstrar:
+
+3
+00:00:07.520 --> 00:00:13.180
+o título calculado a partir de um
+recebimento confirmado e a despesa
+operacional informada manualmente.
+
+4
+00:00:14.340 --> 00:00:17.060
+Registrar a obrigação é diferente de
+informar seu pagamento,
+
+5
+00:00:17.060 --> 00:00:20.410
+e nenhuma dessas ações executa uma
+transferência bancária.
+
+6
+00:00:21.467 --> 00:00:28.927
+Selecione ROM-HOR-01 entre os recebimentos
+confirmados sem título e informe o
+vencimento.
+
+7
+00:00:29.587 --> 00:00:31.687
+O valor não é redigitado neste formulário:
+
+8
+00:00:32.287 --> 00:00:35.187
+ele vem das quantidades aceitas e dos
+custos do documento.
+
+9
+00:00:35.707 --> 00:00:38.587
+Confira a origem para não gerar a obrigação
+de outra entrada.
+
+10
+00:00:39.513 --> 00:00:45.473
+Clique em Gerar conta a pagar. O título
+deste exemplo totaliza seiscentos e noventa
+e dois reais e sessenta centavos.
+
+11
+00:00:46.573 --> 00:00:50.533
+A unidade rejeitada na primeira conferência
+não entra nesse cálculo.
+
+12
+00:00:51.533 --> 00:00:55.473
+O recebimento complementar possui sua
+própria origem e permanece separado.
+
+13
+00:00:56.397 --> 00:01:11.807
+Confira a tabela. Total, pago, crédito
+aplicado e saldo são colunas distintas. O
+valor original permanece como referência,
+enquanto pagamentos e créditos reduzem o
+que falta. A situação em aberto indica que
+a obrigação ainda não foi inteiramente
+liquidada.
+
+14
+00:01:12.763 --> 00:01:15.373
+Clique em Ver e liquidar na conta do Ateliê
+Horizonte.
+
+15
+00:01:16.133 --> 00:01:18.993
+Abaixo aparecem os campos do pagamento
+manual e o histórico.
+
+16
+00:01:19.593 --> 00:01:22.553
+Antes de preencher, confira favorecido,
+descrição e saldo.
+
+17
+00:01:23.213 --> 00:01:27.513
+Abrir esse detalhe não registra pagamento e
+não altera o valor da obrigação.
+
+18
+00:01:28.640 --> 00:01:33.600
+Informe a data, duzentos reais, o método
+Pix e uma referência fictícia de
+comprovante.
+
+19
+00:01:34.080 --> 00:01:38.960
+Na operação real, esses dados devem
+corresponder a um pagamento que você
+precisa registrar.
+
+20
+00:01:39.660 --> 00:01:44.200
+Escolher Pix não envia dinheiro; a tela
+registra o método informado e sua
+evidência.
+
+21
+00:01:45.213 --> 00:01:48.733
+Clique em Registrar pagamento manual. A
+conta permanece parcial:
+
+22
+00:01:49.613 --> 00:01:54.273
+duzentos reais pagos e quatrocentos e
+noventa e dois reais e sessenta centavos em
+aberto.
+
+23
+00:01:55.013 --> 00:01:58.753
+Não registre o mesmo comprovante novamente
+apenas porque ainda existe saldo:
+
+24
+00:01:59.133 --> 00:02:01.333
+o restante exige outra liquidação válida.
+
+25
+00:02:02.773 --> 00:02:08.833
+Use Atualizar histórico para consultar as
+baixas. Leia data, valor, método e
+referência da linha registrada.
+
+26
+00:02:09.733 --> 00:02:14.193
+O histórico permite reconhecer o que já foi
+informado e ajuda a evitar duplicação.
+
+27
+00:02:15.013 --> 00:02:18.393
+Um lançamento parcial não deve ser
+interpretado como quitação do total.
+
+28
+00:02:19.347 --> 00:02:24.507
+Agora abra Lançar despesa. Esse caminho
+registra aluguel, energia ou serviço que
+
+29
+00:02:24.507 --> 00:02:28.847
+não veio de uma entrada de mercadoria. Ele
+não exige inventar um recebimento de
+
+30
+00:02:28.847 --> 00:02:34.257
+produtos para criar a obrigação. Cada
+origem deve representar a natureza real da
+conta.
+
+31
+00:02:35.213 --> 00:02:50.883
+Preencha favorecido, descrição e
+observação. Usaremos Energia Escola DEMO e
+a conta fictícia de setembro. A descrição
+identifica a obrigação; a observação guarda
+contexto útil. Evite colocar o valor
+somente no texto, pois ele tem seu próprio
+campo numérico.
+
+32
+00:02:51.913 --> 00:02:54.973
+Informe vencimento e cento e oitenta reais
+no campo de valor.
+
+33
+00:02:55.773 --> 00:02:56.913
+Confira antes de lançar:
+
+34
+00:02:57.173 --> 00:02:58.793
+essa ação cria uma conta a pagar.
+
+35
+00:02:59.533 --> 00:03:05.873
+Ela não confirma consumo, não importa
+documento fiscal e não registra uma saída
+de mercadoria ou de dinheiro do caixa.
+
+36
+00:03:06.887 --> 00:03:09.387
+Clique em Lançar despesa e consulte Contas
+a pagar.
+
+37
+00:03:10.147 --> 00:03:15.107
+A nova linha aparece com origem de despesa
+operacional e o favorecido informado.
+
+38
+00:03:15.627 --> 00:03:17.607
+A conta de mercadoria continua separada.
+
+39
+00:03:18.127 --> 00:03:22.407
+Vamos liquidar esta despesa em dois
+pagamentos para acompanhar a mudança do
+saldo.
+
+40
+00:03:23.270 --> 00:03:31.220
+Abra Ver e liquidar na conta de energia.
+Informe sessenta reais, transferência
+bancária e a referência do primeiro
+comprovante fictício.
+
+41
+00:03:31.860 --> 00:03:39.480
+A data e o método representam o fato
+informado pelo operador; o aplicativo não
+consulta o banco para confirmar essa
+movimentação.
+
+42
+00:03:40.433 --> 00:03:49.053
+Registre os primeiros sessenta reais. A
+conta continua com cento e vinte reais a
+pagar. Confira a linha do histórico e o
+saldo atualizado.
+
+43
+00:03:49.773 --> 00:03:55.833
+A baixa parcial permite acompanhar
+pagamentos em momentos diferentes,
+conservando o registro individual de cada
+um.
+
+44
+00:03:56.807 --> 00:04:00.007
+Preencha agora cento e vinte reais e uma
+nova referência.
+
+45
+00:04:00.847 --> 00:04:03.367
+Escolhemos Boleto para mostrar outro método
+informado.
+
+46
+00:04:03.967 --> 00:04:07.367
+O segundo pagamento corresponde ao
+restante, não ao total original.
+
+47
+00:04:08.467 --> 00:04:12.907
+Confira essa diferença para não registrar
+uma quantia maior que a obrigação em
+aberto.
+
+48
+00:04:13.840 --> 00:04:17.260
+Registre o segundo pagamento e aguarde a
+situação liquidada.
+
+49
+00:04:18.200 --> 00:04:22.760
+O saldo fica zero porque sessenta mais
+cento e vinte completam os cento e oitenta
+da conta.
+
+50
+00:04:23.600 --> 00:04:27.920
+O histórico conserva as duas baixas, em vez
+de substituir a primeira pelo total final.
+
+51
+00:04:28.983 --> 00:04:31.533
+Observe Título liquidado no botão
+indisponível.
+
+52
+00:04:31.993 --> 00:04:35.433
+Essa conta não aceita uma nova liquidação
+normal depois de encerrada.
+
+53
+00:04:36.273 --> 00:04:39.013
+Atualize o histórico e reconheça as duas
+referências.
+
+54
+00:04:39.933 --> 00:04:45.073
+Para consultar o que aconteceu, use os
+registros existentes sem repetir um
+pagamento já informado.
+
+55
+00:04:45.980 --> 00:04:47.520
+Volte à tabela e atualize.
+
+56
+00:04:48.240 --> 00:04:51.480
+A compra continua com saldo parcial,
+enquanto a despesa está liquidada.
+
+57
+00:04:52.680 --> 00:04:55.660
+Essa comparação encerra o fluxo de contas e
+pagamentos manuais.
+
+58
+00:04:56.220 --> 00:05:02.300
+A seguir, vamos decidir os créditos de
+devolução e mostrar como o abatimento
+aparece separado do pagamento.
+

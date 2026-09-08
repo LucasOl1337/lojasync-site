@@ -1,0 +1,182 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.064
+Volte ao balcão. O último comprovante continua disponível enquanto não há um novo carrinho. Vamos acompanhar a classificação fiscal e depois localizar uma venda anterior, sem registrar outra saída de produto.
+
+00:00:13.284 --> 00:00:27.337
+Quando um documento foi emitido fora do LojaSync, informe sua chave ou protocolo e use Guardar chave. O texto deste exemplo é fictício. Este comando registra uma referência; não emite nem valida uma nota em um serviço fiscal.
+
+00:00:27.557 --> 00:00:42.201
+A revisão permite voltar antes de gravar. Confira a referência, reabra a revisão e confirme. A mensagem Chave fiscal informada mostra que o vínculo foi guardado. Ela não significa que houve conciliação ou validação fiscal automática.
+
+00:00:42.421 --> 00:00:53.485
+Abra Vendas e comprovantes. Cada cartão mostra número, data, total, estado e classificação fiscal. O histórico permite localizar e reimprimir uma operação sem repetir a venda.
+
+00:00:53.705 --> 00:01:05.687
+Digite um número inexistente e localize. Uma busca vazia não apaga registros e não prova que uma venda falhou. Confira se o número está completo e se os outros filtros também estão corretos.
+
+00:01:05.907 --> 00:01:18.898
+Limpe a busca e combine a competência com a cliente. Competência é a data operacional da venda, que pode diferir do relógio em uma virada de dia. Aplique o filtro para consultar apenas os registros desejados.
+
+00:01:19.118 --> 00:01:31.945
+Agora use o número exato da primeira venda. O resultado de cento e vinte e quatro e oitenta corresponde ao fechamento que recuperamos sem acréscimo. Confira o número antes de usar qualquer ação de pós-venda.
+
+00:01:32.165 --> 00:01:42.920
+Abra Imprimir e reimprimir. Esta consulta gera novamente o comprovante da mesma venda. Ela não cria uma nova venda, não cobra a cliente e não movimenta o estoque outra vez.
+
+00:01:43.140 --> 00:01:56.320
+Neste conjunto pequeno há uma única página; Anterior e Próxima ficam indisponíveis. Em listas maiores, esses controles mudam a página. Cancelar exige motivo de estoque e justificativa antes de ficar disponível.
+
+00:01:56.540 --> 00:02:10.183
+Para demonstrar cancelamento, usamos a venda alternativa de uma peça G, de cinquenta e nove e noventa. Escolha o motivo que permite cancelamento e explique a desistência. O histórico será preservado, com estado cancelado.
+
+00:02:10.403 --> 00:02:24.020
+Clique Cancelar no cartão certo e leia a revisão. Voltar permite conferir antes do efeito definitivo. Cancelar uma venda já confirmada devolve os itens ao estoque e pode gerar uma restituição financeira separada.
+
+00:02:24.240 --> 00:02:37.372
+Confirme o cancelamento. O cartão permanece no histórico e passa a Cancelada. Isso permite reconhecer a operação original e sua correção. A entrada de estoque e a restituição do dinheiro têm estados próprios.
+
+00:02:37.592 --> 00:02:53.564
+Entre em Trocar e devolver e consulte Restituições. A linha mostra venda, estado, meio, valor e caixa original. Neste caso, o caixa original continua aberto e tem saldo: a saída foi registrada no cancelamento. Não registre outra retirada para o mesmo fato.
+
+00:02:53.784 --> 00:03:12.775
+Confira o estado e o responsável pela conclusão. Se o caixa original já estiver fechado ou não puder cobrir a saída, a restituição poderá ficar pendente. Esse caminho exige um caixa elegível; veremos a pendência depois do fechamento. Estoque e conclusão financeira continuam rastreáveis separadamente.
+
+00:03:12.995 --> 00:03:25.810
+Em Troca de mercadorias, selecione a venda original pelo número e total. A troca devolve uma peça e vende a substituta no mesmo atendimento. Somente a diferença é acertada; a origem continua registrada.
+
+00:03:26.030 --> 00:03:38.420
+Escolha a peça G que a cliente trouxe. A lista corresponde aos itens ainda disponíveis para troca nesta venda. Quantidade e peça de origem devem representar o que está sendo devolvido fisicamente.
+
+00:03:38.640 --> 00:03:52.961
+Buscar peça nova aceita nome, código ou barra e permite trocar por outro produto. Uma busca sem resultado não seleciona uma substituta. Corrija o texto ou deixe o campo vazio para consultar as outras variantes do mesmo produto.
+
+00:03:53.181 --> 00:04:05.352
+Busque HZ M e selecione a peça M. A peça original custa cinquenta e nove e noventa; a substituta custa sessenta e quatro e noventa. O resumo deve indicar que a cliente paga cinco reais de diferença.
+
+00:04:05.572 --> 00:04:17.882
+Informe uma unidade e escolha o meio da diferença. Usamos Pix com uma referência fictícia de comprovante. O LojaSync registra a informação; não consulta o banco para provar que o pagamento ocorreu.
+
+00:04:18.102 --> 00:04:30.354
+Explique o motivo e revise. Confira a origem, a substituta e os cinco reais. A confirmação movimenta a devolução e a nova saída de estoque em conjunto. Se houver dúvida, volte antes de confirmar.
+
+00:04:30.574 --> 00:04:43.286
+Volte e ajuste a justificativa para deixar clara a forma de acerto. Essa revisão ainda não cria outra troca. O texto ajuda quem consultar a operação posteriormente a entender o motivo da substituição.
+
+00:04:43.506 --> 00:04:54.797
+Confirme uma única vez e aguarde a mensagem de troca registrada. A peça G voltou, e uma M saiu. A nova venda de substituição fica vinculada à origem, mantendo o caminho do pós-venda.
+
+00:04:55.017 --> 00:05:07.926
+Agora volte à venda original e selecione a outra peça, a M que ainda não havia sido trocada. Não confunda essa linha com a M da venda de substituição recém-criada; o número da origem distingue os dois fatos.
+
+00:05:08.146 --> 00:05:21.572
+Escolha a variante Azul sem tamanho especificado, cadastrada como HZ U. Ela custa cinquenta e quatro e noventa. O resumo agora indica que a loja devolve dez reais, porque a substituta vale menos que a peça recebida.
+
+00:05:21.792 --> 00:05:36.481
+Escolha dinheiro para a restituição e explique o acerto. O caixa original continua aberto e possui saldo. A situação financeira da restituição será conferida na fila depois da troca, sem presumir que toda restituição fica pendente.
+
+00:05:36.701 --> 00:05:47.622
+Revise o número da venda, a peça nova e os dez reais que a loja devolve. Esta é uma nova troca da outra linha original. Não repita a troca anterior para tentar corrigir a diferença.
+
+00:05:47.842 --> 00:05:59.445
+Confirme e aguarde. A M original retorna ao estoque e a variante sem tamanho sai. As duas linhas da venda original agora têm operações de troca rastreáveis, cada uma com sua substituta.
+
+00:05:59.665 --> 00:06:13.055
+Confira Restituições e reconheça os dez reais da troca. O histórico preserva as vendas de substituição. Em seguida, vamos usar uma delas para demonstrar uma devolução direta e a conclusão externa de um reembolso.
+
+00:06:13.275 --> 00:06:26.703
+A devolução direta não escolhe uma peça nova. Selecione a venda de substituição de sessenta e quatro e noventa e o item M. O número da venda define qual registro será corrigido; confira a origem antes de continuar.
+
+00:06:26.923 --> 00:06:39.387
+Escolha um motivo que permita devolução e informe a quantidade recebida de volta. O sistema limita a quantidade ao que ainda pode ser devolvido nessa linha. O produto retorna ao local de estoque original.
+
+00:06:39.607 --> 00:06:57.398
+Informe o valor integral de sessenta e quatro e noventa e escolha Crédito da loja. Esta opção depende de uma cliente identificada na venda. A troca anterior carregou valor de outra peça e apenas cinco reais de Pix; não seria correto tratar o total como Pix recebido nesta substituição.
+
+00:06:57.618 --> 00:07:10.294
+Abra a revisão e confira a peça, a quantidade e o valor. Este exemplo devolve o produto e transforma o valor em haver para Clara usar na loja. Não há entrega de dinheiro nem transferência bancária automática.
+
+00:07:10.514 --> 00:07:28.506
+A confirmação deste exemplo falhou nesta versão. A venda de substituição continua confirmada e nenhum haver foi criado. Não prometa crédito à cliente com base nesta tentativa; confira o registro e encaminhe a falha ao suporte. Vamos tratar Crédito loja como dependente de haver válido.
+
+00:07:28.726 --> 00:07:41.344
+Após a falha, consulte a situação da venda e volte ao balcão. A tentativa de devolução não foi confirmada. Identificamos Clara e preparamos uma peça apenas para mostrar onde o meio de crédito aparece.
+
+00:07:41.564 --> 00:07:54.161
+No fechamento à vista, escolha Crédito loja. Esse meio usa haver do cadastro identificado; ele é diferente de cartão de crédito ou venda a prazo. A seleção na tela, sozinha, não cria nem comprova saldo.
+
+00:07:54.381 --> 00:08:09.092
+A devolução anterior falhou, então não há crédito criado por aquele exemplo. Não vamos confirmar esta compra. Na operação, confira o haver disponível e a identidade da cliente antes de concluir; encaminhe uma falha de criação ao suporte.
+
+00:08:09.312 --> 00:08:20.338
+Volte e limpe este rascunho com Novo. Nenhuma compra com haver foi concluída. O próximo exemplo usa uma venda a prazo separada para mostrar a redução das parcelas por devolução.
+
+00:08:20.558 --> 00:08:32.290
+Para demonstrar a devolução a prazo sem misturar pagamentos anteriores, preparamos uma venda fictícia separada para Clara. O carrinho contém uma peça G de cinquenta e nove e noventa.
+
+00:08:32.510 --> 00:08:43.348
+Abra o fechamento a prazo e deixe duas parcelas. Este exemplo começa sem baixas financeiras. Assim podemos observar como a devolução ajusta uma obrigação ainda aberta.
+
+00:08:43.568 --> 00:08:55.123
+Defina os vencimentos combinados e divida igualmente. Confira o valor efetivamente mostrado: duas parcelas de vinte e nove e noventa e cinco, totalizando cinquenta e nove e noventa.
+
+00:08:55.343 --> 00:09:08.983
+Revise e confirme. O comprovante identifica a nova venda de cinquenta e nove e noventa. Nenhum pagamento foi registrado; as duas parcelas estão abertas. Agora vamos devolver a peça e acompanhar a redução da obrigação.
+
+00:09:09.203 --> 00:09:19.243
+Selecione a nova venda de cinquenta e nove e noventa. A tela muda para Valor a reduzir das parcelas e explica que este caminho não gera reembolso em dinheiro.
+
+00:09:19.463 --> 00:09:33.959
+Informe a peça devolvida e a redução integral de cinquenta e nove reais e noventa centavos. Essa venda tinha uma única peça. As duas parcelas ainda estavam abertas; a justificativa explica por que a obrigação inteira será reduzida.
+
+00:09:34.179 --> 00:09:46.429
+Revise o item e o valor. As parcelas mais distantes são reduzidas primeiro. Neste exemplo, a redução cobre as duas parcelas de vinte e nove e noventa e cinco. Não há entrega de dinheiro à cliente.
+
+00:09:46.649 --> 00:09:55.982
+Confirme e aguarde a mensagem de saldo a receber reduzido. A peça voltou ao estoque, e a obrigação foi ajustada. Vamos conferir esse efeito na carteira.
+
+00:09:56.202 --> 00:10:06.843
+Na carteira, compare Principal, Ajustes e Saldo. As duas parcelas da venda mostram o ajuste do pós-venda. Um saldo zerado por devolução não significa que houve um pagamento.
+
+00:10:07.063 --> 00:10:18.961
+Abra a segunda parcela da venda de cinquenta e nove e noventa. Seu principal de vinte e nove e noventa e cinco foi reduzido pelo ajuste. O restante da redução também alcançou a primeira parcela.
+
+00:10:19.181 --> 00:10:31.761
+Confira os valores e volte à carteira. As duas parcelas ficaram sem saldo por ajuste de pós-venda, mantendo a origem da obrigação. Não registre uma baixa financeira para representar a mesma devolução.
+
+00:10:31.981 --> 00:10:48.480
+Vamos registrar uma venda fictícia integralmente em Pix para demonstrar seu reembolso. Volte ao balcão, identifique Clara e adicione uma peça G de cinquenta e nove reais e noventa centavos. Usar uma origem clara evita confundir os meios e valores da troca anterior.
+
+00:10:48.700 --> 00:11:02.926
+Escolha Pix e informe o valor integral, com uma referência fictícia. Na operação, a referência precisa corresponder ao comprovante. O sistema registra a declaração da pessoa operadora; ele não confirma o pagamento no banco.
+
+00:11:03.146 --> 00:11:14.484
+Revise e confirme. O comprovante define a origem do exemplo. Agora abra Trocar e devolver para demonstrar o retorno da peça e, em seguida, a informação de conclusão externa do reembolso.
+
+00:11:14.704 --> 00:11:28.085
+Selecione a venda de cinquenta e nove e noventa recém-criada e a peça G. O número de origem é essencial: existe também uma venda antiga de mesmo valor que foi cancelada. A devolução deve partir do registro correto.
+
+00:11:28.305 --> 00:11:41.142
+Escolha um motivo que permita devolução e informe a quantidade recebida de volta. O sistema limita a quantidade ao que ainda pode ser devolvido nessa linha. O produto retorna ao local de estoque original.
+
+00:11:41.362 --> 00:11:57.319
+Informe o valor integral de cinquenta e nove e noventa, o meio Pix e a justificativa. O reembolso deve respeitar a capacidade do meio informado na venda. Como esta origem foi integralmente paga em Pix, o exemplo tem esse valor disponível para restituição.
+
+00:11:57.539 --> 00:12:07.638
+Abra a revisão e confira item, quantidade, valor e origem. Esta ação devolve a peça ao estoque e registra o reembolso. Não há uma venda de substituição neste fluxo.
+
+00:12:07.858 --> 00:12:18.255
+Volte se precisar conferir. Depois reabra a revisão e confirme uma vez. Vamos consultar a fila para distinguir o retorno da mercadoria da conclusão financeira do Pix.
+
+00:12:18.475 --> 00:12:30.020
+A fila mostra o Pix de sessenta e quatro e noventa como conclusão externa pendente. O produto já foi devolvido, mas este estado ainda não declara o pagamento externo como concluído.
+
+00:12:30.240 --> 00:12:44.186
+Quando a restituição externa ocorrer, informe o identificador que permite localizar seu comprovante. Usamos uma referência fictícia. O LojaSync conserva a declaração da pessoa operadora; ele não captura nem concilia o Pix.
+
+00:12:44.406 --> 00:12:56.986
+Revise a referência antes de gravar. Voltar permite conferir o comprovante. Não informe uma evidência apenas para retirar a pendência da fila; ela deve representar uma conclusão que de fato ocorreu.
+
+00:12:57.206 --> 00:13:10.786
+Confirme. O estado passa a Informado externamente, não conciliado, com referência e responsável. Essa frase é o limite correto do registro: a loja informou a conclusão, mas não houve confirmação automática do banco.
+

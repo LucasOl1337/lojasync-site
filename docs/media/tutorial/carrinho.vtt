@@ -1,0 +1,454 @@
+WEBVTT
+
+1
+00:00:02.850 --> 00:00:06.160
+No balcão, Novo ao lado de Cliente abre um
+cadastro rápido.
+
+2
+00:00:06.900 --> 00:00:09.920
+Ele permite informar nome e telefone sem
+sair do atendimento.
+
+3
+00:00:10.520 --> 00:00:16.260
+Esse botão é diferente de Novo na barra do
+lançamento, que limpa o carrinho e a
+identificação do atendimento.
+
+4
+00:00:17.280 --> 00:00:25.160
+Preencha o campo Nome com Denise DEMO. No
+campo Telefone, use um número fictício.
+Depois, clique em Salvar. A cliente é
+criada e selecionada.
+
+5
+00:00:25.880 --> 00:00:34.700
+Esse cadastro curto não substitui todos os
+dados da retaguarda: endereços e outras
+informações podem ser completados no
+cadastro de clientes já ensinado.
+
+6
+00:00:35.883 --> 00:00:42.433
+Use a busca para encontrar Clara. Digitar
+um nome filtra as opções, mas confira
+também a cliente selecionada.
+
+7
+00:00:43.293 --> 00:00:50.913
+Pessoas com nomes parecidos exigem cuidado;
+a identificação precisa representar quem
+está sendo atendida antes de registrar
+parcelas ou haver.
+
+8
+00:00:52.107 --> 00:00:55.847
+Selecione Clara Costa DEMO. Ela será a
+cliente da história de vendas.
+
+9
+00:00:55.907 --> 00:01:02.927
+O atendimento pode começar sem cliente em
+alguns fluxos, mas venda a prazo, parcelas
+e outros caminhos exigem identificação.
+
+10
+00:01:04.147 --> 00:01:06.087
+Confira o nome antes de concluir a
+operação.
+
+11
+00:01:07.273 --> 00:01:15.913
+Informe ANA-DEMO em Operador. Essa
+identificação orienta o vendedor padrão dos
+próximos itens e permanece disponível para
+o atendimento.
+
+12
+00:01:16.513 --> 00:01:21.653
+Cada linha também possui um campo de
+vendedor, que pode ser conferido e ajustado
+quando necessário.
+
+13
+00:01:22.563 --> 00:01:24.673
+O seletor de tipo inclui O. Serviço.
+
+14
+00:01:25.453 --> 00:01:29.693
+Ao escolhê-lo, observe o aviso real de
+indisponibilidade do fechamento nesta
+versão.
+
+15
+00:01:30.413 --> 00:01:34.013
+Um nome presente no seletor não comprova um
+fluxo completo implementado.
+
+16
+00:01:34.993 --> 00:01:37.773
+Não vamos forçar uma confirmação que a
+interface bloqueia.
+
+17
+00:01:38.647 --> 00:01:54.127
+Licitação também aparece como modalidade
+sem fechamento disponível. Leia a
+orientação e volte ao tipo apropriado para
+a operação. Consignação e Pré-venda possuem
+outros fluxos que serão ensinados em seu
+capítulo, com reserva e acompanhamento
+próprios.
+
+18
+00:01:55.040 --> 00:01:58.620
+Volte a Venda. A seleção do tipo define a
+finalidade do lançamento.
+
+19
+00:01:59.200 --> 00:02:02.720
+Antes de adicionar produtos, confira
+cliente, operador e modalidade
+
+20
+00:02:02.720 --> 00:02:05.820
+para evitar tratar uma reserva como venda
+final
+
+21
+00:02:05.820 --> 00:02:08.720
+ou tentar concluir uma operação
+indisponível.
+
+22
+00:02:09.663 --> 00:02:13.273
+Pressione F10 para focar a busca e tente um
+código inexistente.
+
+23
+00:02:13.953 --> 00:02:16.693
+O aviso de falha aparece sem inserir um
+produto inventado.
+
+24
+00:02:17.053 --> 00:02:18.793
+Confira o código e a barra da peça.
+
+25
+00:02:19.553 --> 00:02:24.633
+Uma falha de busca não deve ser resolvida
+escolhendo qualquer variante só para
+continuar.
+
+26
+00:02:25.850 --> 00:02:27.920
+Corrija para DEMO-HZ-M e pressione Enter.
+
+27
+00:02:28.700 --> 00:02:32.520
+A barra cadastrada identifica a variante M
+e adiciona a linha ao carrinho.
+
+28
+00:02:33.520 --> 00:02:37.000
+A digitação representa a mesma entrada de
+código que um leitor enviaria;
+
+29
+00:02:37.760 --> 00:02:40.600
+nenhum equipamento físico é necessário
+nesta demonstração.
+
+30
+00:02:41.630 --> 00:02:46.320
+Ajuste a quantidade da linha para duas
+unidades. Confira o total atualizado.
+
+31
+00:02:46.460 --> 00:02:50.280
+Quantidade de atendimento não altera
+estoque enquanto a venda não for
+confirmada.
+
+32
+00:02:51.120 --> 00:02:55.960
+Ela precisa corresponder às peças que a
+cliente está levando, respeitando o
+disponível no local.
+
+33
+00:02:57.673 --> 00:03:02.753
+Clique em Altera para focar o preço da
+última linha e ajuste para sessenta e dois
+reais e noventa centavos.
+
+34
+00:03:03.953 --> 00:03:06.593
+Esse campo altera o preço deste
+atendimento.
+
+35
+00:03:07.393 --> 00:03:12.493
+Não confunda uma condição aplicada no
+carrinho com a manutenção do preço
+cadastrado do produto.
+
+36
+00:03:13.430 --> 00:03:27.340
+Pressione F7 e informe três reais no
+desconto da linha. Observe as colunas de
+desconto e valor calculado. Confira o
+montante antes de fechar: o campo recebe o
+desconto monetário da linha, não uma
+porcentagem digitada sem conversão.
+
+37
+00:03:28.600 --> 00:03:32.260
+Pressione F9 para focar o vendedor do
+último item e confira ANA-DEMO.
+
+38
+00:03:32.700 --> 00:03:36.500
+A identificação por linha ajuda a registrar
+quem realizou a venda da peça.
+
+39
+00:03:37.740 --> 00:03:43.080
+Ela não deve ser alterada apenas para
+redistribuir resultados sem corresponder ao
+atendimento real.
+
+40
+00:03:44.140 --> 00:03:50.640
+Pressione F8 e consulte HZ-M. A consulta
+rápida apresenta saldo por local sem
+inserir outra peça no carrinho.
+
+41
+00:03:51.720 --> 00:03:55.260
+Disponível e em mãos são informações
+diferentes quando existem reservas.
+
+42
+00:03:55.740 --> 00:04:00.360
+Use a consulta para orientar a venda sem
+confundir cadastro com quantidade
+disponível.
+
+43
+00:04:04.540 --> 00:04:09.740
+Enter consulta um código ou barra exatos.
+Um nome enviado desse modo retornou falha
+nesta gravação.
+
+44
+00:04:10.640 --> 00:04:14.320
+Para pesquisar pelo nome, dispense o aviso
+e digite sem pressionar Enter;
+
+45
+00:04:15.120 --> 00:04:18.360
+use as opções de variantes apresentadas e o
+botão Adicionar.
+
+46
+00:04:19.440 --> 00:04:21.580
+Escolha G na grade e clique em Adicionar.
+
+47
+00:04:22.100 --> 00:04:24.640
+A variante selecionada entra como outra
+linha.
+
+48
+00:04:25.240 --> 00:04:27.040
+Confira código e tamanho no carrinho.
+
+49
+00:04:27.800 --> 00:04:31.600
+Produtos com a mesma descrição podem
+representar peças distintas,
+
+50
+00:04:31.860 --> 00:04:34.980
+principalmente quando a grade reúne
+tamanhos ou cores diferentes.
+
+51
+00:04:36.007 --> 00:04:38.347
+Pressione F6 para desfazer o último bip.
+
+52
+00:04:38.927 --> 00:04:41.887
+Esse comando corrige a inclusão mais
+recente do atendimento.
+
+53
+00:04:42.427 --> 00:04:44.967
+Ele não cancela uma venda já registrada.
+
+54
+00:04:45.827 --> 00:04:50.767
+Uma inclusão retirada por engano pode ser
+feita novamente, conferindo o resultado
+antes do fechamento.
+
+55
+00:04:51.750 --> 00:04:59.620
+Pressione F11 para repetir a última linha
+disponível. O atalho ajuda em inclusões
+repetidas, mas exige conferir a quantidade
+resultante.
+
+56
+00:05:00.340 --> 00:05:07.840
+Observe o carrinho após usá-lo, porque
+repetir sem intenção pode levar mais
+unidades ao fechamento do que a cliente
+escolheu.
+
+57
+00:05:08.850 --> 00:05:11.280
+Use Remover na linha para retirá-la do
+carrinho.
+
+58
+00:05:11.800 --> 00:05:14.720
+A ação atua sobre o rascunho atual e
+recalcula o total.
+
+59
+00:05:14.920 --> 00:05:16.960
+Ainda não houve venda nem saída de estoque.
+
+60
+00:05:17.700 --> 00:05:20.640
+Reconheça a linha pelo código e tamanho
+antes de remover.
+
+61
+00:05:21.707 --> 00:05:24.947
+Digite a barra alternativa DEMO-HZ-G-ALT e
+pressione Enter.
+
+62
+00:05:25.827 --> 00:05:28.907
+O mesmo cadastro de variante admite outra
+barra reconhecida.
+
+63
+00:05:29.567 --> 00:05:35.827
+A barra alternativa identifica G; ela não
+cria um produto diferente por ter uma
+sequência de caracteres distinta.
+
+64
+00:05:36.703 --> 00:05:40.153
+Abra Retaguarda com Clara identificada e o
+carrinho preenchido.
+
+65
+00:05:40.153 --> 00:05:44.873
+Esta navegação serve para consultar ou
+manter outra área durante o atendimento.
+
+66
+00:05:44.873 --> 00:05:48.853
+Ela não confirma a venda nem descarta os
+itens.
+
+67
+00:05:48.853 --> 00:05:52.743
+Vamos retornar para comprovar esse
+comportamento com dados presentes.
+
+68
+00:05:56.783 --> 00:06:01.973
+De volta ao balcão, aguarde o carregamento
+da identificação e confira Clara junto da
+variante G preservada.
+
+69
+00:06:02.773 --> 00:06:04.633
+A navegação manteve o atendimento.
+
+70
+00:06:05.353 --> 00:06:09.413
+A consulta inicial da gravação foi
+antecipada antes de carregar as opções;
+
+71
+00:06:10.173 --> 00:06:14.233
+os dados reapareceram sem selecionar outra
+cliente ou refazer o carrinho.
+
+72
+00:06:15.340 --> 00:06:18.340
+Clientes na barra do lançamento abre a
+retaguarda de cadastro.
+
+73
+00:06:18.800 --> 00:06:21.800
+Esse acesso permite consultar dados durante
+o atendimento.
+
+74
+00:06:22.540 --> 00:06:26.120
+Ele é diferente do seletor compacto que
+identifica a pessoa no balcão.
+
+75
+00:06:27.340 --> 00:06:30.480
+O carrinho continua sendo o mesmo rascunho
+enquanto você navega.
+
+76
+00:06:31.400 --> 00:06:34.140
+Volte ao balcão e reconheça novamente o
+atendimento.
+
+77
+00:06:34.940 --> 00:06:37.740
+Navegar não substitui a confirmação nominal
+de uma venda.
+
+78
+00:06:38.660 --> 00:06:42.840
+Os itens e a cliente permanecem, mas ainda
+é necessário escolher os pagamentos,
+
+79
+00:06:43.240 --> 00:06:46.180
+revisar os valores e confirmar para
+registrar a operação.
+
+80
+00:06:47.273 --> 00:07:01.233
+Use Novo na barra do lançamento. Esse
+comando limpa o carrinho e a cliente do
+atendimento atual. Ele não apaga vendas já
+confirmadas. Use com cuidado quando houver
+um rascunho que precisa ser preservado para
+continuar o atendimento depois.
+
+81
+00:07:02.307 --> 00:07:05.947
+Identifique Clara novamente e adicione M e
+G pelas barras.
+
+82
+00:07:06.487 --> 00:07:08.247
+Este será o carrinho do próximo capítulo.
+
+83
+00:07:08.547 --> 00:07:12.487
+Confira as duas variantes e seus preços
+cadastrados antes de abrir o fechamento.
+
+84
+00:07:13.327 --> 00:07:17.267
+Agora vamos ensinar formas de pagamento,
+revisão final e comprovante.
+

@@ -1,0 +1,76 @@
+WEBVTT
+
+1
+00:00:00.790 --> 00:00:03.740
+Antes de iniciar outro lote, removemos a
+prévia concluída.
+
+2
+00:00:04.860 --> 00:00:08.040
+Os cento e vinte e dois produtos continuam
+no catálogo.
+
+3
+00:00:08.200 --> 00:00:11.360
+Remover um documento da conferência não
+apaga os produtos já importados.
+
+4
+00:00:12.477 --> 00:00:15.597
+Preste atenção ao atalho Limpar itens e
+importar nota nova.
+
+5
+00:00:16.157 --> 00:00:19.057
+Ele limpa o catálogo antes de abrir o
+seletor de arquivos.
+
+6
+00:00:19.837 --> 00:00:23.937
+Essa ordem é diferente da confirmação de
+Limpar lista que vimos anteriormente.
+
+7
+00:00:25.045 --> 00:00:26.705
+Cancelamos a escolha do arquivo.
+
+8
+00:00:27.085 --> 00:00:30.845
+O cancelamento fecha o seletor, mas não
+desfaz a limpeza que já aconteceu.
+
+9
+00:00:31.145 --> 00:00:33.325
+Ao voltar ao Catálogo, a lista está vazia.
+
+10
+00:00:34.025 --> 00:00:38.125
+Não interprete Cancelar como recuperação
+automática dos dados anteriores.
+
+11
+00:00:39.168 --> 00:00:42.168
+Usamos Desfazer e conferimos que a lista
+inteira retorna.
+
+12
+00:00:42.748 --> 00:00:46.028
+A recuperação depende de ainda existir o
+estado anterior no histórico.
+
+13
+00:00:46.568 --> 00:00:53.328
+Quando quiser acrescentar uma nota mantendo
+o catálogo, escolha a leitura e o arquivo
+sem usar esse atalho de limpeza.
+
+14
+00:00:54.228 --> 00:00:56.588
+Assim encerramos o fluxo local de
+preparação;
+
+15
+00:00:57.148 --> 00:01:00.748
+recebimentos e demais operações nativas
+seguem no capítulo ERP.
+

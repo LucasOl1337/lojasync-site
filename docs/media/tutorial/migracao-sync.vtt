@@ -1,0 +1,299 @@
+WEBVTT
+
+1
+00:00:01.290 --> 00:00:07.740
+Abra Migração Byte na barra lateral. Esta
+área acompanha a leitura do Byte Empresa e
+a preparação do LojaSync.
+
+2
+00:00:08.520 --> 00:00:16.480
+No nosso laboratório, a ponte está
+desligada. Os traços nos indicadores
+significam informação indisponível, e não
+uma contagem de zero produtos.
+
+3
+00:00:24.330 --> 00:00:29.900
+Atualizar diagnóstico consulta novamente a
+situação. Confira Conexão e contrato e o
+inventário extraído.
+
+4
+00:00:30.760 --> 00:00:35.640
+Um snapshot é uma cópia de consulta obtida
+do Byte. Aqui não existe uma cópia ativa;
+
+5
+00:00:36.460 --> 00:00:39.180
+portanto, não há produtos do Byte para
+conferir nesta instalação.
+
+6
+00:00:51.330 --> 00:00:54.680
+Na etapa Preparação, Autoridade dos dados
+mostra o fluxo de trabalho.
+
+7
+00:00:55.320 --> 00:00:59.360
+O cadastro diário continua no catálogo
+local, com publicação pela automação Byte.
+
+8
+00:01:00.200 --> 00:01:02.580
+Abrir esta tela não muda o destino dos
+produtos.
+
+9
+00:01:03.480 --> 00:01:06.690
+Os botões abaixo levam ao catálogo e à
+operação da loja.
+
+10
+00:01:18.340 --> 00:01:22.120
+A etapa Integrações resume a configuração
+de cada conexão e dispositivo.
+
+11
+00:01:22.560 --> 00:01:26.020
+Configurado não significa que uma operação
+real foi homologada.
+
+12
+00:01:26.720 --> 00:01:31.120
+O laboratório usa um provedor fiscal em
+memória; isso não representa emissão de
+nota.
+
+13
+00:01:32.180 --> 00:01:34.020
+Use este diagnóstico com a equipe técnica.
+
+14
+00:01:45.330 --> 00:01:48.340
+Abra Leitura Byte pelo botão do alto ou
+pelo menu lateral.
+
+15
+00:01:48.500 --> 00:01:52.560
+Diagnóstico reúne situação da ponte,
+compatibilidade e dados da conexão.
+
+16
+00:01:53.120 --> 00:01:55.300
+Atualizar status repete a consulta.
+
+17
+00:01:55.900 --> 00:02:00.400
+Sem conexão, Não verificada e os campos
+vazios não comprovam que o banco foi
+validado.
+
+18
+00:02:14.280 --> 00:02:19.320
+Em Snapshot ativo, Gerar snapshot prepara
+uma leitura completa quando a origem está
+disponível.
+
+19
+00:02:20.380 --> 00:02:24.880
+Em uma instalação habilitada, leia a
+confirmação antes de iniciar e acompanhe o
+progresso;
+
+20
+00:02:25.920 --> 00:02:27.720
+Cancelar solicita a interrupção.
+
+21
+00:02:28.300 --> 00:02:31.260
+Aqui o botão está bloqueado porque não há
+uma origem pronta.
+
+22
+00:02:45.340 --> 00:02:49.740
+Puxar para o ERP usa uma cópia concluída
+para uma carga controlada no cadastro
+nativo.
+
+23
+00:02:50.620 --> 00:02:55.080
+Não é o botão de importação diária de
+romaneios e não muda sozinho a autoridade
+do catálogo.
+
+24
+00:02:55.820 --> 00:02:58.500
+Sem snapshot ativo, ele permanece
+indisponível.
+
+25
+00:02:59.680 --> 00:03:02.600
+Essa preparação deve ser acompanhada pela
+equipe responsável.
+
+26
+00:03:17.340 --> 00:03:23.760
+Na aba Produtos há dois caminhos. Pesquisar
+catálogo do Byte procura na cópia local por
+nome, código, barra ou referência.
+
+27
+00:03:24.620 --> 00:03:27.340
+Com resultados, você abre um produto para
+ver detalhes e grade.
+
+28
+00:03:28.440 --> 00:03:31.700
+Limpar busca ou ajustar o termo ajuda
+quando nada é encontrado;
+
+29
+00:03:32.300 --> 00:03:34.740
+Carregar mais aparece quando há outra
+página.
+
+30
+00:03:49.400 --> 00:03:54.100
+Consulta direta por código do produto
+consulta a origem atual, sem usar a cópia
+local.
+
+31
+00:03:55.080 --> 00:03:59.340
+Digite o código do Byte e use Consultar
+agora quando a conexão estiver habilitada.
+
+32
+00:03:59.720 --> 00:04:02.200
+Nesta gravação, campo e botão estão
+bloqueados;
+
+33
+00:04:03.160 --> 00:04:05.400
+nenhum produto foi consultado em um banco
+comercial.
+
+34
+00:04:15.560 --> 00:04:18.640
+Reconciliação compara os produtos locais
+com a cópia do Byte.
+
+35
+00:04:19.060 --> 00:04:24.560
+As categorias separam correspondências,
+ambiguidades, itens não encontrados e
+códigos inválidos.
+
+36
+00:04:25.120 --> 00:04:28.640
+Nomes podem sugerir uma ligação, mas não a
+confirmam sozinhos.
+
+37
+00:04:29.400 --> 00:04:31.220
+Atualizar análise refaz a leitura;
+
+38
+00:04:31.700 --> 00:04:34.460
+aqui os zeros não representam uma
+conciliação concluída.
+
+39
+00:04:46.280 --> 00:05:02.860
+Agora abra Sync. Comece pelo estado da
+fonte e pelo horário da leitura. Aqui vemos
+Fonte indisponível: os dados do Byte não
+chegaram. Atualizar leitura consulta
+novamente. Sincronizar continua bloqueado;
+repetir o clique não habilita a conexão, e
+esta tela não escreve no Byte.
+
+40
+00:05:17.270 --> 00:05:20.940
+Antes de comparar números, leia O que
+exatamente está sendo comparado.
+
+41
+00:05:21.600 --> 00:05:25.360
+O relatório informa quais produtos entram
+na conta e de onde vem o saldo.
+
+42
+00:05:25.940 --> 00:05:28.800
+Se a quantidade não puder ser lida, ela
+precisa de revisão.
+
+43
+00:05:29.880 --> 00:05:35.580
+Não transforme informação ausente em zero
+nem compare filiais diferentes como se
+tivessem a mesma abrangência.
+
+44
+00:05:48.290 --> 00:06:05.500
+O que ainda não se compara explica os
+limites das grades. Uma linha de grade, uma
+posição de tamanho e cor e uma variante não
+são a mesma contagem. Em Saldo por filial,
+as listas ficam lado a lado; sem
+correspondência definida entre filiais, não
+existe um cruzamento automático confiável.
+
+45
+00:06:23.350 --> 00:06:27.900
+Na prévia por posição, leia como as barras,
+filiais, tamanhos e cores foram agrupados.
+
+46
+00:06:28.280 --> 00:06:31.520
+Os filtros separam o que bate, diverge ou
+não tem correspondência.
+
+47
+00:06:32.360 --> 00:06:35.520
+Há grupos próprios para pendências e itens
+só no LojaSync.
+
+48
+00:06:36.100 --> 00:06:40.040
+Eles ajudam a investigar; não autorizam
+corrigir produtos por suposição.
+
+49
+00:06:58.290 --> 00:07:04.840
+Escolha um filtro e depois Todos para
+voltar à visão geral. Anteriores e Próximas
+navegam quando houver páginas;
+
+50
+00:07:05.220 --> 00:07:06.540
+Reler atualiza a consulta.
+
+51
+00:07:07.360 --> 00:07:12.340
+Neste laboratório, a fonte continua
+indisponível, então a tabela permanece sem
+resultados comparáveis.
+
+52
+00:07:27.270 --> 00:07:30.920
+Para continuar o trabalho diário, volte ao
+Catálogo pela barra lateral.
+
+53
+00:07:32.360 --> 00:07:36.240
+Diagnóstico, leitura e sincronização são
+áreas de conferência e preparação.
+
+54
+00:07:37.060 --> 00:07:42.420
+A mudança de origem operacional e qualquer
+saída para o Byte exigem um procedimento
+autorizado da equipe;
+
+55
+00:07:43.120 --> 00:07:45.980
+não acontecem simplesmente ao visitar estas
+páginas.
+

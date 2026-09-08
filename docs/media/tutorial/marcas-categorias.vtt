@@ -1,0 +1,126 @@
+WEBVTT
+
+1
+00:00:00.840 --> 00:00:03.640
+Vamos aplicar informações a um grupo de
+produtos.
+
+2
+00:00:03.640 --> 00:00:07.060
+A busca por Camiseta deixa somente duas
+linhas visíveis.
+
+3
+00:00:07.060 --> 00:00:10.260
+Abra Marcas e confira o alcance indicado no
+painel.
+
+4
+00:00:12.280 --> 00:00:15.280
+Em Nova marca, digite Aurora Demo e
+pressione Enter.
+
+5
+00:00:15.980 --> 00:00:17.940
+Isso cadastra a opção na lista de marcas;
+
+6
+00:00:18.160 --> 00:00:21.030
+ainda precisamos aplicá-la aos produtos
+desejados.
+
+7
+00:00:24.340 --> 00:00:28.240
+O campo Em massa aceita vários nomes,
+separados por linha, vírgula ou ponto e
+vírgula.
+
+8
+00:00:29.180 --> 00:00:32.100
+A lista do exemplo repete Aurora e
+acrescenta duas opções.
+
+9
+00:00:33.040 --> 00:00:35.560
+Cadastrar em massa preserva a marca já
+existente.
+
+10
+00:00:38.360 --> 00:00:40.520
+Selecione Aurora Demo e clique em Aplicar.
+
+11
+00:00:40.640 --> 00:00:43.300
+Somente as duas camisetas visíveis recebem
+essa marca.
+
+12
+00:00:44.080 --> 00:00:46.160
+A bermuda continua fora deste alcance.
+
+13
+00:00:51.340 --> 00:00:53.180
+Categorias funciona de forma parecida.
+
+14
+00:00:54.180 --> 00:00:56.500
+Escolha Masculino e aplique aos produtos
+visíveis.
+
+15
+00:00:57.360 --> 00:01:00.560
+Feche o painel e limpe a busca para
+conferir as três linhas juntas.
+
+16
+00:01:15.330 --> 00:01:18.760
+Você pode buscar pela marca ou pela
+categoria que acabou de aplicar.
+
+17
+00:01:19.240 --> 00:01:20.680
+Escape limpa a consulta.
+
+18
+00:01:21.320 --> 00:01:25.660
+Os grupos abaixo da tabela também permitem
+navegar pelas categorias existentes.
+
+19
+00:01:37.340 --> 00:01:39.880
+Para uma exceção individual, volte a Editar
+células.
+
+20
+00:01:40.360 --> 00:01:42.940
+Na bermuda, abra o campo Marca e escolha
+Brisa Demo.
+
+21
+00:01:43.220 --> 00:01:45.080
+Sair do campo confirma a seleção.
+
+22
+00:01:50.330 --> 00:01:53.040
+No campo Categoria da mesma linha, escolha
+Feminino.
+
+23
+00:01:54.220 --> 00:01:58.260
+Termine a edição e confira que as camisetas
+continuam com suas próprias informações.
+
+24
+00:02:07.340 --> 00:02:10.660
+Uma marca de teste que não será usada pode
+sair da lista pelo xis.
+
+25
+00:02:11.140 --> 00:02:13.460
+Remover a opção não exclui produtos do
+catálogo.
+
+26
+00:02:14.100 --> 00:02:16.240
+Feche o painel e confira o resultado final.
+

@@ -1,0 +1,152 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.711
+Uma consignação guarda as peças que a cliente levou para decidir depois. Selecione Clara e o tipo Consignação. Adicione a peça M e confira que ela entrou no carrinho antes de bipar a próxima.
+
+00:00:11.931 --> 00:00:22.948
+Adicione a G. Confira duas linhas, quantidades e preços. Esses preços ficarão registrados no documento e serão preservados quando suas peças forem transformadas em venda.
+
+00:00:23.168 --> 00:00:34.749
+Abra o fechamento. Em vez de pagamentos, este tipo de documento pede cliente e prazo futuro. Informe até quando as peças ficarão reservadas. Criar a consignação ainda não é fechar uma venda.
+
+00:00:34.969 --> 00:00:46.925
+Revise cliente, peças e prazo. A mensagem diferencia o documento de uma venda fechada. A reserva diminui a disponibilidade das peças para outros atendimentos, sem criar o pagamento final.
+
+00:00:47.145 --> 00:00:59.066
+Volte para corrigir o prazo, reabra o fechamento e informe a data combinada. A alteração ainda pertence ao rascunho. Confira antes de criar o documento que será usado no atendimento posterior.
+
+00:00:59.286 --> 00:01:09.468
+Confirme. O carrinho é liberado, e a consignação passa a existir com seu número. Vamos retomá-la para acrescentar uma peça, vender parte e tratar o saldo restante.
+
+00:01:09.688 --> 00:01:23.020
+Criamos um documento separado para Denise com prazo curto, apenas para demonstrar o vencimento durante o treinamento. Na operação, o prazo deve refletir o combinado com a cliente, não a duração de uma gravação.
+
+00:01:23.240 --> 00:01:35.574
+Informe o prazo futuro mostrado. Enquanto ele estiver válido, as peças podem ser vendidas. Depois do vencimento, a interface oferece encerrar o prazo antes de uma nova decisão sobre o documento.
+
+00:01:35.794 --> 00:01:46.341
+Confirme a consignação de Denise. Ela permanece independente da consignação de Clara. Os nomes e números ajudam a escolher a origem correta ao buscar documentos depois.
+
+00:01:46.561 --> 00:02:00.320
+Pré-venda também cria um documento com reserva, cliente e prazo. Selecione esse tipo e prepare uma G para Clara. Usaremos este registro alternativo para mostrar o cancelamento do saldo sem afetar a consignação principal.
+
+00:02:00.540 --> 00:02:10.837
+Defina o prazo da pré-venda e confira os dados. A modalidade tem seu próprio nome no documento, mas ainda não representa uma venda final nem o recebimento de pagamento.
+
+00:02:11.057 --> 00:02:23.921
+Confirme a pré-venda. Agora temos três documentos com finalidades distintas: consignação principal, exemplo com prazo curto e pré-venda alternativa. Vamos usar a busca para tratar cada um pelo seu número.
+
+00:02:24.141 --> 00:02:34.897
+Retomar condicional abre uma busca por cliente sobre o atendimento. Use o nome para localizar o documento correto. A consulta não cria venda nem muda os preços registrados.
+
+00:02:35.117 --> 00:02:47.309
+Procure um nome inexistente para reconhecer a ausência de resultados. Corrija a busca antes de concluir que a cliente não possui documento. O nome pode estar escrito de outra forma no cadastro.
+
+00:02:47.529 --> 00:02:58.782
+Busque Clara e compare o tipo, o número, o prazo e o valor de cada documento. A consignação principal e a pré-venda alternativa pertencem à mesma cliente, mas são registros separados.
+
+00:02:59.002 --> 00:03:10.807
+Na pré-venda alternativa, use Cancelar saldo. Feche a consulta para ler a revisão na área de atendimento. Ela informa que as reservas serão liberadas e que vendas já realizadas seriam preservadas.
+
+00:03:11.027 --> 00:03:22.009
+Voltar interrompe a revisão. Use esse caminho se escolheu o documento errado ou precisa confirmar a decisão. A reserva continua existindo até a confirmação da liberação.
+
+00:03:22.229 --> 00:03:33.467
+Reabra a busca, escolha a pré-venda correta e confirme. O saldo reservado é liberado. Cancelar este documento não cancela a consignação principal nem cria uma venda de devolução.
+
+00:03:33.687 --> 00:03:46.031
+Agora reabra a consignação principal. As peças voltam ao atendimento com os preços e reservas do documento. Isso permite acrescentar uma nova peça no mesmo papel, sem recriar as linhas antigas.
+
+00:03:46.251 --> 00:03:58.548
+Confira os valores registrados nas linhas antigas e adicione a variante sem tamanho especificado. A nova peça será anexada ao documento existente; as reservas anteriores não devem ser duplicadas.
+
+00:03:58.768 --> 00:04:10.702
+Abra o fechamento e revise a atualização. O botão agora diz Salvar no mesmo papel, indicando que estamos acrescentando uma peça à consignação reaberta, sem criar outro número de documento.
+
+00:04:10.922 --> 00:04:20.159
+Confirme e aguarde a mensagem de atualização. O carrinho é liberado. A consignação principal conserva seu número e passa a incluir a nova peça.
+
+00:04:20.379 --> 00:04:32.924
+Retome a consulta e abra o detalhe das peças. Confira três linhas, preços, local e estado das reservas. Esses estados ajudam a distinguir o que ainda está com a cliente do que já foi vendido ou liberado.
+
+00:04:33.144 --> 00:04:44.292
+Feche a consulta. O documento continua salvo. Em seguida, vamos vender uma peça da consignação e tratar o saldo restante, conferindo as reservas sem confundir liberação com venda.
+
+00:04:44.512 --> 00:04:57.515
+Retome a consignação principal e abra suas peças. Vender peça na linha M abre automaticamente o fechamento à frente da consulta. Apenas esta reserva foi carregada; as outras peças continuam no documento.
+
+00:04:57.735 --> 00:05:11.350
+Confira o preço de sessenta e quatro e noventa preservado no documento. Escolha dinheiro e use o total. A reserva e a saída de estoque serão confirmadas juntas; carregar a peça no fechamento ainda não conclui a venda.
+
+00:05:11.570 --> 00:05:21.741
+Revise a cliente, a peça e o pagamento. O vínculo com a reserva impede tratar a venda como uma saída independente e depois liberar a mesma quantidade por engano.
+
+00:05:21.961 --> 00:05:32.236
+Confirme e aguarde o comprovante. Uma peça virou venda. Isso não encerra automaticamente as outras reservas da consignação; vamos conferir o saldo no documento.
+
+00:05:32.456 --> 00:05:44.459
+Abra o documento novamente e confira os estados. A M está ligada à venda realizada; G e a variante sem tamanho continuam reservadas. O detalhe mostra qual parte foi atendida sem apagar a origem.
+
+00:05:44.679 --> 00:05:56.921
+Se a cliente trouxe de volta o que não comprou, use Devolveu saldo. A revisão libera as reservas restantes. A venda da M permanece registrada, pois liberar o saldo não desfaz uma venda já concluída.
+
+00:05:57.141 --> 00:06:09.418
+Volte se precisar conferir as peças recebidas fisicamente. Não libere uma reserva apenas para ajustar um número: a decisão deve corresponder ao retorno ou encerramento combinado com a cliente.
+
+00:06:09.638 --> 00:06:21.688
+Reabra a revisão e confirme a liberação. O documento fica encerrado, conservando os registros das peças e da venda anterior. O saldo liberado volta a ficar disponível para outros atendimentos.
+
+00:06:21.908 --> 00:06:35.758
+Um documento encerrado elegível pode ser reaberto, respeitando o saldo atual. Neste exemplo o prazo ainda é futuro. As peças não vendidas voltam ao atendimento com seus preços registrados; a M já vendida não é repetida.
+
+00:06:35.978 --> 00:06:47.394
+Limpe o atendimento e retome o documento para escolher Vender saldo. Esse comando carrega todas as peças ainda reservadas. É diferente de Vender peça, que seleciona apenas uma linha.
+
+00:06:47.614 --> 00:06:59.266
+Confira duas peças, G e a variante sem tamanho, somando cento e quatorze e oitenta. Os preços vêm do documento. Escolha o pagamento e confira o total antes de atender as reservas restantes.
+
+00:06:59.486 --> 00:07:09.717
+Revise e confirme a venda do saldo. As reservas restantes passam a atendidas. O documento mantém a história da venda parcial anterior e da conclusão do restante.
+
+00:07:09.937 --> 00:07:23.033
+Confira que não há peça ativa para vender de novo. Os comandos dependem do estado real; um documento totalmente atendido não deve oferecer outra venda do mesmo saldo. O histórico das peças continua disponível.
+
+00:07:23.253 --> 00:07:33.714
+Feche a consulta. Agora veremos o documento que venceu e a pesquisa pelo código da peça, incluindo a nova validade necessária para reabrir um encerramento vencido.
+
+00:07:33.934 --> 00:07:47.022
+Condicionais guardados pesquisa pelo código da peça. Esse caminho ajuda quando você tem a etiqueta na mão e precisa localizar de quem é o documento. Confira também o número, a cliente e o estado dos resultados.
+
+00:07:47.242 --> 00:07:57.624
+Uma busca sem correspondência mantém a lista vazia. Confira se digitou o código completo. Encontrar ou não um documento não deve ser confundido com alterar uma reserva.
+
+00:07:57.844 --> 00:08:09.765
+Busque HZ G e compare os resultados. A mesma peça pode aparecer em documentos diferentes. Os estados distinguem saldo ativo, documento encerrado e peças que já foram atendidas por venda.
+
+00:08:09.985 --> 00:08:22.696
+Feche a busca por peça e procure Denise. O prazo curto do exemplo já terminou. A tela marca Vencida e oferece encerrar o prazo; não presume uma venda nem uma devolução física apenas pela passagem do tempo.
+
+00:08:22.916 --> 00:08:33.282
+Use Encerrar vencida e feche a consulta para ler a revisão. Ela libera as peças que ainda estavam reservadas. Confira a origem antes de registrar o encerramento.
+
+00:08:33.502 --> 00:08:45.191
+Voltar permite conferir o documento antes de liberar a reserva. Na operação, verifique também a situação real das peças com a cliente; a data do sistema não substitui essa conferência.
+
+00:08:45.411 --> 00:08:55.664
+Confirme o encerramento. A reserva é liberada e o histórico do documento permanece. Reabrir depois desse prazo exige uma nova validade futura e saldo disponível.
+
+00:08:55.884 --> 00:09:08.655
+Procure o documento encerrado e informe uma nova validade futura. O campo aparece porque o prazo anterior venceu. A data precisa representar um novo combinado; não apenas esconder o estado de vencido.
+
+00:09:08.875 --> 00:09:20.340
+Reabra. O aplicativo verifica as condições atuais e carrega a peça no atendimento. O documento mantém a origem e passa a usar a nova validade. Reabrir não cria automaticamente uma venda.
+
+00:09:20.560 --> 00:09:33.165
+Confira a nova validade no fechamento do documento reaberto. Para salvar uma ampliação no mesmo papel seria necessário acrescentar uma peça nova, como já fizemos. Aqui apenas conferimos a reabertura.
+
+00:09:33.385 --> 00:09:45.496
+Saia e limpe o atendimento com Novo. Esse gesto remove o rascunho do balcão, mas não equivale a cancelar o documento persistido. Para liberar sua reserva, precisamos tratar o saldo na consulta.
+
+00:09:45.716 --> 00:09:59.359
+Cancele o saldo do exemplo reaberto e confirme. O documento conserva seu histórico e a reserva fica liberada. As ações de buscar, reabrir, vender e encerrar têm efeitos distintos, sempre ligados ao documento escolhido.
+

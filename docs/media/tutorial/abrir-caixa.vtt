@@ -1,0 +1,294 @@
+WEBVTT
+
+1
+00:00:02.830 --> 00:00:05.080
+Volte ao balcão e abra a tarefa de caixa.
+
+2
+00:00:06.040 --> 00:00:09.720
+A sessão identifica o terminal e o dinheiro
+inicial da operação.
+
+3
+00:00:10.040 --> 00:00:12.580
+Ela não depende de preparar outra entrada
+de mercadoria.
+
+4
+00:00:13.700 --> 00:00:18.020
+Antes de vender em dinheiro, confira se
+você está no caixa correto e se há uma
+sessão aberta.
+
+5
+00:00:18.930 --> 00:00:22.180
+Selecione a filial e informe CAIXA-DEMO-01
+como terminal.
+
+6
+00:00:22.900 --> 00:00:24.960
+Esse nome identifica a estação de
+atendimento.
+
+7
+00:00:25.500 --> 00:00:27.580
+Na loja, use o terminal definido pela
+equipe.
+
+8
+00:00:28.760 --> 00:00:31.420
+Evite abrir sessões com nomes diferentes
+por engano,
+
+9
+00:00:31.960 --> 00:00:35.720
+porque vendas e movimentos ficam vinculados
+ao contexto de caixa escolhido.
+
+10
+00:00:36.673 --> 00:00:40.773
+Informe cem reais como primeiro rascunho de
+abertura e clique em Revisar abertura.
+
+11
+00:00:41.653 --> 00:00:45.593
+A revisão mostra terminal e fundo inicial.
+Ainda não abrimos a sessão.
+
+12
+00:00:46.573 --> 00:00:52.273
+O valor deve representar o dinheiro
+disponível para iniciar o atendimento,
+conferido fisicamente pelo operador.
+
+13
+00:00:53.423 --> 00:00:56.173
+Use Voltar e corrigir e ajuste para cento e
+cinquenta reais.
+
+14
+00:00:57.113 --> 00:01:00.033
+Esse exemplo mostra a correção antes de
+efetivar a abertura.
+
+15
+00:01:00.873 --> 00:01:02.513
+Voltar encerra a revisão pendente;
+
+16
+00:01:03.253 --> 00:01:04.793
+não cria nem fecha uma sessão.
+
+17
+00:01:05.333 --> 00:01:07.653
+Confira novamente o valor contado antes de
+enviar.
+
+18
+00:01:08.663 --> 00:01:12.833
+Abra a revisão corrigida. Reconheça CAIXA-
+DEMO-01 e cento e cinquenta reais.
+
+19
+00:01:13.833 --> 00:01:19.853
+A confirmação nominal ajuda a distinguir
+uma abertura de uma entrada de mercadoria
+ou de um recebimento financeiro.
+
+20
+00:01:20.853 --> 00:01:23.833
+Cada ação tem uma finalidade própria na
+operação da loja.
+
+21
+00:01:24.773 --> 00:01:27.013
+Clique em Abrir caixa e aguarde o estado
+aberto.
+
+22
+00:01:27.553 --> 00:01:32.733
+A interface retorna automaticamente à
+tarefa Vender, com a sessão CAIXA-DEMO-01
+ativa.
+
+23
+00:01:33.693 --> 00:01:35.893
+A abertura ficou registrada com cento e
+cinquenta reais.
+
+24
+00:01:36.673 --> 00:01:41.773
+Para consultar a faixa operacional e
+movimentar dinheiro, voltaremos ao painel
+de caixa.
+
+25
+00:01:45.850 --> 00:01:48.920
+Depois da abertura, o balcão retorna
+automaticamente a Vender.
+
+26
+00:01:49.820 --> 00:01:54.500
+Para conferir a sessão e registrar
+suprimento ou sangria, abra a tarefa Fechar
+caixa.
+
+27
+00:01:55.020 --> 00:01:56.700
+O nome indica o acesso ao painel;
+
+28
+00:01:57.280 --> 00:02:01.260
+entrar nele não encerra a sessão sem a
+confirmação específica do fechamento.
+
+29
+00:02:02.173 --> 00:02:05.993
+Em Adicionar dinheiro, informe cinquenta
+reais e o motivo do reforço para troco.
+
+30
+00:02:06.653 --> 00:02:07.913
+Clique em Revisar entrada.
+
+31
+00:02:09.113 --> 00:02:11.073
+Este suprimento aumenta o dinheiro da
+sessão;
+
+32
+00:02:11.413 --> 00:02:17.653
+não é uma venda e não deve ser usado para
+registrar o pagamento de um cliente sem
+vínculo com a operação correta.
+
+33
+00:02:18.503 --> 00:02:23.233
+Confirme a entrada de cinquenta reais. O
+movimento fica associado ao caixa aberto.
+
+34
+00:02:23.233 --> 00:02:28.733
+Confira o resultado antes de repetir a
+ação: um clique enviado novamente com
+
+35
+00:02:28.733 --> 00:02:33.053
+outra intenção pode representar outro
+movimento, e o histórico é o lugar para
+
+36
+00:02:33.053 --> 00:02:35.033
+reconhecer o que já foi registrado.
+
+37
+00:02:35.940 --> 00:02:40.540
+Leia Suprimentos e sangrias. A tabela
+mostra tipo, valor, motivo, ator e horário.
+
+38
+00:02:40.860 --> 00:02:44.440
+Essa trilha explica entradas e retiradas do
+caixa fora das vendas.
+
+39
+00:02:44.880 --> 00:02:49.660
+Ela complementa a abertura e os
+recebimentos, ajudando a conferir a sessão
+posteriormente.
+
+40
+00:02:50.663 --> 00:02:54.813
+Em Retirar dinheiro, prepare vinte reais
+com o motivo de recolhimento ao cofre.
+
+41
+00:02:55.453 --> 00:02:57.753
+Revisar retirada abre a confirmação da
+sangria.
+
+42
+00:02:58.753 --> 00:03:01.953
+O texto deve representar o destino ou
+motivo real da retirada;
+
+43
+00:03:02.693 --> 00:03:05.413
+ele ajuda a compreender por que o dinheiro
+deixou a gaveta.
+
+44
+00:03:06.440 --> 00:03:09.220
+Use Voltar e corrigir e ajuste a retirada
+para dez reais.
+
+45
+00:03:09.620 --> 00:03:10.540
+Revise novamente.
+
+46
+00:03:11.400 --> 00:03:13.360
+Assim, o primeiro rascunho não altera o
+caixa.
+
+47
+00:03:14.800 --> 00:03:18.020
+Corrigir antes de confirmar é preferível a
+registrar uma quantia errada
+
+48
+00:03:18.020 --> 00:03:21.520
+e precisar de outro movimento para explicar
+a diferença depois.
+
+49
+00:03:22.707 --> 00:03:36.347
+Confirme a retirada de dez reais. A sangria
+fica registrada com seu motivo. O exemplo
+conserva o suprimento anterior de cinquenta
+e a retirada atual de dez; um movimento não
+apaga o outro. Os valores participarão da
+conferência da sessão.
+
+50
+00:03:37.303 --> 00:03:45.453
+Compare as duas linhas: entrada de
+cinquenta e saída de dez. Os sinais e os
+tipos ajudam a evitar interpretações
+invertidas.
+
+51
+00:03:46.133 --> 00:03:52.463
+A abertura de cento e cinquenta permanece
+separada desses movimentos adicionais,
+vinculada à sessão que continuamos usando.
+
+52
+00:03:53.313 --> 00:04:01.533
+Observe o formulário de contagem cega. O
+valor contado será informado ao fechar, e o
+esperado só será revelado depois da
+confirmação.
+
+53
+00:04:02.273 --> 00:04:09.073
+Não vamos fechar agora, porque as próximas
+cenas precisam do caixa aberto para vendas,
+recebimentos e o fluxo de contingência.
+
+54
+00:04:09.973 --> 00:04:14.353
+Volte a Vender. A sessão permanece aberta
+enquanto você muda de tarefa.
+
+55
+00:04:14.913 --> 00:04:21.333
+Agora podemos identificar uma cliente,
+montar o atendimento e concluir vendas
+usando as mercadorias já recebidas.
+
+56
+00:04:21.793 --> 00:04:25.493
+No fim da história, retomaremos o
+fechamento e a explicação de diferenças.
+

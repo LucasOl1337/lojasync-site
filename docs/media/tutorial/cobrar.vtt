@@ -1,0 +1,56 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.591
+Identifique Clara e abra Cobrar parcela. Essa tarefa registra o pagamento de uma obrigação existente. Ela não cria outra venda. Confira a cliente e as parcelas antes de escolher qual pagamento está sendo informado.
+
+00:00:13.811 --> 00:00:27.899
+Atualize as parcelas e leia o resumo: quantidade em aberto, saldo e próximo vencimento. A lista desta tarefa é da cliente identificada. A carteira completa da loja fica na retaguarda, onde consultaremos o histórico depois.
+
+00:00:28.119 --> 00:00:41.875
+Abra Registrar pagamento na primeira parcela. Confira número, venda e saldo antes de preencher. Parcelas da mesma venda podem ter valores iguais, mas vencimentos distintos; é preciso reconhecer a obrigação correta.
+
+00:00:42.095 --> 00:00:55.851
+Informe a data, dez reais, Pix e a referência fictícia do comprovante. Essa será uma baixa parcial. Valor e meio são informações registradas pelo operador; o aplicativo não consulta o banco para verificar o pagamento.
+
+00:00:56.071 --> 00:01:10.208
+Use Voltar às parcelas para sair do formulário sem registrar. A obrigação continua como estava. Esse caminho permite interromper o rascunho quando você abriu a parcela errada ou precisa conferir o comprovante antes de enviar.
+
+00:01:10.428 --> 00:01:25.830
+Reabra a primeira parcela e confira novamente os dados do pagamento. Não use o valor total se a cliente entregou apenas parte. A referência deve permitir reconhecer este fato depois, especialmente quando houver várias baixas na mesma parcela.
+
+00:01:26.050 --> 00:01:41.267
+Registre os dez reais e aguarde a confirmação. A primeira parcela conserva dez recebidos e dezessete reais e quarenta e cinco centavos pendentes. A segunda parcela permanece independente. Não repita o comprovante para tentar zerar o saldo.
+
+00:01:41.487 --> 00:01:54.585
+Volte a Vender. Cobrar uma parcela e registrar uma venda são operações distintas. A baixa que acabamos de informar pertence ao título existente. Vamos continuar o acompanhamento na carteira da retaguarda.
+
+00:01:54.805 --> 00:02:07.046
+Abra Financeiro e Contas a receber. Esta carteira mostra os títulos da loja, com principal, ajustes, recebido e saldo. A tabela permite acompanhar obrigações além da cliente que estava no balcão.
+
+00:02:07.266 --> 00:02:21.872
+Em Consultar cliente, busque Clara e selecione o resultado. O histórico reúne peças, vendas, vencimentos e pagamentos associados ao cadastro. Isso ajuda a explicar à cliente de onde veio uma obrigação sem inventar outra operação.
+
+00:02:22.092 --> 00:02:37.344
+Atualize a carteira e abra Ver e baixar na primeira parcela. Confira principal, ajustes do pós-venda, recebido e saldo. O pagamento parcial registrado no balcão aparece aqui porque estamos consultando o mesmo título, não uma cópia independente.
+
+00:02:37.564 --> 00:02:51.760
+Atualize o histórico do título e reconheça a referência dos dez reais. O histórico permite confirmar que o pagamento já foi informado. Consulte antes de registrar outra baixa quando houver dúvida sobre uma tentativa anterior.
+
+00:02:51.980 --> 00:03:06.338
+Informe o restante de dezessete e quarenta e cinco, a data e uma nova referência. Escolhemos transferência bancária informada. Este pagamento é distinto dos dez reais anteriores e deve corresponder ao comprovante do complemento.
+
+00:03:06.558 --> 00:03:21.351
+Registre a baixa e aguarde Título recebido. A primeira parcela fica sem saldo, com duas baixas preservadas. A segunda ainda pode continuar aberta. Quitar uma parcela não significa quitar automaticamente todas as obrigações da venda.
+
+00:03:21.571 --> 00:03:34.858
+O botão Título recebido fica indisponível para uma nova baixa normal. Confira as duas referências no histórico. O valor original permanece como base, enquanto os registros explicam como o saldo chegou a zero.
+
+00:03:35.078 --> 00:03:48.035
+Volte à lista e compare as parcelas. A primeira está recebida; a segunda permanece com seu saldo. Essa comparação ajuda a responder quanto falta sem confundir o total da venda com uma parcela já liquidada.
+
+00:03:48.255 --> 00:04:03.907
+Abra Clara no cadastro de Clientes e consulte o histórico agora preenchido. Antes das vendas ele estava vazio. As operações da história aparecem porque foram registradas com esta cliente, permitindo acompanhar o relacionamento pelo próprio cadastro.
+
+00:04:04.127 --> 00:04:19.613
+Confira as vendas e suas referências. Cadastro, carteira e cobrança de balcão são formas de consultar ou operar os mesmos registros, com finalidades diferentes. No próximo capítulo, veremos como o pós-venda trata troca, devolução e cancelamento.
+

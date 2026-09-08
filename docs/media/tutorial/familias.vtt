@@ -1,0 +1,159 @@
+WEBVTT
+
+1
+00:00:00.830 --> 00:00:03.060
+Abra a configuração dentro de Gerenciar
+grades.
+
+2
+00:00:03.960 --> 00:00:06.980
+As famílias agrupam os tamanhos para
+facilitar o preenchimento.
+
+3
+00:00:07.660 --> 00:00:10.520
+Elas não definem sozinhas a sequência dos
+campos do Byte;
+
+4
+00:00:10.960 --> 00:00:13.220
+essa ordem será conferida no próximo
+capítulo.
+
+5
+00:00:14.380 --> 00:00:20.340
+Mais Família cria um grupo. Damos o nome
+Especial demo. No campo de novo tamanho, a
+tecla Enter adiciona
+
+6
+00:00:20.340 --> 00:00:26.940
+TESTE. O botão Adicionar inclui EXTRA. Use
+nomes correspondentes aos tamanhos reais
+que a loja trabalha.
+
+7
+00:00:29.840 --> 00:00:31.620
+O lápis permite renomear um tamanho.
+
+8
+00:00:32.260 --> 00:00:34.320
+Primeiro cancelamos para preservar TESTE.
+
+9
+00:00:35.000 --> 00:00:37.460
+Abrimos novamente, digitamos DEMO e
+salvamos.
+
+10
+00:00:37.720 --> 00:00:40.080
+Confira o nome na lista e na aba de
+preenchimento.
+
+11
+00:00:41.750 --> 00:00:44.820
+As setas de subir e descer mudam a posição
+dentro da família.
+
+12
+00:00:45.600 --> 00:00:48.560
+As setas laterais transferem o tamanho para
+o grupo vizinho.
+
+13
+00:00:49.300 --> 00:00:51.480
+Confira o grupo de destino após cada
+movimento.
+
+14
+00:00:54.950 --> 00:01:18.840
+Também é possível arrastar tamanhos entre
+famílias. Neste gesto, o tamanho dez passou
+da família infantil para adulto. Confira
+sempre o nome e o grupo de destino após
+soltar: o arraste não deve ser aceito sem
+revisar seu resultado. As setas laterais
+que vimos antes permitem ajustar o grupo
+explicitamente. Ao remover a família de
+treinamento, seus tamanhos restantes são
+transferidos para a vizinha.
+
+15
+00:01:20.157 --> 00:01:23.547
+Retiramos DEMO e EXTRA, que não são usados
+em produtos.
+
+16
+00:01:23.547 --> 00:01:28.507
+Já o botão de remoção de P está desativado,
+porque há quantidades salvas nesse tamanho.
+
+17
+00:01:28.507 --> 00:01:33.847
+Para retirar um tamanho usado, primeiro
+revise e zere suas quantidades nos
+produtos.
+
+18
+00:01:33.847 --> 00:01:37.167
+Não apague uma opção necessária para fechar
+uma grade.
+
+19
+00:01:40.480 --> 00:01:48.980
+A ordem exata no ERP define em qual
+sequência a automação encontra os campos de
+tamanho no Byte. É diferente da organização
+visual das famílias.
+
+20
+00:01:49.600 --> 00:01:54.350
+Confirme essa sequência na instalação
+Windows antes de executar qualquer
+cadastro.
+
+21
+00:01:55.213 --> 00:02:02.333
+Como exemplo, salvamos somente P, M e G. O
+painel avisa que existem tamanhos usados
+nos produtos sem posição nessa ordem.
+
+22
+00:02:02.953 --> 00:02:08.053
+Esse aviso pede uma correção; uma grade
+fechar a quantidade não resolve a posição
+dos campos.
+
+23
+00:02:08.973 --> 00:02:14.293
+O texto aceita uma sequência de tamanhos.
+Depois de trocar para M, P e G, Control
+Enter salva.
+
+24
+00:02:14.293 --> 00:02:18.293
+Também podemos arrastar os chips e remover
+uma posição pelo xis.
+
+25
+00:02:18.293 --> 00:02:21.693
+Cada mudança deve manter a correspondência
+com o Byte real.
+
+26
+00:02:26.373 --> 00:02:30.973
+Usar ordem das famílias oferece um ponto de
+partida que volta a incluir os tamanhos do
+catálogo.
+
+27
+00:02:32.033 --> 00:02:34.533
+Confira o indicador de paridade e toda a
+sequência.
+
+28
+00:02:35.253 --> 00:02:40.873
+Isso organiza a configuração, mas não
+calibra coordenadas e não prova que a
+automação está pronta no Windows.
+

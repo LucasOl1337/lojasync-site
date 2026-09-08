@@ -1,0 +1,178 @@
+WEBVTT
+
+1
+00:00:00.850 --> 00:00:03.200
+Clique em Ordenar para montar uma nova
+sequência.
+
+2
+00:00:04.100 --> 00:00:07.100
+Priorizar coloca a bermuda na primeira
+posição escolhida.
+
+3
+00:00:07.540 --> 00:00:11.700
+Você também pode focar uma linha e
+pressionar Enter para incluí-la na ordem.
+
+4
+00:00:22.130 --> 00:00:25.700
+Shift e Enter retiram a linha das
+prioridades, sem excluir o produto.
+
+5
+00:00:26.520 --> 00:00:29.100
+As setas movem um item priorizado para cima
+ou para baixo.
+
+6
+00:00:29.920 --> 00:00:31.920
+Salvar ordem aplica a sequência à lista.
+
+7
+00:00:43.330 --> 00:00:46.440
+Ao entrar novamente, podemos escolher outra
+prioridade e cancelar.
+
+8
+00:00:47.060 --> 00:00:50.200
+O rascunho é descartado e a ordem salva
+permanece.
+
+9
+00:00:55.530 --> 00:01:05.100
+Para usar o mouse, entre em Ordenar e ative
+Addon: arrastar. Surgem alças nas linhas.
+Arrastamos a camiseta simples para antes da
+bermuda. Confira a posição indicada.
+
+10
+00:01:12.640 --> 00:01:14.520
+Desligamos o arraste e salvamos.
+
+11
+00:01:15.020 --> 00:01:18.100
+A ordem final fica camiseta simples,
+bermuda e camiseta premium.
+
+12
+00:01:18.600 --> 00:01:22.740
+Essa organização altera a sequência do
+catálogo; não muda as quantidades nem os
+preços.
+
+13
+00:01:25.020 --> 00:01:29.340
+Conjuntos combina dois produtos. Clique em
+Conjuntos e selecione o primeiro item.
+
+14
+00:01:30.080 --> 00:01:32.160
+Com uma seleção, ainda podemos cancelar.
+
+15
+00:01:32.780 --> 00:01:36.100
+Ao selecionar o segundo produto, a criação
+acontece automaticamente;
+
+16
+00:01:36.820 --> 00:01:38.780
+não há um botão final de confirmação.
+
+17
+00:01:43.700 --> 00:01:48.180
+Agora selecionamos a camiseta premium, com
+quatro unidades, e a bermuda, com duas.
+
+18
+00:01:48.840 --> 00:01:52.420
+O resultado é um conjunto de duas unidades
+e uma sobra de duas camisetas.
+
+19
+00:01:52.580 --> 00:01:55.520
+Confira nome, códigos, custo e preço do
+conjunto.
+
+20
+00:01:56.520 --> 00:01:59.340
+A quantidade é limitada pelo item que tem
+menos unidades.
+
+21
+00:02:04.480 --> 00:02:10.700
+Vamos recuperar o estado anterior. Nesta
+versão, o primeiro Desfazer repete o
+conjunto. Observe que ele continua na
+tabela.
+
+22
+00:02:11.820 --> 00:02:17.180
+Conferimos o resultado e voltamos mais um
+ponto: agora a bermuda e as quatro
+camisetas retornam.
+
+23
+00:02:18.300 --> 00:02:23.660
+Essa particularidade é de Conjuntos; não
+faça dois cliques automaticamente em
+qualquer edição.
+
+24
+00:02:24.630 --> 00:02:28.000
+Para explicar Juntar iguais, criamos uma
+linha repetida de treinamento.
+
+25
+00:02:28.400 --> 00:02:33.280
+Usamos a camiseta premium como modelo,
+abrimos Novo produto e informamos o mesmo
+código.
+
+26
+00:02:33.920 --> 00:02:36.020
+O nome e o custo são reaproveitados.
+
+27
+00:02:36.660 --> 00:02:38.140
+A nova linha terá uma unidade.
+
+28
+00:02:53.570 --> 00:02:56.560
+Após adicionar, fechamos o formulário e
+buscamos PREMIUM.
+
+29
+00:02:57.180 --> 00:02:58.980
+As duas linhas iguais ficam visíveis.
+
+30
+00:02:59.100 --> 00:03:02.820
+Juntar iguais compara nome, código e custo
+e soma suas quantidades;
+
+31
+00:03:02.940 --> 00:03:05.040
+um nome parecido, sozinho, não basta.
+
+32
+00:03:11.580 --> 00:03:14.440
+O resultado é uma camiseta premium com
+cinco unidades.
+
+33
+00:03:14.960 --> 00:03:19.420
+Limpamos a busca para conferir o catálogo
+completo: três linhas e oito unidades.
+
+34
+00:03:20.380 --> 00:03:25.060
+Ao formar conjuntos com grades ou cores já
+preenchidas, ajuste a composição das
+sobras;
+
+35
+00:03:25.760 --> 00:03:29.060
+o aplicativo bloqueia combinações que a
+tornariam incompatível.
+

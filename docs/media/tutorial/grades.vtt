@@ -1,0 +1,243 @@
+WEBVTT
+
+1
+00:00:00.840 --> 00:00:05.120
+O botão Sem grades se refere às grades
+automáticas pendentes de aplicação.
+
+2
+00:00:05.360 --> 00:00:08.240
+Ele não significa que todos os produtos
+estejam sem tamanhos.
+
+3
+00:00:08.780 --> 00:00:12.800
+No nosso PDF, o leitor local já incorporou
+as composições ao catálogo.
+
+4
+00:00:14.007 --> 00:00:17.087
+Abrimos Gerenciar grades e selecionamos a
+camiseta de algodão.
+
+5
+00:00:17.547 --> 00:00:21.987
+A composição tem quatro peças P e quatro M,
+totalizando oito. Ela já está salva.
+
+6
+00:00:23.067 --> 00:00:24.547
+Confira esses valores com o documento.
+
+7
+00:00:25.450 --> 00:00:31.400
+Quando uma extração produzir grades
+pendentes, a ferramenta Importar grades
+permite aplicá-las depois da conferência.
+
+8
+00:00:32.160 --> 00:00:35.880
+Esse exercício depende de uma extração real
+e de IA configurada.
+
+9
+00:00:36.480 --> 00:00:38.920
+Nesta instalação não há pendência para
+aplicar.
+
+10
+00:00:40.020 --> 00:00:42.940
+Seguimos para o preenchimento manual, sem
+simular esse estado.
+
+11
+00:00:45.353 --> 00:00:48.413
+Gerenciar grades abre os produtos e suas
+composições.
+
+12
+00:00:49.073 --> 00:00:53.373
+À esquerda, confira o nome, o código e a
+soma de tamanhos sobre a quantidade
+esperada.
+
+13
+00:00:54.153 --> 00:00:56.833
+Próxima pendência leva ao próximo item que
+ainda não fecha.
+
+14
+00:00:57.993 --> 00:00:59.773
+Também podemos escolher diretamente uma
+linha.
+
+15
+00:01:00.870 --> 00:01:05.660
+As abas organizam os tamanhos em famílias.
+Veja os números adultos e retorne a Mais
+usadas.
+
+16
+00:01:06.500 --> 00:01:07.860
+Esta camiseta tem uma unidade.
+
+17
+00:01:08.520 --> 00:01:11.060
+Ao digitar duas no tamanho P, criamos
+excesso.
+
+18
+00:01:11.960 --> 00:01:15.460
+Salvar é recusado porque a soma precisa ser
+igual à quantidade do produto.
+
+19
+00:01:21.540 --> 00:01:25.480
+Corrigimos P para uma unidade e salvamos. O
+item fica completo.
+
+20
+00:01:26.200 --> 00:01:30.610
+Salvar mantém o produto selecionado, para
+você conferir o resultado antes de
+prosseguir.
+
+21
+00:01:31.590 --> 00:01:38.660
+Na bermuda, distribuímos uma peça P e uma
+M. Tab passa ao próximo campo. Enter salva
+a composição e procura a próxima pendência.
+
+22
+00:01:39.660 --> 00:01:45.600
+Sempre confira a soma antes de avançar; não
+use esse passo para adivinhar tamanhos
+ausentes no documento.
+
+23
+00:01:50.960 --> 00:01:57.420
+A camiseta premium tem cinco unidades.
+Informamos duas P e três M e usamos Salvar
+e Próxima Pendência.
+
+24
+00:01:57.620 --> 00:02:00.460
+O botão oferece o mesmo fluxo de conferir,
+salvar e seguir.
+
+25
+00:02:05.940 --> 00:02:08.960
+Nos produtos importados, a composição já
+pode estar preenchida.
+
+26
+00:02:09.220 --> 00:02:12.660
+A camiseta de algodão tem P quatro e M
+quatro, fechando oito.
+
+27
+00:02:13.140 --> 00:02:14.780
+O moletom usa a família infantil.
+
+28
+00:02:15.120 --> 00:02:16.540
+Revise esses valores com a nota;
+
+29
+00:02:16.700 --> 00:02:18.920
+abrir o gerenciador não executa nada no
+Byte.
+
+30
+00:02:24.983 --> 00:02:27.033
+Uma edição de grade ainda não salva é um
+rascunho.
+
+31
+00:02:28.033 --> 00:02:33.013
+Ao mudar P de uma para duas peças e tentar
+escolher outro produto, o aplicativo pede
+uma decisão.
+
+32
+00:02:33.873 --> 00:02:37.113
+Cancelar mantém o rascunho aberto para
+continuar a correção.
+
+33
+00:02:42.113 --> 00:02:45.253
+Tentamos trocar novamente e escolhemos
+Descartar e continuar.
+
+34
+00:02:45.893 --> 00:02:48.553
+Voltando à camiseta, P continua com uma
+unidade:
+
+35
+00:02:48.853 --> 00:02:51.933
+o rascunho foi abandonado, sem alterar a
+composição salva.
+
+36
+00:02:55.093 --> 00:02:57.593
+Limpar Grade atua somente no produto
+selecionado.
+
+37
+00:02:58.113 --> 00:03:01.093
+O produto permanece na lista, mas sua
+composição fica vazia.
+
+38
+00:03:01.733 --> 00:03:05.213
+Para recuperar, fechamos o gerenciador e
+usamos Desfazer no catálogo.
+
+39
+00:03:06.133 --> 00:03:08.213
+Ao reabrir, confira se os tamanhos
+voltaram.
+
+40
+00:03:10.873 --> 00:03:12.993
+Limpar Todas as Grades tem alcance maior.
+
+41
+00:03:12.993 --> 00:03:16.493
+A confirmação mostra quantos itens serão
+afetados.
+
+42
+00:03:16.493 --> 00:03:18.313
+Cancelar preserva tudo.
+
+43
+00:03:18.313 --> 00:03:22.503
+Faça essa leitura antes de confirmar, mesmo
+que só uma linha esteja selecionada.
+
+44
+00:03:23.480 --> 00:03:27.080
+Na base fictícia, confirmamos a limpeza das
+vinte e uma composições.
+
+45
+00:03:27.700 --> 00:03:30.720
+Os produtos, códigos e quantidades
+continuam cadastrados.
+
+46
+00:03:31.520 --> 00:03:34.420
+Em seguida, fechamos o painel e desfazemos
+a operação.
+
+47
+00:03:35.120 --> 00:03:37.120
+As composições anteriores retornam;
+
+48
+00:03:37.600 --> 00:03:39.720
+sempre confira o resultado antes de
+prosseguir.
+

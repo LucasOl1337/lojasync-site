@@ -1,0 +1,89 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:15.511
+Contingência guarda um evento na fila local para conciliação posterior. Neste treinamento a conexão está disponível, e escolhemos o modo manualmente para estudar os estados. Prepare uma venda comum, sem reserva vinculada, com a cliente correta.
+
+00:00:15.731 --> 00:00:27.607
+Confira peça, preço, cliente e pagamento. A fila não dispensa a revisão do atendimento. Haver e atendimento de reservas exigem conexão central e não são caminhos desta contingência local.
+
+00:00:27.827 --> 00:00:38.782
+Escolha Contingência e leia a revisão. O aviso diz que o evento ficará pendente até a reconciliação central. Guardar localmente não é uma confirmação de venda no PostgreSQL.
+
+00:00:39.002 --> 00:00:49.999
+Voltar interrompe a revisão antes de criar o evento. Use esse caminho para conferir dados incorretos. A fila só recebe o registro quando a confirmação específica é acionada.
+
+00:00:50.219 --> 00:01:01.556
+Reabra o fechamento e a revisão de contingência. Confira que os dados preservados correspondem ao atendimento que precisa ficar na fila. Não crie outro evento para representar a mesma operação.
+
+00:01:01.776 --> 00:01:13.779
+Guarde na fila local. O carrinho é liberado e o evento aparece como Pendente. Ainda precisamos conciliar para saber se o núcleo central aceitará estoque, pagamentos e demais condições da venda.
+
+00:01:13.999 --> 00:01:26.956
+Abra a fila e reconheça o identificador, o horário e o número de tentativas. Esses dados ajudam a acompanhar o mesmo evento. Pendente não deve ser apresentado como comprovante de uma venda central concluída.
+
+00:01:27.176 --> 00:01:39.746
+O evento continua Pendente, e o comando de conciliação está oculto nesta interface. Esta é uma limitação da versão gravada. A pessoa operadora deve reconhecer a pendência e encaminhá-la ao responsável.
+
+00:01:39.966 --> 00:01:55.602
+Para demonstrar os estados seguintes, a bancada fictícia executa a conciliação pelo serviço real e atualiza a tela. Isso é uma intervenção técnica do treinamento, não um passo normal disponível à operadora. O evento é o mesmo, sem criar outra venda.
+
+00:01:55.822 --> 00:02:08.319
+Depois de atualizar, abra Fila offline para consultar o resultado. O mesmo evento está Conciliado. A consulta pode ficar recolhida quando não há pendência, mas os registros continuam disponíveis.
+
+00:02:08.539 --> 00:02:22.085
+Confira o identificador e o estado, sem criar outro evento. A preparação técnica registrada foi suficiente para conciliar este exemplo. Os próximos casos mostram os comandos de correção visíveis na própria fila.
+
+00:02:22.305 --> 00:02:39.699
+A bancada prepara pelo serviço real um evento fictício com novecentas e noventa e nove peças, acima do saldo, e executa a conciliação técnica. A tela é atualizada para mostrar Divergente. Essa preparação permite estudar os botões visíveis; não é uma sequência normal da operadora.
+
+00:02:39.919 --> 00:02:53.370
+Leia a mensagem e identifique o erro antes de agir. Substituir usa os dados atualmente preparados no formulário de venda. Portanto, primeiro precisamos montar o atendimento correto, sem confirmá-lo como uma nova venda.
+
+00:02:53.590 --> 00:03:05.608
+Identifique a cliente e prepare uma única peça G. Confira o preço de cinquenta e nove e noventa. Este rascunho será usado para corrigir o evento existente, não para criar outra venda paralela.
+
+00:03:05.828 --> 00:03:16.338
+Abra o fechamento, ajuste o pagamento para o total correto e volte sem confirmar. Os dados ficam no formulário para a substituição. Não use o botão de venda normal neste ponto.
+
+00:03:16.558 --> 00:03:26.140
+O pagamento está preenchido. Use Voltar para retornar ao balcão. O carrinho corrigido será a proposta de substituição; ele ainda não é uma nova venda.
+
+00:03:26.360 --> 00:03:37.196
+No evento divergente, clique em Substituir. Leia a revisão: o sistema usará os dados atuais do balcão para reparar este evento, mantendo o vínculo da tentativa original.
+
+00:03:37.416 --> 00:03:45.762
+Se houver qualquer dúvida sobre produto, quantidade ou pagamento, volte e corrija. Nenhuma reparação foi confirmada neste retorno.
+
+00:03:45.982 --> 00:03:56.931
+Com os dados corretos, abra novamente Substituir e confirme Auditar e tentar novamente. O mesmo evento retorna a Pendente; isso ainda não significa que a venda foi conciliada.
+
+00:03:57.151 --> 00:04:05.073
+O rascunho permaneceu no balcão. Use Novo para limpar os campos já enviados à reparação e evitar uma segunda venda por engano.
+
+00:04:05.293 --> 00:04:19.487
+Nesta versão o comando de conciliar não está visível. A bancada executa o serviço real para preparar o resultado. Ao atualizar, confira Conciliado no mesmo evento. Essa intervenção técnica não é uma etapa normal da operadora.
+
+00:04:19.707 --> 00:04:31.324
+Confira o evento e sua divergência antes de dispensar. Esta opção encerra o evento sem gerar venda. Ela não é um atalho para esconder um atendimento que realmente precisa ser registrado.
+
+00:04:31.544 --> 00:04:42.797
+Escolha Dispensar e leia a revisão. O evento será encerrado sem venda central e a decisão ficará na auditoria. Confirme que não se trata de uma venda válida aguardando correção.
+
+00:04:43.017 --> 00:04:53.125
+Voltar deixa o evento como estava. Use essa oportunidade se precisar consultar o atendimento, o pagamento ou a pessoa responsável antes de encerrar a pendência.
+
+00:04:53.345 --> 00:05:03.526
+Confirme a dispensa do exemplo. O estado muda para Dispensado. Nenhuma venda foi criada a partir dele, e a decisão permanece registrada para consulta posterior.
+
+00:05:03.746 --> 00:05:16.372
+Após dispensar, a fila recolhe os detalhes automaticamente. Abra Fila offline novamente e confira Dispensado no evento alternativo. Dispensar encerra a tentativa sem registrar uma venda central.
+
+00:05:16.592 --> 00:05:29.984
+Já o evento corrigido está Conciliado e conserva seu identificador. Compare os estados: um resultou em venda; o outro foi dispensado. Nenhum deles deve ser reenviado como uma nova venda por falta de conferência.
+
+00:05:30.204 --> 00:05:43.691
+Nesta versão, o comando de conciliação não está visível no balcão. O evento permanece Pendente. Não interprete esse estado como venda central concluída; a loja precisa encaminhar a pendência ao suporte responsável.
+
+00:05:43.911 --> 00:05:59.340
+Para estudar Dispensar, a bancada prepara outro evento divergente pelo serviço real. Ele tem identificador próprio e não é o evento que acabamos de corrigir. A preparação técnica fica explícita porque o comando de conciliação está oculto nesta interface.
+

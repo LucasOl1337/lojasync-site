@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.830 --> 00:00:06.800
+A Visão geral reúne o capital no lote, a
+venda projetada, o ganho bruto potencial e
+os produtos revisados.
+
+2
+00:00:07.500 --> 00:00:12.440
+Esses valores vêm do catálogo de
+preparação. A projeção só se realizaria com
+a venda do lote;
+
+3
+00:00:13.440 --> 00:00:16.200
+não representa estoque recebido nem
+faturamento efetivo.
+
+4
+00:00:17.157 --> 00:00:22.917
+Abaixo ficam os totais da sessão e o
+acumulado, além do pulso de atividades e da
+saúde dos serviços.
+
+5
+00:00:23.357 --> 00:00:28.317
+São indicadores operacionais do aplicativo,
+não garantia de que os dados comerciais
+estejam corretos.
+
+6
+00:00:29.097 --> 00:00:34.297
+Neste tema, use Ver publicação e Revisar
+catálogo para seguir às telas de trabalho.
+
+7
+00:00:35.260 --> 00:00:37.240
+Vamos observar uma alteração concreta.
+
+8
+00:00:37.920 --> 00:00:43.920
+Liberamos a edição das células e mudamos o
+custo da camiseta simples de vinte
+
+9
+00:00:44.220 --> 00:00:45.080
+e cinco e cinquenta para vinte e seis e
+cinquenta. Enter confirma.
+
+10
+00:00:45.680 --> 00:00:51.000
+Ao finalizar e voltar à Visão geral, o
+capital e a sugestão de venda refletem a
+mudança.
+
+11
+00:00:54.600 --> 00:00:58.580
+O Histórico registra horário, evento e
+detalhe das ações deste navegador.
+
+12
+00:00:58.580 --> 00:01:03.640
+Esse diário é diferente dos estados do
+catálogo guardados no servidor.
+
+13
+00:01:03.640 --> 00:01:07.000
+Os botões Desfazer e Refazer atuam nesses
+estados,
+
+14
+00:01:07.000 --> 00:01:10.640
+inclusive quando o diário visual é
+diferente em outro dispositivo.
+
+15
+00:01:12.003 --> 00:01:14.743
+Desfazemos a última edição e voltamos ao
+catálogo.
+
+16
+00:01:14.923 --> 00:01:16.883
+O custo retorna a vinte e cinco e
+cinquenta.
+
+17
+00:01:17.823 --> 00:01:20.163
+Essa conferência é o que confirma a
+recuperação;
+
+18
+00:01:20.283 --> 00:01:21.623
+o aviso sozinho não basta.
+
+19
+00:01:22.587 --> 00:01:34.067
+Voltamos ao Histórico, refazemos e
+conferimos novamente. O custo retorna a
+vinte e seis e cinquenta. Os atalhos
+Control Z e Control Shift Z também
+funcionam fora dos campos de texto, como
+vimos anteriormente.
+
+20
+00:01:35.007 --> 00:01:39.647
+Essa recuperação tem um limite: esta versão
+mantém até sete estados de catálogo.
+

@@ -1,0 +1,508 @@
+WEBVTT
+
+1
+00:00:00.850 --> 00:00:03.420
+Vamos cadastrar uma camiseta com dois
+tamanhos.
+
+2
+00:00:03.420 --> 00:00:06.720
+Em Nome do produto, use uma descrição que
+ajude a reconhecer a peça.
+
+3
+00:00:06.720 --> 00:00:08.720
+O nome é comum às variantes;
+
+4
+00:00:08.720 --> 00:00:12.140
+os códigos, tamanhos, cores e preços ficam
+nas linhas abaixo.
+
+5
+00:00:21.200 --> 00:00:25.160
+Abra Cadastrar tamanho ou cor. Escolha o
+tipo Tamanho e escreva M.
+
+6
+00:00:26.040 --> 00:00:29.620
+Cadastrar e usar guarda essa referência e a
+disponibiliza no formulário.
+
+7
+00:00:30.200 --> 00:00:34.340
+Não é preciso criar produtos separados
+apenas para representar tamanhos
+diferentes.
+
+8
+00:00:38.330 --> 00:00:42.520
+Repita o cadastro para G. As referências
+ficam disponíveis para outros produtos.
+
+9
+00:00:43.160 --> 00:00:46.040
+Antes de criar uma nova, confira se o
+tamanho já existe:
+
+10
+00:00:46.680 --> 00:00:51.640
+usar nomes consistentes evita combinações
+parecidas que confundem a escolha no
+balcão.
+
+11
+00:00:55.300 --> 00:01:00.840
+Agora escolha o tipo Cor e informe Azul. A
+lógica é a mesma. O produto ainda está em
+preparação:
+
+12
+00:01:01.520 --> 00:01:05.540
+cadastrar tamanhos e cores não conclui o
+item nem registra uma entrada de estoque.
+
+13
+00:01:12.340 --> 00:01:16.640
+Abra Cadastrar grade nomeada e dê um nome
+fácil de reconhecer, como Adulto Azul DEMO.
+
+14
+00:01:17.560 --> 00:01:20.220
+Uma grade reúne combinações reutilizáveis.
+
+15
+00:01:20.560 --> 00:01:24.380
+Aqui, vamos montar as duas opções que
+realmente existem para esta camiseta.
+
+16
+00:01:26.340 --> 00:01:33.200
+Na primeira combinação, selecione o tamanho
+M e a cor Azul. Use Adicionar combinação
+para incluir a próxima linha.
+
+17
+00:01:33.800 --> 00:01:38.220
+A cor é opcional quando a organização da
+loja não precisa distinguir essa
+característica.
+
+18
+00:01:43.340 --> 00:01:48.320
+Na segunda linha, escolha G e Azul. Cada
+linha deve representar uma combinação
+correta.
+
+19
+00:01:48.440 --> 00:01:51.400
+Se adicionar uma linha a mais, use Remover
+nessa combinação.
+
+20
+00:01:52.720 --> 00:01:55.520
+Confira a sequência completa antes de
+cadastrar a grade.
+
+21
+00:02:01.720 --> 00:02:05.800
+Clique em Cadastrar grade e usar. A grade
+passa a aparecer nas opções do
+
+22
+00:02:05.800 --> 00:02:10.540
+produto. Feche essa seção para voltar às
+variantes. A grade organiza tamanhos e
+
+23
+00:02:10.540 --> 00:02:14.260
+cores; ela não substitui o código próprio
+de cada peça vendável.
+
+24
+00:02:16.280 --> 00:02:20.980
+Na primeira variante, informe HZ-M como
+código interno e selecione M com Azul.
+
+25
+00:02:21.280 --> 00:02:23.520
+A referência HZ-01 identifica o modelo.
+
+26
+00:02:24.020 --> 00:02:25.660
+O código de barras é separado:
+
+27
+00:02:26.100 --> 00:02:30.440
+neste exemplo fictício, usamos DEMO-HZ-M,
+que será encontrado pela busca do balcão.
+
+28
+00:02:35.620 --> 00:02:38.780
+Informe o preço de venda de cinquenta e
+nove reais e noventa centavos.
+
+29
+00:02:39.820 --> 00:02:42.400
+Revise a vírgula e o valor antes de
+continuar.
+
+30
+00:02:42.920 --> 00:02:47.940
+Adicionar variante cria uma nova linha
+dentro do mesmo produto, sem concluir o
+cadastro ainda.
+
+31
+00:02:52.580 --> 00:02:56.080
+Preencha HZ-G na segunda variante e escolha
+G com Azul.
+
+32
+00:02:56.300 --> 00:03:00.400
+Mantenha a referência do modelo e use um
+código de barras diferente, DEMO-HZ-G.
+
+33
+00:03:00.980 --> 00:03:05.660
+Informe o preço dessa variante: ele pode
+ser conferido e alterado individualmente
+depois.
+
+34
+00:03:10.340 --> 00:03:13.760
+Se sobrar uma variante vazia, remova
+somente essa linha antes de salvar.
+
+35
+00:03:14.480 --> 00:03:16.840
+Confira o nome do produto e as duas
+combinações.
+
+36
+00:03:17.900 --> 00:03:21.140
+Remover uma linha neste rascunho corrige o
+cadastro em preparação;
+
+37
+00:03:21.860 --> 00:03:23.500
+não é uma movimentação de estoque.
+
+38
+00:03:30.620 --> 00:03:33.060
+Clique em Cadastrar produto uma única vez e
+aguarde.
+
+39
+00:03:33.660 --> 00:03:35.860
+O sucesso aparece na listagem do catálogo:
+
+40
+00:03:36.200 --> 00:03:39.580
+a camiseta está associada a duas variantes
+e aos seus códigos de barras.
+
+41
+00:03:40.340 --> 00:03:46.120
+Se surgir uma mensagem de erro, leia o
+motivo e corrija o campo indicado antes de
+tentar novamente.
+
+42
+00:03:51.330 --> 00:03:52.660
+O produto está cadastrado.
+
+43
+00:03:52.880 --> 00:03:57.340
+Para conferir ou corrigir os dados salvos,
+use Abrir na linha do catálogo.
+
+44
+00:03:57.740 --> 00:03:59.220
+Vamos fazer isso na próxima etapa.
+
+45
+00:04:09.930 --> 00:04:13.300
+Agora vamos localizar e completar um
+produto já cadastrado.
+
+46
+00:04:14.200 --> 00:04:17.140
+A busca aceita nome, código interno ou
+barra.
+
+47
+00:04:17.140 --> 00:04:23.800
+Se você procurar um termo que não existe,
+confira a mensagem de resultado vazio antes
+de concluir que o cadastro foi perdido.
+
+48
+00:04:31.430 --> 00:04:34.000
+Use Limpar busca para recuperar a lista
+completa.
+
+49
+00:04:34.740 --> 00:04:37.860
+Esse botão retira o filtro; ele não remove
+produtos.
+
+50
+00:04:38.280 --> 00:04:44.860
+Quando a lista estiver grande, prefira
+buscar um código específico da peça para
+reduzir as opções antes de abrir o
+cadastro.
+
+51
+00:04:47.450 --> 00:04:50.600
+Vamos procurar pelo código da variante de
+tamanho M.
+
+52
+00:04:51.260 --> 00:04:55.400
+Mesmo sendo o código de uma variante, o
+resultado traz o produto ao qual ela
+pertence.
+
+53
+00:04:56.080 --> 00:05:00.100
+Confira a descrição e use Abrir na linha
+correta para acessar os dados salvos.
+
+54
+00:05:04.440 --> 00:05:08.180
+O editor separa Produto, Variante e preço,
+e Códigos de barras.
+
+55
+00:05:08.440 --> 00:05:10.240
+Acima aparece a versão carregada.
+
+56
+00:05:11.060 --> 00:05:14.680
+Essa informação ajuda o aplicativo a
+proteger alterações concorrentes:
+
+57
+00:05:15.280 --> 00:05:18.580
+os dados são conferidos novamente pelo
+serviço quando você salva.
+
+58
+00:05:22.380 --> 00:05:25.820
+No bloco Produto, ajuste o nome para
+Camiseta Horizonte Azul DEMO.
+
+59
+00:05:26.180 --> 00:05:29.500
+O Estado oferece rascunho, ativo, inativo e
+descontinuado.
+
+60
+00:05:30.420 --> 00:05:32.900
+Escolha o estado que corresponde à situação
+real do item.
+
+61
+00:05:34.060 --> 00:05:36.880
+Para continuar a operação deste exemplo,
+vamos mantê-lo ativo.
+
+62
+00:05:39.440 --> 00:05:42.240
+Clique em Salvar produto para registrar os
+dados gerais.
+
+63
+00:05:43.360 --> 00:05:45.340
+Confira o nome atualizado no título do
+editor.
+
+64
+00:05:46.100 --> 00:05:49.960
+Alterar o nome do produto não é a mesma
+coisa que alterar o preço de cada variante;
+
+65
+00:05:50.180 --> 00:05:51.840
+esse ajuste fica no bloco ao lado.
+
+66
+00:05:57.430 --> 00:06:13.070
+Selecione HZ-M em Variante. Vamos corrigir
+sua referência para HZ-01-A e o preço para
+sessenta e quatro reais e noventa centavos.
+Confira sempre o código selecionado antes
+de mexer nesses campos, especialmente
+quando tamanhos parecidos têm preços
+diferentes.
+
+67
+00:06:15.440 --> 00:06:22.960
+Clique em Salvar variante e aguarde a
+atualização. Em seguida, selecione HZ-G. O
+preço dela continua cinquenta e nove e
+noventa.
+
+68
+00:06:23.880 --> 00:06:28.480
+Assim você confere que o ajuste foi feito
+na variante escolhida, sem trocar o preço
+da outra.
+
+69
+00:06:32.350 --> 00:06:36.820
+O painel de barras acompanha a variante
+selecionada e indica se cada código está
+ativo.
+
+70
+00:06:37.660 --> 00:06:40.180
+Uma peça pode ter mais de uma barra
+associada.
+
+71
+00:06:40.780 --> 00:06:46.300
+Isso permite reconhecer códigos
+alternativos sem criar um segundo produto
+ou duplicar seu saldo.
+
+72
+00:06:48.440 --> 00:06:54.380
+Em Adicionar outra barra, selecione a
+variante de tamanho G e digite o novo
+código de barras mostrado na tela.
+
+73
+00:06:55.140 --> 00:06:59.760
+Confira a associação antes de cadastrar: a
+barra precisa apontar para a variante
+correta.
+
+74
+00:07:00.680 --> 00:07:05.740
+Usar um código já vinculado de forma
+incompatível pode gerar uma recusa ou
+exigir revisão.
+
+75
+00:07:07.390 --> 00:07:13.620
+Clique em Cadastrar barra. A nova barra
+aparece entre os códigos da variante. O
+catálogo continua com o mesmo produto.
+
+76
+00:07:14.700 --> 00:07:20.000
+Essa operação acrescenta uma forma de
+localizar a peça; ela não representa uma
+entrada de mercadoria.
+
+77
+00:07:26.420 --> 00:07:42.080
+Em Adicionar nova variante, preencha HZ-U.
+Neste exemplo, deixaremos o tamanho sem
+especificação, escolheremos Azul e
+informaremos referência, barra inicial e
+preço. Só deixe tamanho ou cor em branco
+quando essa for a organização correta do
+cadastro da loja.
+
+78
+00:07:49.440 --> 00:07:53.000
+Clique em Adicionar variante e confira HZ-U
+entre as opções do produto.
+
+79
+00:07:53.740 --> 00:07:57.420
+Você completou o cadastro existente sem
+recriar as variantes anteriores.
+
+80
+00:07:58.540 --> 00:08:01.740
+Se o aplicativo informar conflito de
+versão, recarregue o produto,
+
+81
+00:08:02.480 --> 00:08:05.220
+confira os dados atuais e refaça o ajuste
+necessário.
+
+82
+00:08:09.380 --> 00:08:18.700
+Abra as etiquetas de preço. O aplicativo
+gera uma página A4 com os dados reais do
+cadastro e códigos de barras. Confira
+descrição, variante e preço antes de
+imprimir.
+
+83
+00:08:19.840 --> 00:08:24.560
+Aqui mostramos a página; não estamos
+testando uma impressora física ou uma
+etiqueta térmica.
+
+84
+00:08:28.430 --> 00:08:33.600
+Feche a aba de etiquetas para voltar ao
+editor. Depois, use o xis para fechar a
+edição do produto.
+
+85
+00:08:34.660 --> 00:08:41.860
+Os dados salvos permanecem no catálogo;
+fechar o editor apenas encerra essa
+visualização e permite continuar a
+manutenção da lista.
+
+86
+00:08:47.430 --> 00:09:01.210
+Abra Editar grade nomeada e selecione a
+grade criada. O formulário carrega o nome e
+suas combinações. Vamos ajustar apenas o
+nome para Adulto Azul M-G DEMO. Revise as
+combinações existentes antes de salvar uma
+alteração de grade.
+
+87
+00:09:05.430 --> 00:09:07.060
+Clique em Salvar alterações.
+
+88
+00:09:07.620 --> 00:09:10.820
+A grade mantém sua identidade e fica
+disponível com o novo nome.
+
+89
+00:09:11.420 --> 00:09:14.180
+Não é preciso recriar o produto para
+corrigir esse rótulo.
+
+90
+00:09:15.060 --> 00:09:19.180
+Se houver uma mensagem de recusa, preserve
+os dados e confira o motivo indicado.
+
+91
+00:09:25.440 --> 00:09:28.360
+Feche a seção e limpe a pesquisa para
+conferir a lista.
+
+92
+00:09:28.360 --> 00:09:32.120
+Agora o produto tem três variantes e quatro
+barras.
+
+93
+00:09:32.120 --> 00:09:34.060
+O estoque ainda não foi movimentado:
+
+94
+00:09:34.060 --> 00:09:36.280
+o próximo passo será cadastrar os locais
+
+95
+00:09:36.280 --> 00:09:39.050
+e registrar as operações que formam o
+saldo.
+
